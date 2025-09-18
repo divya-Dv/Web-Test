@@ -1,0 +1,57 @@
+{
+  "name": "emnar-pharma-optimizer",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Website optimization and performance monitoring for Emnar Pharma",
+  "scripts": {
+    "optimize": "node js/optimize.js",
+    "serve:optimized": "npx serve optimized -l 8080",
+    "lhci": "npx lhci autorun",
+    "prune-images": "node js/prune-unused-images.js --root optimized",
+    "build": "npm run optimize",
+    "test:performance": "npm run lhci",
+    "optimize:images": "node js/optimize-images.js",
+    "optimize:css": "node js/optimize-css.js",
+    "optimize:js": "node js/optimize-js.js",
+    "add:lazyload": "node js/add-lazyload.js",
+    "generate-lockfile": "node generate-lockfile.js"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "@lhci/cli": "^0.12.0",
+    "@squoosh/cli": "^0.5.0",
+    "cheerio": "^1.0.0-rc.12",
+    "clean-css-cli": "^5.6.0",
+    "cssnano": "^6.0.1",
+    "fs-extra": "^11.1.1",
+    "glob": "^10.2.7",
+    "html-minifier-terser": "^7.0.0",
+    "imagemin": "^8.0.1",
+    "imagemin-mozjpeg": "^9.0.0",
+    "imagemin-pngquant": "^9.0.2",
+    "imagemin-webp": "^7.0.0",
+    "lighthouse": "^10.0.0",
+    "postcss": "^8.4.25",
+    "purgecss": "^5.0.0",
+    "sharp": "^0.32.6",
+    "terser": "^5.18.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=8.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KommineniCharan/emnar.git"
+  },
+  "keywords": [
+    "website-optimization",
+    "performance",
+    "lighthouse",
+    "image-optimization",
+    "css-purge",
+    "minification"
+  ],
+  "author": "Emnar Pharma",
+  "license": "MIT"
+}

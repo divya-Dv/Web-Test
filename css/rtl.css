@@ -1,0 +1,767 @@
+body {
+    direction: rtl;
+    text-align: right
+}
+
+.header-right-link a.main-search {
+    margin: 30px 30px 30px 0;
+    float: left
+}
+
+.logo-bg:after {
+    content: "";
+    position: absolute;
+    left: -100px;
+    top: 0;
+    border-bottom: 100px solid #fd5f16;
+    border-top: 0 solid transparent;
+    border-left: 100px solid transparent;
+    z-index: 10;
+    right: auto
+}
+
+.logo-bg:before {
+    content: "";
+    position: absolute;
+    right: -90px;
+    top: 0;
+    background: #fd5f16;
+    z-index: 10;
+    width: 90px;
+    height: 100%
+}
+
+.header-area.stick .logo-bg:after {
+    border-top: 0 solid transparent;
+    border-bottom: 76px solid #fd5f16
+}
+
+.search-option {
+    right: 67%
+}
+
+.floatleft {
+    float: right
+}
+
+.floatright {
+    float: left
+}
+
+.alignleft {
+    float: right;
+    margin-left: 15px
+}
+
+.alignright {
+    float: left;
+    margin-right: 15px
+}
+
+body {
+    background: #fff none repeat scroll right 0;
+    text-align: right
+}
+
+#scrollUp {
+    background: #000 none repeat scroll right 0;
+    left: 15px
+}
+
+div#preloader {
+    right: 0
+}
+
+.navbar-collapse {
+    padding-right: 0
+}
+
+.section-headline::after {
+    right: 0;
+    left: 0
+}
+
+.section-headline.text-left h3::after {
+    right: 0;
+    left: auto
+}
+
+.parallax-bg:before {
+    right: 0
+}
+
+.left-headline::after {
+    right: 0;
+    left: auto
+}
+
+.sub-headline::after {
+    right: 0
+}
+
+.center-headline h3::after {
+    right: 0;
+    left: 0
+}
+
+.topbar-left ul li a {
+    margin-left: 20px
+}
+
+.topbar-left ul li a i {
+    padding-left: 7px
+}
+
+.quote-button {
+    float: left
+}
+
+.logo-bg:before {
+    right: -90px
+}
+
+.main-menu ul.navbar-nav li {
+    float: right
+}
+
+.main-menu ul.navbar-nav>li>a {
+    background: rgba(0, 0, 0, 0) none repeat scroll right 0
+}
+
+.main-menu ul.navbar-nav>li>a::before {
+    right: 0
+}
+
+.main-menu ul.navbar-nav li.active a {
+    background: rgba(0, 0, 0, 0) none repeat scroll right 0
+}
+
+.navbar-default {
+    background: rgba(0, 0, 0, 0) none repeat scroll right 0
+}
+
+.main-menu ul.nav li ul.sub-menu {
+    right: 0
+}
+
+.navbar.navbar-default {
+    float: left
+}
+
+.search-option {
+    background: #fff none repeat scroll right 0;
+    left: 20px
+}
+
+.search-option input {
+    background: #fff none repeat scroll right 0;
+    float: right
+}
+
+.search-option button.button {
+    float: left
+}
+
+.header-right-link a.main-search {
+    float: left;
+    margin: 30px 10px 30px 0
+}
+
+.header-area.stick {
+    right: 0
+}
+
+.header-area.stick .quote-button {
+    float: left
+}
+
+.header-area.stick .header-right-link a.main-search {
+    margin: 15px 10px 15px 0
+}
+
+.mobile-menu-area {
+    background: #f9f9f9 none repeat scroll right 0
+}
+
+.mean-container .mean-bar::after {
+    right: 5%
+}
+
+.mean-container .mean-nav ul li a {
+    background: #f8f8f8 none repeat scroll right 0;
+    float: right;
+    text-align: right
+}
+
+.intro-content::after {
+    background: rgba(10, 27, 40, .8) none repeat scroll right 0;
+    right: 0
+}
+
+.slider-content {
+    left: 0;
+    text-align: right;
+    right: 0
+}
+
+.ready-btn.right-btn {
+    margin-right: 15px
+}
+
+.well-services::after {
+    right: 0
+}
+
+.about-content h4 ::after {
+    right: 0;
+    left: auto
+}
+
+.single-about {
+    float: right;
+    margin-left: 20px;
+    margin-right: 0
+}
+
+.single-about p {
+    text-align: right
+}
+
+.single-about:nth-child(2n),
+.single-about:nth-child(4n) {
+    margin-left: 0
+}
+
+.single-about a {
+    float: right
+}
+
+.single-about h5 {
+    float: right;
+    padding-right: 10px
+}
+
+.video-inner::after {
+    right: 0;
+    background: rgba(10, 27, 40, .2) none repeat scroll right 0
+}
+
+.video-play.vid-zone {
+    right: 0;
+    left: 0
+}
+
+.video-play.vid-zone i {
+    margin-right: 5px
+}
+
+.services-icon {
+    float: right
+}
+
+.image-layer {
+    right: 0;
+    background: rgba(0, 0, 0, .8) none repeat scroll right 0
+}
+
+.service-btn::after {
+    position: absolute;
+    content: "\f104";
+    font-family: fontAwesome;
+    left: -110px;
+    top: -3px
+}
+
+.single-services:hover .image-layer {
+    right: 0
+}
+
+.counter-inner {
+    padding: 100px 70px 100px 30px
+}
+
+.fun_text:nth-child(3n) {
+    margin-left: 0
+}
+
+.single-awesome-project {
+    float: right
+}
+
+.project-carousel .col-md-4 {
+    padding-right: 0;
+    padding-left: 0
+}
+
+.awesome-img>a::after {
+    right: 0
+}
+
+.add-actions {
+    right: 0
+}
+
+.port-icon {
+    float: left;
+    right: -30px
+}
+
+.project-dec {
+    padding: 20px 0 0 0;
+    right: 30px
+}
+
+.pst-content {
+    padding-right: 10px;
+    float: right
+}
+
+.single-awesome-project:hover .project-dec {
+    right: 40px
+}
+
+.image-scale::after {
+    right: 0
+}
+
+.blog-meta {
+    right: 15px
+}
+
+.blog-btn::after {
+    right: 0
+}
+
+.contact-quote-area .col-md-6 {
+    padding-right: 0;
+    padding-left: 0
+}
+
+.faq-details h4.check-title a {
+    padding: 10px 40px 10px 10px
+}
+
+.panel-body {
+    padding: 15px 45px 0 15px
+}
+
+.faq-details a span.acc-icons::before {
+    right: -56px
+}
+
+.faq-details a.active span.acc-icons::before {
+    right: -56px
+}
+
+.banner-content h4 {
+    float: right
+}
+
+.banner-btn {
+    float: left
+}
+
+.footer-services-link ul.footer-list {
+    float: right
+}
+
+.footer-icons ul li a {
+    margin-left: 5px
+}
+
+.footer-tags li {
+    float: right
+}
+
+.footer-list li a {
+    padding: 3px 20px 3px 0
+}
+
+.footer-list li a::after {
+    left: auto;
+    right: 0;
+    content: "\e879"
+}
+
+.footer-area-bottom {
+    background: #071333 none repeat scroll right 0
+}
+
+.header-two {
+    right: 0
+}
+
+.marker-list li {
+    padding-right: 30px
+}
+
+.marker-list li::after {
+    right: 0
+}
+
+.overview-area.parallax-bg:before {
+    right: 0
+}
+
+.overview-area .col-md-6 {
+    padding-right: 0;
+    padding-left: 0
+}
+
+.view-images {
+    float: right
+}
+
+.view-content {
+    padding-right: 80px
+}
+
+.client-head {
+    text-align: right;
+    margin-right: 10px;
+    padding-right: 20px
+}
+
+.client-head::before {
+    right: 0
+}
+
+.single-client {
+    float: right
+}
+
+.header-area-3 .logo-bg {
+    margin-right: 15px
+}
+
+.header-area-3 .menu-bg {
+    margin-right: -30px;
+    margin-left: -15px
+}
+
+.team-content {
+    right: 0;
+    background: rgba(0, 44, 87, .9) none repeat scroll right 0
+}
+
+.single-member:hover .team-content {
+    background: rgba(0, 44, 87, .99) none repeat scroll right 0
+}
+
+.project-content-4 .col-md-4 {
+    padding-right: 0;
+    padding-left: 0
+}
+
+.sub-head h4::after {
+    right: 0
+}
+
+.header-middle-area .header-info {
+    float: right
+}
+
+.header-middle-area .header-icon {
+    float: right;
+    margin-left: 10px
+}
+
+.header-area-6 .navbar.navbar-default {
+    float: right
+}
+
+.header-area-6 .header-right-link a.main-search {
+    margin: 10px 10px 10px 0
+}
+
+.breadcumb-overlay {
+    background: rgba(10, 27, 40, .6) none repeat scroll right 0;
+    right: 0
+}
+
+.breadcrumb ul li {
+    padding: 0 20px 0 10px
+}
+
+.breadcrumb ul li.home-bread {
+    padding-right: 0
+}
+
+.breadcrumb ul li.home-bread::after {
+    left: -10px;
+    right: auto
+}
+
+.faq-page-area .contact-form input[type="text"],
+.faq-page-area .contact-form input[type="email"] {
+    padding-right: 20px
+}
+
+.contact-inner a i {
+    margin-left: 15px
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"] {
+    padding-right: 20px
+}
+
+.contact-page .contact-btn {
+    float: right
+}
+
+.left-blog ul li a {
+    padding: 10px 25px 10px 0
+}
+
+.left-blog ul li a:before {
+    right: 0
+}
+
+.post-img {
+    float: right;
+    padding-left: 10px
+}
+
+.comments-list-img {
+    float: right;
+    margin-left: 15px
+}
+
+.comments-content-wrap {
+    margin: 0 60px 15px 0
+}
+
+blockquote {
+    border-right: 5px solid #fd5f16
+}
+
+.author-avatar {
+    float: right
+}
+
+.comments-content-wrap span b {
+    margin-left: 5px
+}
+
+span.post-time {
+    margin-left: 5px
+}
+
+li.threaded-comments {
+    margin-right: 50px
+}
+
+.comment-respond input[type=text],
+.comment-respond input[type=email] {
+    padding: 0 10px 0 0
+}
+
+.pagination {
+    padding-right: 0
+}
+
+.pagination>li>a,
+.pagination>li>span {
+    float: right;
+    margin-right: -1px
+}
+
+.pagination>li {
+    margin: 0 0 0 3px
+}
+
+.project-2-column .project-single {
+    float: right
+}
+
+.project-4-column .project-single {
+    float: right
+}
+
+.project-carousel-2.owl-carousel.owl-theme .owl-controls .owl-nav div {
+    background: rgba(0, 0, 0, 0) none repeat scroll right 0
+}
+
+.project-name span {
+    padding-left: 15px
+}
+
+.project-share ul li a {
+    margin-left: 5px
+}
+
+.left-menu ul li.active a {
+    background: #fd5f16 none repeat scroll right 0
+}
+
+.left-menu ul li a {
+    padding: 14px 20px 14px 20px
+}
+
+.left-menu ul li.active a::after,
+.left-menu ul li a:hover::after {
+    left: 10px
+}
+
+.down-btn {
+    text-align: right
+}
+
+.about-btn .down-btn i {
+    padding-left: 10px
+}
+
+.support-text a i {
+    padding-left: 8px
+}
+
+.service-list li {
+    padding-right: 30px
+}
+
+.service-list li::before {
+    right: 0
+}
+
+.single-page-head .service-btn {
+    margin: 20px 0 0 0
+}
+
+.tab-menu ul.nav li a {
+    background: rgba(0, 0, 0, 0) none repeat scroll right 0;
+    margin-left: 5px;
+    margin-right: 0
+}
+
+.event-content.head-team h5 {
+    background: #fd5f16 none repeat scroll right 0
+}
+
+.banner-content.text-left {
+    text-align: right
+}
+
+.client-name {
+    margin-top: 15px;
+    display: inline-block;
+    margin-right: 20px
+}
+
+.left-menu ul li.active a::after,
+.left-menu ul li a:hover::after {
+    left: 10px;
+    right: auto;
+    content: "\e879"
+}
+
+.mean-container a.meanmenu-reveal {
+    float: left
+}
+
+.mean-container .mean-nav ul li a.mean-expand {
+    left: 0;
+    padding: 17px 10px !important;
+    right: auto
+}
+
+@media (min-width:1920px) {
+    .quote-details {
+        padding: 12% 10% 12% 30%
+    }
+
+    .company-faq {
+        padding: 12% 30% 12% 10%
+    }
+
+    .client-details {
+        padding: 12% 30% 12% 10%
+    }
+
+    .company-content {
+        padding: 12% 10% 12% 30%
+    }
+}
+
+@media (min-width:992px) and (max-width:1169px) {
+    .topbar-left ul li a {
+        margin-left: 12px
+    }
+
+    .single-about {
+        margin-left: 10px
+    }
+
+    .single-about h5 {
+        padding-right: 5px
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .header-middle-area .header-info {
+        float: right
+    }
+
+    .top-icon {
+        left: 0;
+        border-radius: 5px 5px 0 0
+    }
+
+    .choose-wrapper {
+        padding: 80px 30px 80px 30px
+    }
+
+    .single-about {
+        margin-left: 10px
+    }
+
+    .single-about h5 {
+        padding-right: 5px
+    }
+
+    .topbar-left ul li a {
+        margin-left: 10px
+    }
+
+    .main-menu ul.nav li ul.sub-menu {
+        right: -50px
+    }
+}
+
+@media (max-width:767px) {
+    .logo {
+        right: 0
+    }
+
+    .ready-btn.right-btn {
+        margin-right: 5px
+    }
+
+    .banner-contact span {
+        margin-left: 6px
+    }
+
+    .banner-contact span i {
+        margin-left: 10px
+    }
+
+    .copyright ul li:first-child {
+        margin-right: 0
+    }
+
+    .texti-name {
+        padding-right: 6px
+    }
+
+    .tab-menu ul.nav li a {
+        margin-left: 0
+    }
+
+    .choose-wrapper {
+        padding: 80px 30px 80px 30px
+    }
+
+    .contact-form.news-form .add-btn {
+        margin-right: 0
+    }
+}
