@@ -1,20 +1,16 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <?php include 'innerpage-toplinks.php' ?>
+    <!--?php include 'innerpage-toplinks.php' ?-->
 
     <!-- End Google Tag Manager -->
     <!-- page title -->
     <title>Orthopedic Surgical Gloves Manufacturers in Hyderabad - VLHS</title>
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+    <meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
     <meta property="og:url" content="https://www.vlhsglove.com/">
-    <meta name="description"
-        content="VLHS is a leading manufacturer of orthopedic surgical gloves in Hyderabad. Trusted by surgeons for sterile, high-performance gloves. " />
+    <meta name="description" content="VLHS is a leading manufacturer of orthopedic surgical gloves in Hyderabad. Trusted by surgeons for sterile, high-performance gloves. ">
 
-    <link rel="canonical" href="https://www.vlhsglove.com/orthopedic-surgical-gloves-manufacturers-in-hyderabad.php" />
+    <link rel="canonical" href="https://www.vlhsglove.com/orthopedic-surgical-gloves-manufacturers-in-hyderabad.php">
     <!--Bootstrap css-->
 
 </head>
@@ -31,7 +27,7 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include_once('innerpage_header.php'); ?>
+    <!--?php include_once('innerpage_header.php'); ?-->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
         <div class="medipath-overlay"></div>
@@ -54,12 +50,12 @@
                                 <!-- Breadcrumb NavXT 6.1.0 -->
                                 <span property="itemListElement" typeof="ListItem">
 
-                            </div>
+                            </span></div>
                         </div>
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
     <!--End Medipath-banner area -->
     <!--start about section -->
     <section class="about section-padding">
@@ -68,8 +64,7 @@
 
                 <div class="col-md-5">
                     <div class="service-nav">
-                        <img src="img/orthopedicgloves-updated.jpg"
-                            alt="Orthopedic Surgical Gloves Manufacturers in Hyderabad" style="width:100%;">
+                        <picture><source srcset="img/320w/orthopedicgloves-updated_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/orthopedicgloves-updated_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/orthopedicgloves-updated_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/orthopedicgloves-updated_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/orthopedicgloves-updated.webp" alt="Orthopedic Surgical Gloves Manufacturers in Hyderabad" style="width:100%;" loading="lazy" decoding="async"></picture>
                     </div>
                 </div>
                 <div class="col-md-7 text_col">
@@ -168,8 +163,7 @@
                             partnership, look to us as the go-to orthopedic surgical glove manufacturers in Hyderabad,
                             which we will see will do so safely, swiftly, and without issue.</p>
 
-                        <p style="margin-top: 15px;"><b>Related Links :</b> <a
-                                href="micro-powder-free-gloves-manufacturer.php">Micro Powder Free Gloves
+                        <p style="margin-top: 15px;"><b>Related Links :</b> <a href="micro-powder-free-gloves-manufacturer.php">Micro Powder Free Gloves
                                 Manufacturer</a>
                         </p>
                         <p><a href="microsurgery-gloves-manufacturer-in-india.php">Microsurgery Gloves Manufacturer In
@@ -177,7 +171,7 @@
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
 
     <!--Scroll-up-->
     <a id="scroll-up"><i class="fa fa-angle-up"></i></a>
@@ -203,8 +197,7 @@
     <!--main js-->
     <script src="assets/js/main.js"></script>
     <script src="js/main.js"></script>
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b"
-        type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
     <!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
 
@@ -230,8 +223,8 @@
 
         });
     </script>
-    <?php include_once('footer.php'); ?>
+    <!--?php include_once('footer.php'); ?-->
 
-</body>
 
-</html>
+
+</body></html>

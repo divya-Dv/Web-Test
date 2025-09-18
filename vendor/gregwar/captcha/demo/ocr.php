@@ -1,4 +1,4 @@
-<?php
+<!--?php
 
 include(__DIR__.'/../CaptchaBuilderInterface.php');
 include(__DIR__.'/../PhraseBuilderInterface.php');
@@ -23,13 +23,13 @@ for ($i=0; $i<$tests; $i++) {
     $captcha = new CaptchaBuilder;
 
     $captcha
-        ->setDistortion(false)
-        ->build()
+        ---><html><head></head><body>setDistortion(false)
+        -&gt;build()
     ;
 
-    if ($captcha->isOCRReadable()) {
+    if ($captcha-&gt;isOCRReadable()) {
         $passed++;
-        $captcha->save("passed$passed.jpg");
+        $captcha-&gt;save("passed$passed.jpg");
         echo "passed at ocr... ";
     } else {
         echo "failed... ";
@@ -40,3 +40,4 @@ for ($i=0; $i<$tests; $i++) {
 
 echo "\n";
 echo "Over, $passed/$tests readed with OCR\n";
+</body></html>

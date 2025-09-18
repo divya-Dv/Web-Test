@@ -1,13 +1,10 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
+    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -73,16 +70,14 @@
     <!-- page title -->
     <title>DR Glove - Latex Surgical Gloves - Powder Free</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description"
-        content="Latex Surgical Gloves – Powder Free Surgical Gloves are well designed for surgeons featuring outstanding fit, comfort, performance. Visit our website." />
-    <meta name="keywords"
-        content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485." />
-    <link rel="canonical" href="https://www.vlhsglove.com/latexsurgicalgloves-powderedfree.php" />
+    <meta name="description" content="Latex Surgical Gloves – Powder Free Surgical Gloves are well designed for surgeons featuring outstanding fit, comfort, performance. Visit our website.">
+    <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485.">
+    <link rel="canonical" href="https://www.vlhsglove.com/latexsurgicalgloves-powderedfree.php">
     <!--Bootstrap css-->
     <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicon/apple-icon-60x60.png">
@@ -98,7 +93,7 @@
     <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 
-    <link href="assets/assets/docs.css" rel="stylesheet">
+    <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
     <link href="assets/css/flag-icon.css" rel="stylesheet">
     <link rel="manifest" href="assets/img/favicon/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -126,7 +121,7 @@
     <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -142,7 +137,7 @@
     <script src="form.js"></script>
 
     <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -230,7 +225,7 @@
     <!-- End Google Tag Manager (noscript) -->
 
     <!--Start Header area-->
-    <?php include_once('innerpage_header.php'); ?>
+    <!--?php include_once('innerpage_header.php'); ?-->
     <!--End header area -->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
@@ -244,8 +239,7 @@
                             <h1 class="entry-title">Latex Surgical Gloves – Powder Free</h1>
                             <div class="nx-breadcrumb"><!-- Breadcrumb NavXT 6.1.0 -->
                                 <span property="itemListElement" typeof="ListItem">
-                                    <a property="item" typeof="WebPage" title="Go to Dr. Glove."
-                                        href="http://www.vlhsglove.com" class="home">
+                                    <a property="item" typeof="WebPage" title="Go to Dr. Glove." href="http://www.vlhsglove.com" class="home">
                                         <span property="name">Dr. Glove</span></a>
                                     <meta property="position" content="1">
                                 </span> &gt; <span property="itemListElement" typeof="ListItem">
@@ -281,10 +275,10 @@
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/powderfree.jpg" alt="" style="width:100%;">
+                                    <picture><source srcset="img/320w/powderfree_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/powderfree_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/powderfree_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/powderfree_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/powderfree.webp" alt="" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <div class="item">
-                                    <img src="img/powderfree1.jpeg" alt="" style="width:100%;">
+                                    <picture><source srcset="img/320w/powderfree1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/powderfree1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/powderfree1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/powderfree1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/powderfree1.webp" alt="" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <!-- Left and right controls -->
                                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -325,12 +319,12 @@
                         <h3 class="color">QUALITY STANDARDS</h3>
                         <ul class="list">
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> EN 455-1,
-                                EN 455-2, EN 455-3, & EN 455-4</li>
+                                EN 455-2, EN 455-3, &amp; EN 455-4</li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> IS 13422,
-                                ASTM D 3577, & ISO 10282 </li>
+                                ASTM D 3577, &amp; ISO 10282 </li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> EN ISO 374
-                                Parts 1,2,4 & 5, EN 16523, EN ISO 21420, EN ISO 15223-1, EN ISO 11135, EN ISO
-                                11137-1, EN ISO 11737-1 & 2, EN ISO 11138-2</li>
+                                Parts 1,2,4 &amp; 5, EN 16523, EN ISO 21420, EN ISO 15223-1, EN ISO 11135, EN ISO
+                                11137-1, EN ISO 11737-1 &amp; 2, EN ISO 11138-2</li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> CE Mark -
                                 MDR 2017/745 Class IIa Device. </li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> Indian
@@ -354,10 +348,8 @@
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> Factory
                                 Standard of 0.65/1.5 AQL for Pinholes or as per the customer requirements.</li>
                         </ul><br>
-                        <a href="img/IFU-LSG PF_Vijayalakshmi Gloves.pdf" target="_blank"
-                            class="view_doc_btn">Instructions for Use</a>
-                        <a href="img/VLHS-Surgical-Product-Catalogue-PowderFree.pdf" target="_blank"
-                            class="view_doc_btn">Product Catalogue</a>
+                        <a href="img/IFU-LSG PF_Vijayalakshmi Gloves.pdf" target="_blank" class="view_doc_btn">Instructions for Use</a>
+                        <a href="img/VLHS-Surgical-Product-Catalogue-PowderFree.pdf" target="_blank" class="view_doc_btn">Product Catalogue</a>
                     </div>
                 </div>
             </div>
@@ -461,8 +453,7 @@
                                         <table class="table-list">
                                             <tbody>
                                                 <tr>
-                                                    <td style="background-color: #0095da; color: #fff;" colspan="2"
-                                                        scope="col"><strong style="color: #fff;">Dimension
+                                                    <td style="background-color: #0095da; color: #fff;" colspan="2" scope="col"><strong style="color: #fff;">Dimension
                                                             Properties</strong></td>
                                                     <td style="background-color: #0095da; color: #fff;" scope="col">
                                                         <strong style="color: #fff;">Dr.Glove Specification</strong>
@@ -479,8 +470,7 @@
                                                     <td style="text-align: center;">Min 265</td>
                                                 </tr>
                                                 <tr>
-                                                    <th style="text-align: center;" rowspan="8" scope="row"
-                                                        align="left">Width (mm)</th>
+                                                    <th style="text-align: center;" rowspan="8" scope="row" align="left">Width (mm)</th>
                                                 </tr>
                                                 <tr>
                                                     <td style="text-align: center;" scope="row">6</td>
@@ -540,8 +530,7 @@
                                         <table class="table-list">
                                             <tbody>
                                                 <tr>
-                                                    <th style="background-color: #0095da; color: #fff;" colspan="2"
-                                                        scope="col">Physical Properties</th>
+                                                    <th style="background-color: #0095da; color: #fff;" colspan="2" scope="col">Physical Properties</th>
                                                     <th style="background-color: #0095da; color: #fff;" scope="col">
                                                         Dr.Glove Specification</th>
                                                     <th style="background-color: #0095da; color: #fff;" scope="col">ASTM
@@ -612,27 +601,24 @@
                                 <div class="row">
                                     <div class="form-group">
                                         <label for="email"> Phone:</label>
-                                        <input type="tel" class="form-control" id="phone" name="phone" required
-                                            maxlength="50">
+                                        <input type="tel" class="form-control" id="phone" name="phone" required="" maxlength="50">
                                     </div>
                                 </div>
                                 <div class="row">
             <div class="form-group">
                 <label for="city"> City:</label>
-                <input type="text" class="form-control" id="city" name="city" required>
+                <input type="text" class="form-control" id="city" name="city" required="">
                     </div>
         </div>
                                 <div class="row">
                                     <div class="form-group">
                                         <label for="name"> Message:</label>
-                                        <textarea class="form-control" type="textarea" id="message" name="message"
-                                            placeholder="Your Message Here" maxlength="6000" rows="7"></textarea>
+                                        <textarea class="form-control" type="textarea" id="message" name="message" placeholder="Your Message Here" maxlength="6000" rows="7"></textarea>
                                     </div>
                                 </div>
                                 <div class="row">
                                     <div class="form-group">
-                                        <button type="submit" class="btn btn-lg btn-success btn-block"
-                                            id="btnContactUs">Post It! </button>
+                                        <button type="submit" class="btn btn-lg btn-success btn-block" id="btnContactUs">Post It! </button>
                                     </div>
                                 </div>
                                 <input type="hidden" id="token3" name="token">
@@ -650,8 +636,7 @@
                             <!-- Quick Enquiry End -->
 
                         </div>
-                        <div class="at-below-post-page addthis_tool"
-                            data-url="http://www.vlhsglove.com/latex-surgical-gloves-powdered-free/"></div>
+                        <div class="at-below-post-page addthis_tool" data-url="http://www.vlhsglove.com/latex-surgical-gloves-powdered-free/"></div>
                         <!-- AddThis Share Buttons generic via filter on the_content -->
                     </div><!-- .entry-content -->
 
@@ -695,7 +680,7 @@
     <!--main js-->
     <script src="assets\js\main.js"></script>
 
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
 
     <script type="text/javascript">
         $('.translation-links a').on('click', function() {
@@ -731,8 +716,8 @@
             });
         });
     </script>
-    <?php include_once('footer.php'); ?>
+    <!--?php include_once('footer.php'); ?-->
 
-</body>
 
-</html>
+
+</body></html>

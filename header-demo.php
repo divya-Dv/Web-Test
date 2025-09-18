@@ -1,4 +1,4 @@
-<header class="header-one">
+<html><head></head><body><header class="header-one">
             <!-- Start top bar -->
             <div class="topbar-area fix hidden-xs">
                 <div class="container">
@@ -30,7 +30,7 @@
                             <div class="logo">
                                 <!-- Brand -->
                                 <a class="navbar-brand page-scroll sticky-logo" href="index.php">
-                                    <img src="img/logo.png" alt="Logo"><hr>
+                                    <picture><source srcset="img/320w/logo_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/logo_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/logo_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/logo_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/logo.webp" alt="Logo" loading="lazy" decoding="async"></picture><hr>
     <p style="
     font-size: 13px;
     color: #000;
@@ -99,7 +99,7 @@
                         <div class="col-md-12">
                             <div class="mobile-menu">
                                 <div class="logo">
-                                    <a href="index.php"><img src="img/logo.png" alt="Logo" /></a>
+                                    <a href="index.php"><picture><source srcset="img/320w/logo_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/logo_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/logo_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/logo_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/logo.webp" alt="Logo" loading="lazy" decoding="async"></picture></a>
                                 </div>
                                 <nav id="dropdown">
                                     <ul>
@@ -143,4 +143,4 @@
             </div>
             <!-- mobile-menu-area end -->		
         </header>
-        <!-- header end -->
+        <!-- header end --></body></html>

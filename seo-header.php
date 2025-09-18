@@ -1,5 +1,4 @@
-
-      <section class="header-top">
+<html><head></head><body><section class="header-top">
             <div class="container">
 <div id="google_translate_element" style="display:none;"></div>
 <script type="text/javascript">
@@ -41,7 +40,7 @@ function googleTranslateElementInit() {
                     <div class="row">
                         <div class="col-md-2 col-sm-2 col-xs-3" style="padding:unset">
                             <div class="logo">
-                                <a href="index.php"><img src="../assets/img/logo.png" alt="VLHS Glove" style="height:45px"></a>
+                                <a href="index.php"><picture><source srcset="../assets/img/320w/logo_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../assets/img/640w/logo_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../assets/img/1024w/logo_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../assets/img/1920w/logo_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../assets/img/logo.webp" alt="VLHS Glove" style="height:45px" loading="lazy" decoding="async" width="250" height="65"></picture></a>
                             </div>
                         </div>
                         <div class="col-md-8 col-sm-8 col-xs-9" style="padding:unset; width: 70.666667%;">
@@ -82,11 +81,11 @@ function googleTranslateElementInit() {
                             </div>
                         </div>
                         <div class="col-md-2 d-none made-in-india" style="width: 11.666667%;">
-                        <img src="../assets/img/made-in-india.png" alt="" style="height:90px">
+                        <picture><source srcset="../assets/img/320w/made-in-india_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../assets/img/640w/made-in-india_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../assets/img/1024w/made-in-india_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../assets/img/1920w/made-in-india_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../assets/img/made-in-india.webp" alt="" style="height:90px" loading="lazy" decoding="async" width="2704" height="2704"></picture>
                         </div>
                         <div class="col-xs-12"><div class="mobile-menu"></div></div>
                     </div>
                 </div>
             </div>
         </header>
-		<!--Start Medipath-banner area -->
+		<!--Start Medipath-banner area --></body></html>

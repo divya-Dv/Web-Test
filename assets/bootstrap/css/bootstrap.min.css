@@ -77,16 +77,15 @@ h1 {
 
 mark {
     color: #000;
-    background: #ff0
+    #ff0
 }
 
 small {
     font-size: 80%
 }
 
-sub,
-sup {
-    position: relative;
+sub, sup {
+    position: relative
     font-size: 75%;
     line-height: 0;
     vertical-align: baseline
@@ -235,7 +234,7 @@ th {
     :before {
         color: #000 !important;
         text-shadow: none !important;
-        background: 0 0 !important;
+        0 0 !important
         -webkit-box-shadow: none !important;
         box-shadow: none !important
     }
@@ -1312,7 +1311,7 @@ th {
     content: "\e242"
 }
 
-.glyphicon-text-background:before {
+.glyphicon-text-before {
     content: "\e243"
 }
 
@@ -1385,7 +1384,7 @@ th {
 }
 
 * {
-    -webkit-box-sizing: border-box;
+    -webkit-box-sizing: border-box
     -moz-box-sizing: border-box;
     box-sizing: border-box
 }
@@ -3320,7 +3319,7 @@ output {
     line-height: 1.42857143;
     color: #555;
     background-color: #fff;
-    background-image: none;
+    none
     border: 1px solid #ccc;
     border-radius: 4px;
     -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
@@ -3863,7 +3862,7 @@ textarea.input-lg {
     -moz-user-select: none;
     -ms-user-select: none;
     user-select: none;
-    background-image: none;
+    none
     border: 1px solid transparent;
     border-radius: 4px
 }
@@ -3887,7 +3886,7 @@ textarea.input-lg {
 
 .btn.active,
 .btn:active {
-    background-image: none;
+    none
     outline: 0;
     -webkit-box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125);
     box-shadow: inset 0 3px 5px rgba(0, 0, 0, .125)
@@ -3952,19 +3951,11 @@ fieldset[disabled] a.btn {
 .btn-default.active,
 .btn-default:active,
 .open>.dropdown-toggle.btn-default {
-    background-image: none
+    none
 }
 
-.btn-default.disabled.focus,
-.btn-default.disabled:focus,
-.btn-default.disabled:hover,
-.btn-default[disabled].focus,
-.btn-default[disabled]:focus,
-.btn-default[disabled]:hover,
-fieldset[disabled] .btn-default.focus,
-fieldset[disabled] .btn-default:focus,
-fieldset[disabled] .btn-default:hover {
-    background-color: #fff;
+.btn-default.disabled.focus, .btn-default.disabled:focus, .btn-default.disabled:hover, .btn-default[disabled].focus, .btn-default[disabled]:focus, .btn-default[disabled]:hover, fieldset[disabled] .btn-default.focus, fieldset[disabled] .btn-default:focus, fieldset[disabled] .btn-default:hover {
+    background-color: #fff
     border-color: #ccc
 }
 
@@ -4017,19 +4008,11 @@ fieldset[disabled] .btn-default:hover {
 .btn-primary.active,
 .btn-primary:active,
 .open>.dropdown-toggle.btn-primary {
-    background-image: none
+    none
 }
 
-.btn-primary.disabled.focus,
-.btn-primary.disabled:focus,
-.btn-primary.disabled:hover,
-.btn-primary[disabled].focus,
-.btn-primary[disabled]:focus,
-.btn-primary[disabled]:hover,
-fieldset[disabled] .btn-primary.focus,
-fieldset[disabled] .btn-primary:focus,
-fieldset[disabled] .btn-primary:hover {
-    background-color: #337ab7;
+.btn-primary.disabled.focus, .btn-primary.disabled:focus, .btn-primary.disabled:hover, .btn-primary[disabled].focus, .btn-primary[disabled]:focus, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary.focus, fieldset[disabled] .btn-primary:focus, fieldset[disabled] .btn-primary:hover {
+    background-color: #337ab7
     border-color: #2e6da4
 }
 
@@ -4082,19 +4065,11 @@ fieldset[disabled] .btn-primary:hover {
 .btn-success.active,
 .btn-success:active,
 .open>.dropdown-toggle.btn-success {
-    background-image: none
+    none
 }
 
-.btn-success.disabled.focus,
-.btn-success.disabled:focus,
-.btn-success.disabled:hover,
-.btn-success[disabled].focus,
-.btn-success[disabled]:focus,
-.btn-success[disabled]:hover,
-fieldset[disabled] .btn-success.focus,
-fieldset[disabled] .btn-success:focus,
-fieldset[disabled] .btn-success:hover {
-    background-color: #5cb85c;
+.btn-success.disabled.focus, .btn-success.disabled:focus, .btn-success.disabled:hover, .btn-success[disabled].focus, .btn-success[disabled]:focus, .btn-success[disabled]:hover, fieldset[disabled] .btn-success.focus, fieldset[disabled] .btn-success:focus, fieldset[disabled] .btn-success:hover {
+    background-color: #5cb85c
     border-color: #4cae4c
 }
 
@@ -4147,19 +4122,11 @@ fieldset[disabled] .btn-success:hover {
 .btn-info.active,
 .btn-info:active,
 .open>.dropdown-toggle.btn-info {
-    background-image: none
+    none
 }
 
-.btn-info.disabled.focus,
-.btn-info.disabled:focus,
-.btn-info.disabled:hover,
-.btn-info[disabled].focus,
-.btn-info[disabled]:focus,
-.btn-info[disabled]:hover,
-fieldset[disabled] .btn-info.focus,
-fieldset[disabled] .btn-info:focus,
-fieldset[disabled] .btn-info:hover {
-    background-color: #5bc0de;
+.btn-info.disabled.focus, .btn-info.disabled:focus, .btn-info.disabled:hover, .btn-info[disabled].focus, .btn-info[disabled]:focus, .btn-info[disabled]:hover, fieldset[disabled] .btn-info.focus, fieldset[disabled] .btn-info:focus, fieldset[disabled] .btn-info:hover {
+    background-color: #5bc0de
     border-color: #46b8da
 }
 
@@ -4212,19 +4179,11 @@ fieldset[disabled] .btn-info:hover {
 .btn-warning.active,
 .btn-warning:active,
 .open>.dropdown-toggle.btn-warning {
-    background-image: none
+    none
 }
 
-.btn-warning.disabled.focus,
-.btn-warning.disabled:focus,
-.btn-warning.disabled:hover,
-.btn-warning[disabled].focus,
-.btn-warning[disabled]:focus,
-.btn-warning[disabled]:hover,
-fieldset[disabled] .btn-warning.focus,
-fieldset[disabled] .btn-warning:focus,
-fieldset[disabled] .btn-warning:hover {
-    background-color: #f0ad4e;
+.btn-warning.disabled.focus, .btn-warning.disabled:focus, .btn-warning.disabled:hover, .btn-warning[disabled].focus, .btn-warning[disabled]:focus, .btn-warning[disabled]:hover, fieldset[disabled] .btn-warning.focus, fieldset[disabled] .btn-warning:focus, fieldset[disabled] .btn-warning:hover {
+    background-color: #f0ad4e
     border-color: #eea236
 }
 
@@ -4277,19 +4236,11 @@ fieldset[disabled] .btn-warning:hover {
 .btn-danger.active,
 .btn-danger:active,
 .open>.dropdown-toggle.btn-danger {
-    background-image: none
+    none
 }
 
-.btn-danger.disabled.focus,
-.btn-danger.disabled:focus,
-.btn-danger.disabled:hover,
-.btn-danger[disabled].focus,
-.btn-danger[disabled]:focus,
-.btn-danger[disabled]:hover,
-fieldset[disabled] .btn-danger.focus,
-fieldset[disabled] .btn-danger:focus,
-fieldset[disabled] .btn-danger:hover {
-    background-color: #d9534f;
+.btn-danger.disabled.focus, .btn-danger.disabled:focus, .btn-danger.disabled:hover, .btn-danger[disabled].focus, .btn-danger[disabled]:focus, .btn-danger[disabled]:hover, fieldset[disabled] .btn-danger.focus, fieldset[disabled] .btn-danger:focus, fieldset[disabled] .btn-danger:hover {
+    background-color: #d9534f
     border-color: #d43f3a
 }
 
@@ -4510,7 +4461,7 @@ tbody.collapse.in {
     text-decoration: none;
     cursor: not-allowed;
     background-color: transparent;
-    background-image: none;
+    none
     filter: progid:DXImageTransform.Microsoft.gradient(enabled=false)
 }
 
@@ -5374,7 +5325,7 @@ textarea.input-group-sm>.input-group-btn>.btn {
     margin-right: 15px;
     margin-bottom: 8px;
     background-color: transparent;
-    background-image: none;
+    none
     border: 1px solid transparent;
     border-radius: 4px
 }
@@ -5433,13 +5384,13 @@ textarea.input-group-sm>.input-group-btn>.btn {
 
     .navbar-nav .open .dropdown-menu>li>a:focus,
     .navbar-nav .open .dropdown-menu>li>a:hover {
-        background-image: none
+        none
     }
 }
 
 @media (min-width:768px) {
     .navbar-nav {
-        float: left;
+        float: left
         margin: 0
     }
 
@@ -6399,9 +6350,9 @@ a.thumbnail:hover {
 
 .progress-bar-striped,
 .progress-striped .progress-bar {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
-    background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+    -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
     -webkit-background-size: 40px 40px;
     background-size: 40px 40px
 }
@@ -6418,9 +6369,9 @@ a.thumbnail:hover {
 }
 
 .progress-striped .progress-bar-success {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
-    background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
 }
 
 .progress-bar-info {
@@ -6428,9 +6379,9 @@ a.thumbnail:hover {
 }
 
 .progress-striped .progress-bar-info {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
-    background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
 }
 
 .progress-bar-warning {
@@ -6438,9 +6389,9 @@ a.thumbnail:hover {
 }
 
 .progress-striped .progress-bar-warning {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
-    background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
 }
 
 .progress-bar-danger {
@@ -6448,9 +6399,9 @@ a.thumbnail:hover {
 }
 
 .progress-striped .progress-bar-danger {
-    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
-    background-image: -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
-    background-image: linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
+    linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent)
 }
 
 .media {
@@ -6461,9 +6412,8 @@ a.thumbnail:hover {
     margin-top: 0
 }
 
-.media,
-.media-body {
-    overflow: hidden;
+.media, .media-body {
+    overflow: hidden
     zoom: 1
 }
 
@@ -7248,7 +7198,7 @@ button.close {
     -webkit-appearance: none;
     padding: 0;
     cursor: pointer;
-    background: 0 0;
+    0 0
     border: 0
 }
 
@@ -7790,10 +7740,10 @@ button.close {
 }
 
 .carousel-control.left {
-    background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .0001) 100%);
-    background-image: -o-linear-gradient(left, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .0001) 100%);
-    background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .0001)));
-    background-image: linear-gradient(to right, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .0001) 100%);
+    -webkit-linear-gradient(left, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .0001) 100%)
+    -o-linear-gradient(left, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .0001) 100%)
+    -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .5)), to(rgba(0, 0, 0, .0001)))
+    linear-gradient(to right, rgba(0, 0, 0, .5) 0, rgba(0, 0, 0, .0001) 100%)
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
     background-repeat: repeat-x
 }
@@ -7801,10 +7751,10 @@ button.close {
 .carousel-control.right {
     right: 0;
     left: auto;
-    background-image: -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .5) 100%);
-    background-image: -o-linear-gradient(left, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .5) 100%);
-    background-image: -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .0001)), to(rgba(0, 0, 0, .5)));
-    background-image: linear-gradient(to right, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .5) 100%);
+    -webkit-linear-gradient(left, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .5) 100%)
+    -o-linear-gradient(left, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .5) 100%)
+    -webkit-gradient(linear, left top, right top, from(rgba(0, 0, 0, .0001)), to(rgba(0, 0, 0, .5)))
+    linear-gradient(to right, rgba(0, 0, 0, .0001) 0, rgba(0, 0, 0, .5) 100%)
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
     background-repeat: repeat-x
 }

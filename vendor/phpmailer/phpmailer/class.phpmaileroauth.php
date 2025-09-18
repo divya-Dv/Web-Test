@@ -1,11 +1,10 @@
-<?php
+<!--?php
 /**
  * PHPMailer - PHP email creation and transport class.
  * PHP Version 5.4
  * @package PHPMailer
  * @link https://github.com/PHPMailer/PHPMailer/ The PHPMailer GitHub project
- * @author Marcus Bointon (Synchro/coolbru) <phpmailer@synchromedia.co.uk>
- * @author Jim Jagielski (jimjag) <jimjag@gmail.com>
+ * @author Marcus Bointon (Synchro/coolbru) <phpmailer@synchromedia.co.uk--><html><head></head><body>* @author Jim Jagielski (jimjag) <jimjag@gmail.com>
  * @author Andy Prevost (codeworxtech) <codeworxtech@users.sourceforge.net>
  * @author Brent R. Matzelle (original founder)
  * @copyright 2012 - 2014 Marcus Bointon
@@ -62,15 +61,15 @@ class PHPMailerOAuth extends PHPMailer
      */
     public function getOAUTHInstance()
     {
-        if (!is_object($this->oauth)) {
-            $this->oauth = new PHPMailerOAuthGoogle(
-                $this->oauthUserEmail,
-                $this->oauthClientSecret,
-                $this->oauthClientId,
-                $this->oauthRefreshToken
+        if (!is_object($this-&gt;oauth)) {
+            $this-&gt;oauth = new PHPMailerOAuthGoogle(
+                $this-&gt;oauthUserEmail,
+                $this-&gt;oauthClientSecret,
+                $this-&gt;oauthClientId,
+                $this-&gt;oauthRefreshToken
             );
         }
-        return $this->oauth;
+        return $this-&gt;oauth;
     }
 
     /**
@@ -84,24 +83,24 @@ class PHPMailerOAuth extends PHPMailer
      */
     public function smtpConnect($options = array())
     {
-        if (is_null($this->smtp)) {
-            $this->smtp = $this->getSMTPInstance();
+        if (is_null($this-&gt;smtp)) {
+            $this-&gt;smtp = $this-&gt;getSMTPInstance();
         }
 
-        if (is_null($this->oauth)) {
-            $this->oauth = $this->getOAUTHInstance();
+        if (is_null($this-&gt;oauth)) {
+            $this-&gt;oauth = $this-&gt;getOAUTHInstance();
         }
 
         // Already connected?
-        if ($this->smtp->connected()) {
+        if ($this-&gt;smtp-&gt;connected()) {
             return true;
         }
 
-        $this->smtp->setTimeout($this->Timeout);
-        $this->smtp->setDebugLevel($this->SMTPDebug);
-        $this->smtp->setDebugOutput($this->Debugoutput);
-        $this->smtp->setVerp($this->do_verp);
-        $hosts = explode(';', $this->Host);
+        $this-&gt;smtp-&gt;setTimeout($this-&gt;Timeout);
+        $this-&gt;smtp-&gt;setDebugLevel($this-&gt;SMTPDebug);
+        $this-&gt;smtp-&gt;setDebugOutput($this-&gt;Debugoutput);
+        $this-&gt;smtp-&gt;setVerp($this-&gt;do_verp);
+        $hosts = explode(';', $this-&gt;Host);
         $lastexception = null;
 
         foreach ($hosts as $hostentry) {
@@ -116,9 +115,9 @@ class PHPMailerOAuth extends PHPMailer
             // The host string prefix can temporarily override the current setting for SMTPSecure
             // If it's not specified, the default value is used
             $prefix = '';
-            $secure = $this->SMTPSecure;
-            $tls = ($this->SMTPSecure == 'tls');
-            if ('ssl' == $hostinfo[2] or ('' == $hostinfo[2] and 'ssl' == $this->SMTPSecure)) {
+            $secure = $this-&gt;SMTPSecure;
+            $tls = ($this-&gt;SMTPSecure == 'tls');
+            if ('ssl' == $hostinfo[2] or ('' == $hostinfo[2] and 'ssl' == $this-&gt;SMTPSecure)) {
                 $prefix = 'ssl://';
                 $tls = false; // Can't have SSL and TLS at the same time
                 $secure = 'ssl';
@@ -132,66 +131,67 @@ class PHPMailerOAuth extends PHPMailer
             if ('tls' === $secure or 'ssl' === $secure) {
                 //Check for an OpenSSL constant rather than using extension_loaded, which is sometimes disabled
                 if (!$sslext) {
-                    throw new phpmailerException($this->lang('extension_missing').'openssl', self::STOP_CRITICAL);
+                    throw new phpmailerException($this-&gt;lang('extension_missing').'openssl', self::STOP_CRITICAL);
                 }
             }
             $host = $hostinfo[3];
-            $port = $this->Port;
+            $port = $this-&gt;Port;
             $tport = (integer)$hostinfo[4];
-            if ($tport > 0 and $tport < 65536) {
+            if ($tport &gt; 0 and $tport &lt; 65536) {
                 $port = $tport;
             }
-            if ($this->smtp->connect($prefix . $host, $port, $this->Timeout, $options)) {
+            if ($this-&gt;smtp-&gt;connect($prefix . $host, $port, $this-&gt;Timeout, $options)) {
                 try {
-                    if ($this->Helo) {
-                        $hello = $this->Helo;
+                    if ($this-&gt;Helo) {
+                        $hello = $this-&gt;Helo;
                     } else {
-                        $hello = $this->serverHostname();
+                        $hello = $this-&gt;serverHostname();
                     }
-                    $this->smtp->hello($hello);
+                    $this-&gt;smtp-&gt;hello($hello);
                     //Automatically enable TLS encryption if:
                     // * it's not disabled
                     // * we have openssl extension
                     // * we are not already using SSL
                     // * the server offers STARTTLS
-                    if ($this->SMTPAutoTLS and $sslext and $secure != 'ssl' and $this->smtp->getServerExt('STARTTLS')) {
+                    if ($this-&gt;SMTPAutoTLS and $sslext and $secure != 'ssl' and $this-&gt;smtp-&gt;getServerExt('STARTTLS')) {
                         $tls = true;
                     }
                     if ($tls) {
-                        if (!$this->smtp->startTLS()) {
-                            throw new phpmailerException($this->lang('connect_host'));
+                        if (!$this-&gt;smtp-&gt;startTLS()) {
+                            throw new phpmailerException($this-&gt;lang('connect_host'));
                         }
                         // We must resend HELO after tls negotiation
-                        $this->smtp->hello($hello);
+                        $this-&gt;smtp-&gt;hello($hello);
                     }
-                    if ($this->SMTPAuth) {
-                        if (!$this->smtp->authenticate(
-                            $this->Username,
-                            $this->Password,
-                            $this->AuthType,
-                            $this->Realm,
-                            $this->Workstation,
-                            $this->oauth
+                    if ($this-&gt;SMTPAuth) {
+                        if (!$this-&gt;smtp-&gt;authenticate(
+                            $this-&gt;Username,
+                            $this-&gt;Password,
+                            $this-&gt;AuthType,
+                            $this-&gt;Realm,
+                            $this-&gt;Workstation,
+                            $this-&gt;oauth
                         )
                         ) {
-                            throw new phpmailerException($this->lang('authenticate'));
+                            throw new phpmailerException($this-&gt;lang('authenticate'));
                         }
                     }
                     return true;
                 } catch (phpmailerException $exc) {
                     $lastexception = $exc;
-                    $this->edebug($exc->getMessage());
+                    $this-&gt;edebug($exc-&gt;getMessage());
                     // We must have connected, but then failed TLS or Auth, so close connection nicely
-                    $this->smtp->quit();
+                    $this-&gt;smtp-&gt;quit();
                 }
             }
         }
         // If we get here, all connection attempts have failed, so close connection hard
-        $this->smtp->close();
+        $this-&gt;smtp-&gt;close();
         // As we've caught all exceptions, just report whatever the last one was
-        if ($this->exceptions and !is_null($lastexception)) {
+        if ($this-&gt;exceptions and !is_null($lastexception)) {
             throw $lastexception;
         }
         return false;
     }
 }
+</phpmailer@synchromedia.co.uk></codeworxtech@users.sourceforge.net></jimjag@gmail.com></body></html>

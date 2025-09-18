@@ -1,19 +1,20 @@
-<?php
+<!--?php
 return  
     [
-        'isRequired'=>'required',
-        'areRequired'=>'required',
-        'isEmail'=>'email',
-        'areEmails'=>'email',
-        'maxLength'=>'maxlen',
-        'maxLen'=>'maxlen',
-        'minLength'=>'minlen',
-        'minLen'=>'minlen',
-        'isAlphabetic'=>'alphabetic',
-        'areAlphabetic'=>'alphabetic',
-        'Alphabetic'=>'alphabetic',
-        'isAlphaNumeric'=>'alphanumeric',
-        'areAlphaNumeric'=>'alphanumeric',
-        'AlphaNumeric'=>'alphanumeric'
+        'isRequired'=--><html><head></head><body>'required',
+        'areRequired'=&gt;'required',
+        'isEmail'=&gt;'email',
+        'areEmails'=&gt;'email',
+        'maxLength'=&gt;'maxlen',
+        'maxLen'=&gt;'maxlen',
+        'minLength'=&gt;'minlen',
+        'minLen'=&gt;'minlen',
+        'isAlphabetic'=&gt;'alphabetic',
+        'areAlphabetic'=&gt;'alphabetic',
+        'Alphabetic'=&gt;'alphabetic',
+        'isAlphaNumeric'=&gt;'alphanumeric',
+        'areAlphaNumeric'=&gt;'alphanumeric',
+        'AlphaNumeric'=&gt;'alphanumeric'
     ];
 
+</body></html>

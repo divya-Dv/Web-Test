@@ -1,4 +1,4 @@
-<?php
+<!--?php
 namespace FormGuide\PHPFormValidator;
 
 class FieldValidator
@@ -10,19 +10,19 @@ class FieldValidator
 
     public function __construct($field_name)
     {
-        $this->field_name = $field_name;
-        $this->validations = array();
+        $this---><html><head></head><body>field_name = $field_name;
+        $this-&gt;validations = array();
         
-        $this->validator = Validators::create($field_name);
+        $this-&gt;validator = Validators::create($field_name);
 
-        $this->validator_map = include('ValidatorMap.php');
+        $this-&gt;validator_map = include('ValidatorMap.php');
     }
 
     public function __call($function, $arguments)
     {
-        if(isset($this->validator_map[$function]))
+        if(isset($this-&gt;validator_map[$function]))
         {
-            return $this->initValidator($function, $arguments);
+            return $this-&gt;initValidator($function, $arguments);
         }
         else
         {
@@ -33,7 +33,7 @@ class FieldValidator
 
     public function initValidator($function, $arguments)
     {
-        $validator_type = $this->validator_map[$function];
+        $validator_type = $this-&gt;validator_map[$function];
         $message = null;
         $constraint = null;
         foreach($arguments as $arg)
@@ -51,8 +51,8 @@ class FieldValidator
             }
         }
 
-        $this->validations[$validator_type] = 
-                array('value'=>$constraint,'message'=>$message  );
+        $this-&gt;validations[$validator_type] = 
+                array('value'=&gt;$constraint,'message'=&gt;$message  );
 
         return $this;       
     }
@@ -60,19 +60,20 @@ class FieldValidator
 
     public function test($post)
     {
-        foreach($this->validations as $rule => $details)
+        foreach($this-&gt;validations as $rule =&gt; $details)
         {
-            $this->validator->$rule($post,$details);
+            $this-&gt;validator-&gt;$rule($post,$details);
         }
     }
 
     public function hasErrors()
     {
-        return $this->validator->hasErrors();   
+        return $this-&gt;validator-&gt;hasErrors();   
     }
 
     public function getError()
     {
-        return $this->validator->getError();
+        return $this-&gt;validator-&gt;getError();
     }
 }
+</body></html>

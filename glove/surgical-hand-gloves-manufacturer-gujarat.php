@@ -1,24 +1,22 @@
-<!doctype html>
-<html lang="en">
-    <head>
+<!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
-        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
         <!-- page title -->
         <title>DR Glove - Surgical Hand Gloves Manufacturer In Gujarat</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-		<meta name="description" content="Surgical Hand Gloves Manufacturer In Gujarat. Our premium-quality products guarantee optimal protection and dexterity for medical professionals Visit."/>
+		<meta name="description" content="Surgical Hand Gloves Manufacturer In Gujarat. Our premium-quality products guarantee optimal protection and dexterity for medical professionals Visit.">
 		
-        <link rel="canonical" href="https://www.vlhsglove.com/glove/surgical-hand-gloves-manufacturer-gujarat.php" />
-        <?php include_once('seo-toplinks.php');?>
+        <link rel="canonical" href="https://www.vlhsglove.com/glove/surgical-hand-gloves-manufacturer-gujarat.php">
+        <!--?php include_once('seo-toplinks.php');?-->
         
 <style>
     h1.entry-title {
@@ -52,7 +50,7 @@ ul.ul_list li {
     </head>
     <body>
         
-       <?php include_once('../seo-header.php');?>
+       <!--?php include_once('../seo-header.php');?-->
 		<!--Start Medipath-banner area -->
        <section class="medipath-banner">
             <div class="medipath-overlay"></div>
@@ -68,7 +66,7 @@ ul.ul_list li {
 				  <!--<span property="name">Dr. Glove</span></a>-->
 				  <!--<meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem">-->
 				  <span property="name"><a href="index.php">Home </a></span><meta property="position" content="2"></span>/
-				  <span property="name">Surgical Hand Gloves Manufacturer In Gujarat</span><meta property="position" content="2"></span></div>
+				  <span property="name">Surgical Hand Gloves Manufacturer In Gujarat</span><meta property="position" content="2"></div>
 				</div>
 			</div>
   </div>
@@ -81,7 +79,7 @@ ul.ul_list li {
                 <div class="row">
                     <div class="col-md-5 img_col" style="padding-top:20px;">
                         <div class="medipath-details-img">
-                            <img src="../img/prepowder1.jpg" class="img-responsive" alt="Surgical Hand Gloves Manufacturer In Gujarat" title="Surgical Hand Gloves Manufacturer In Gujarat">
+                            <picture><source srcset="../img/320w/prepowder1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/640w/prepowder1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/1024w/prepowder1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/1920w/prepowder1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/prepowder1.webp" class="img-responsive" alt="Surgical Hand Gloves Manufacturer In Gujarat" title="Surgical Hand Gloves Manufacturer In Gujarat" width="1667" height="1875"></picture>
                                           
                             
                         </div>
@@ -96,7 +94,7 @@ ul.ul_list li {
                       <p style="margin-top: 15px;">Created by a team of visionaries and technocrats, our goal. Build our brand from the ground up and change the medical landscape. Where innovation and patient. We offer a comprehensive range of gloves for different uses, such as pre-powdered.</p>
                       <p style="margin-top: 15px;">Latex surgical gloves – powder-free, orthopedic gloves. Latex examination gloves, nitrile examination gloves. We take extra care in every detail of the production process while keeping. The needs of both patients and healthcare professionals in mind.</p>
                     <p style="margin-top: 15px;">Whether it’s a simple examination, minor surgery, or a complex surgery. We have the right pair ready for you each time.</p>
-                    <p style="margin-top: 15px;">Our team of seasoned professionals backed by cutting-edge production facilities work. in they try to deliver high-quality surgical hand gloves every time. To offer our clients top-quality products, we also adhere to several quality accreditations. We are qualified with certificates such as ASTM, EN455, EN ISO 13485:2016, BIS Certifications, & CE Certificates.</p>
+                    <p style="margin-top: 15px;">Our team of seasoned professionals backed by cutting-edge production facilities work. in they try to deliver high-quality surgical hand gloves every time. To offer our clients top-quality products, we also adhere to several quality accreditations. We are qualified with certificates such as ASTM, EN455, EN ISO 13485:2016, BIS Certifications, &amp; CE Certificates.</p>
                         </div>
                     </div>
 					
@@ -104,18 +102,18 @@ ul.ul_list li {
                 <div class="col-md-12 text_col">
                     
                     
-                    <p style="margin-top: 15px;">This has solidified our standing. As one of the leading <b>surgical hand gloves manufacturer in Gujarat</b> for several years. Our unwavering commitment to R&D projects and patient focus. What makes us unique and keeps us ahead of the curve?</p>
+                    <p style="margin-top: 15px;">This has solidified our standing. As one of the leading <b>surgical hand gloves manufacturer in Gujarat</b> for several years. Our unwavering commitment to R&amp;D projects and patient focus. What makes us unique and keeps us ahead of the curve?</p>
                     
                     <p style="margin-top:15px;">We have a specialized staff whose sole task is to check our existing production. Systems look for new avenues and establish lasting relationships. Different stakeholders to produce high-performance surgical gloves. Meet the evolving needs of the medical sector. </p>
                     <p style="margin-top: 15px;">Join forces with the most well-regarded <b>surgical hand gloves</b>. To unlock exciting new possibilities.</p>
                     <p style="margin-top:15px;"><b>Related Links:</b> <a href="latex-gloves-manufacturers-chennai.php">Latex Gloves Manufacturers In Chennai</a></p>
                 </div>
             </div>
-        </section>
+        </div></section>
       
       
-        <?php include_once('seo-footer-links.php');?>
-        <?php include_once('../footer.php');?>
+        <!--?php include_once('seo-footer-links.php');?-->
+        <!--?php include_once('../footer.php');?-->
 
-    </body>
-</html>    
+    
+    </body></html>

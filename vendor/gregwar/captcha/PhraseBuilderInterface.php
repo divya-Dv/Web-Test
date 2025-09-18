@@ -1,12 +1,11 @@
-<?php
+<!--?php
 
 namespace Gregwar\Captcha;
 
 /**
  * Interface for the PhraseBuilder
  *
- * @author Gregwar <g.passault@gmail.com>
- */
+ * @author Gregwar <g.passault@gmail.com--><html><head></head><body>*/
 interface PhraseBuilderInterface
 {
     /**
@@ -19,3 +18,4 @@ interface PhraseBuilderInterface
      */
     public function niceize($str);
 }
+</body></html>

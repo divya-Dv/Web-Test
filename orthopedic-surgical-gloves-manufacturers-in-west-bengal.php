@@ -1,21 +1,16 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <?php include 'innerpage-toplinks.php' ?>
+    <!--?php include 'innerpage-toplinks.php' ?-->
 
     <!-- End Google Tag Manager -->
     <!-- page title -->
     <title>Orthopedic surgical glove manufacturers in West Bengal - VLHS</title>
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+    <meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
     <meta property="og:url" content="https://www.vlhsglove.com/">
-    <meta name="description"
-        content="Premium-quality orthopedic surgical gloves from VLHS – trusted manufacturers in West Bengal. Designed for surgeons and doctors prioritizing safety." />
+    <meta name="description" content="Premium-quality orthopedic surgical gloves from VLHS – trusted manufacturers in West Bengal. Designed for surgeons and doctors prioritizing safety.">
 
-    <link rel="canonical"
-        href="https://www.vlhsglove.com/orthopedic-surgical-gloves-manufacturers-in-west-bengal.php" />
+    <link rel="canonical" href="https://www.vlhsglove.com/orthopedic-surgical-gloves-manufacturers-in-west-bengal.php">
     <!--Bootstrap css-->
 
 </head>
@@ -32,7 +27,7 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include_once('innerpage_header.php'); ?>
+    <!--?php include_once('innerpage_header.php'); ?-->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
         <div class="medipath-overlay"></div>
@@ -56,12 +51,12 @@
                                 <!-- Breadcrumb NavXT 6.1.0 -->
                                 <span property="itemListElement" typeof="ListItem">
 
-                            </div>
+                            </span></div>
                         </div>
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
     <!--End Medipath-banner area -->
     <!--start about section -->
     <section class="about section-padding">
@@ -70,8 +65,7 @@
 
                 <div class="col-md-5">
                     <div class="service-nav">
-                        <img src="img/orthopedicgloves-updated.jpg"
-                            alt="Orthopedic surgical glove manufacturers in West Bengal" style="width:100%;">
+                        <picture><source srcset="img/320w/orthopedicgloves-updated_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/orthopedicgloves-updated_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/orthopedicgloves-updated_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/orthopedicgloves-updated_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/orthopedicgloves-updated.webp" alt="Orthopedic surgical glove manufacturers in West Bengal" style="width:100%;" loading="lazy" decoding="async"></picture>
                     </div>
                 </div>
                 <div class="col-md-7 text_col">
@@ -94,9 +88,9 @@
                                 surgical glove manufacturers are aware of these requirements and design gloves that are
                                 the best for high-risk settings. These gloves are not for protection alone; they are for
                                 performance. Each feature has been developed with the surgeon and patient in mind, from
-                                improved grip to excellent puncture resistance and extended comfort./p>
+                                improved grip to excellent puncture resistance and extended comfort./p&gt;
 
-                            <p style="margin-top: 15px;">In West Bengal, we see that leading orthopedic surgical glove
+                            </p><p style="margin-top: 15px;">In West Bengal, we see that leading orthopedic surgical glove
                                 manufacturers are those that meet global standards. They have obtained certifications
                                 which include ASTM and EN455, which in turn means that their products meet very high
                                 international quality standards. This in turn, gives peace of mind to hospitals and
@@ -154,8 +148,7 @@
                             West Bengal, we see that manufacturers of orthopedic gloves are also very much partners in
                             health care excellence.</p>
 
-                        <p style="margin-top: 15px;"><b>Related Links :</b> <a
-                                href="micro-powder-free-gloves-manufacturer.php">Micro Powder Free Gloves
+                        <p style="margin-top: 15px;"><b>Related Links :</b> <a href="micro-powder-free-gloves-manufacturer.php">Micro Powder Free Gloves
                                 Manufacturer</a>
                         </p>
                         <p><a href="microsurgery-gloves-manufacturer-in-india.php">Microsurgery Gloves Manufacturer In
@@ -163,7 +156,7 @@
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
 
     <!--Scroll-up-->
     <a id="scroll-up"><i class="fa fa-angle-up"></i></a>
@@ -189,8 +182,7 @@
     <!--main js-->
     <script src="assets/js/main.js"></script>
     <script src="js/main.js"></script>
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b"
-        type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
     <!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
 
@@ -216,8 +208,8 @@
 
         });
     </script>
-    <?php include_once('footer.php'); ?>
+    <!--?php include_once('footer.php'); ?-->
 
-</body>
 
-</html>
+
+</body></html>

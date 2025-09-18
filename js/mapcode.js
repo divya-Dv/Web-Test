@@ -1,2 +1,1 @@
-function initialize(){"use strict";var mapOptions={zoom:15,scrollwheel:!1,center:new google.maps.LatLng(25.266666,55.316666)};var map=new google.maps.Map(document.getElementById('googleMap'),mapOptions);var marker=new google.maps.Marker({position:map.getCenter(),animation:google.maps.Animation.BOUNCE,icon:'img/logo/map-marker.png',map:map})}
-google.maps.event.addDomListener(window,'load',initialize)
+function initialize(){"use strict";var e={zoom:15,scrollwheel:!1,center:new google.maps.LatLng(25.266666,55.316666)},o=new google.maps.Map(document.getElementById("googleMap"),e);new google.maps.Marker({position:o.getCenter(),animation:google.maps.Animation.BOUNCE,icon:"img/logo/map-marker.png",map:o})}google.maps.event.addDomListener(window,"load",initialize);

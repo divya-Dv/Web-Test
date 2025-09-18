@@ -1,17 +1,14 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>DR Glove - Surgical Gloves - Latex Surgical Gloves Manufacturers</title>
     <meta property="og:type" content="website">
-    <meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+    <meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
     <meta property="og:url" content="https://www.vlhsglove.com/">
     <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-    <meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+    <meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description" content="India's leading manufacturers and exporters of quality latex surgical gloves, sterile, powdered and powder free, latex examination gloves suppliers call." >
+    <meta name="description" content="India's leading manufacturers and exporters of quality latex surgical gloves, sterile, powdered and powder free, latex examination gloves suppliers call.">
     <link rel="canonical" href="https://www.vlhsglove.com/">
 
 
@@ -30,8 +27,8 @@
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 
 
-    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" >
-    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" >
+    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
     <!-- Google Tag Manager -->
     <script>
         (function(w, d, s, l, i) {
@@ -52,7 +49,7 @@
     <!-- End Google Tag Manager -->
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -65,7 +62,7 @@
     </script>
 
     <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -78,11 +75,10 @@
     </script>
 
 
-    <link rel="icon" href="https://www.vlhsglove.com/assets/img/favicon/favicon-16x16.png" >
-    <link rel="icon" href="https://www.vlhsglove.com/assets/img/favicon/favicon-96x96.png" >
-    <link rel="apple-touch-icon" href="https://www.vlhsglove.com/assets/img/favicon/android-icon-192x192.png" >
-    <meta name="msapplication-TileImage"
-        content="https://www.vlhsglove.com/assets/img/favicon/android-icon-192x192.png" >
+    <link rel="icon" href="https://www.vlhsglove.com/assets/img/favicon/favicon-16x16.png">
+    <link rel="icon" href="https://www.vlhsglove.com/assets/img/favicon/favicon-96x96.png">
+    <link rel="apple-touch-icon" href="https://www.vlhsglove.com/assets/img/favicon/android-icon-192x192.png">
+    <meta name="msapplication-TileImage" content="https://www.vlhsglove.com/assets/img/favicon/android-icon-192x192.png">
     <style id="wp-custom-css">
         .what_we_offer_bg_image.active img {
             width: 100%;
@@ -114,7 +110,7 @@
     </style>
 
     <!-- bootstrap v3.3.6 css -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link rel="stylesheet" href="css/bootstrap.min.css">
     <!-- owl.carousel css -->
     <link rel="stylesheet" href="css/owl.carousel.css">
     <link rel="stylesheet" href="css/owl.transitions.css">
@@ -259,7 +255,7 @@
     <!-- End Google Tag Manager -->
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-2T69V7QZWG"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=G-2T69V7QZWG"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -373,10 +369,10 @@
     </script>
 
 
-    <script async src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    <script async="" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
 
-    <?php include_once('header.php'); ?>
+    <!--?php include_once('header.php'); ?-->
 
     <!-- Start Slider Area -->
     <div class="intro-area mt-5">
@@ -385,7 +381,7 @@
             <div class="intro-content">
                 <div class="slider-images">
                     <!--<img src="img/slider/s5.jpg" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers">-->
-                    <img src="img/firstbanner.jpeg" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers">
+                    <picture><source srcset="img/320w/firstbanner_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/firstbanner_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/firstbanner_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/firstbanner_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/firstbanner.webp" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers" loading="lazy" decoding="async"></picture>
                 </div>
                 <div class="slider-content">
                     <div class="display-table">
@@ -416,7 +412,7 @@
             <div class="intro-content">
                 <div class="slider-images">
                     <!--<img src="img/slider/s5.jpg" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers">-->
-                    <img src="img/slider-img4.jpg" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers">
+                    <picture><source srcset="img/320w/slider-img4_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/slider-img4_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/slider-img4_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/slider-img4_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/slider-img4.webp" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers" loading="lazy" decoding="async"></picture>
                 </div>
                 <div class="slider-content">
                     <div class="display-table">
@@ -427,7 +423,7 @@
                                         <!-- layer 1 -->
                                         <div class="layer-1-2">
                                             <h1 class="title2" style="color:white;">High Quality, High Resiliency High
-                                                Safety, Good fit, feel & comfort</h1>
+                                                Safety, Good fit, feel &amp; comfort</h1>
                                         </div>
                                         <!--<div class="layer-1-1 ">
                                                 <p>Our consultants opt in to the projects they genuinely want to work on, committing wholeheartedly to delivering.</p>
@@ -447,7 +443,7 @@
             <div class="intro-content">
                 <div class="slider-images">
                     <!--<img src="img/slider/s3.jpg" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers">-->
-                    <img src="img/slider-img3.jpg" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers">
+                    <picture><source srcset="img/320w/slider-img3_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/slider-img3_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/slider-img3_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/slider-img3_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/slider-img3.webp" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers" loading="lazy" decoding="async"></picture>
                 </div>
                 <div class="slider-content">
                     <div class="display-table">
@@ -458,7 +454,7 @@
                                         <!-- layer 1 -->
                                         <div class="layer-1-2">
                                             <h1 class="title2" style="color:white;">High Quality, High Resiliency High
-                                                Safety, Good fit, feel & comfort</h1>
+                                                Safety, Good fit, feel &amp; comfort</h1>
                                         </div>
                                         <!--<div class="layer-1-1 ">
                                                 <p>We Serve More Than 15 Countries</p>
@@ -478,7 +474,7 @@
             <div class="intro-content">
                 <div class="slider-images">
                     <!--<img src="img/slider/s6.jpg" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers">-->
-                    <img src="img/slider-img1.jpg" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers">
+                    <picture><source srcset="img/320w/slider-img1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/slider-img1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/slider-img1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/slider-img1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/slider-img1.webp" alt="Surgical Gloves, Latex Surgical Gloves Manufacturers" loading="lazy" decoding="async"></picture>
                 </div>
                 <div class="slider-content">
                     <div class="display-table">
@@ -510,7 +506,7 @@
     <!-- End Slider Area -->
     <div class="container made-in-india-image">
         <div class="col-12">
-            <img src="assets/img/made-in-india.png" alt="" style="width:100%">
+            <picture><source srcset="assets/img/320w/made-in-india_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/made-in-india_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/made-in-india_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/made-in-india_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/made-in-india.webp" alt="" style="width:100%" loading="lazy" decoding="async"></picture>
         </div>
     </div>
     <!-- about-area start -->
@@ -519,15 +515,15 @@
             <div class="row">
                 <!-- column end -->
                 <div class="col-md-3 hand-rr">
-                    <img src="img/left.png" alt="Surgical Gloves Manufacturers" >
+                    <picture><source srcset="img/320w/left_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/left_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/left_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/left_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/left.webp" alt="Surgical Gloves Manufacturers" loading="lazy" decoding="async"></picture>
                 </div>
                 <div class="col-md-6 col-sm-6 col-xs-12">
                     <div class="about-content gtr">
-                        <h4><span class="wel-01">Welcome To </span><br ><span class="color"> Vijayalakshmi Health &
+                        <h4><span class="wel-01">Welcome To </span><br><span class="color"> Vijayalakshmi Health &amp;
                                 Surgical Pvt Ltd</span></h4>
-                        <div class="dbr"><img src="img/border-new.png" alt="border" ></div>
+                        <div class="dbr"><picture><source srcset="img/320w/border-new_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/border-new_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/border-new_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/border-new_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/border-new.webp" alt="border" loading="lazy" decoding="async"></picture></div>
                         <p>Vijayalakshmi Health and Surgical Pvt. Ltd. is the India’s leading manufacturer of good
-                            quality Latex surgical gloves, Powdered & PowderFree and Latex Examination gloves to protect
+                            quality Latex surgical gloves, Powdered &amp; PowderFree and Latex Examination gloves to protect
                             health care professionals, workers and patients. We gives priority to keep your patients and
                             surgical staff safe from cross contamination, infection, and allergic reaction and our
                             company is undeterred commitment to quality by QC and maintaining ASTM and EN455 standards
@@ -553,7 +549,7 @@
                     </div>
                 </div>
                 <div class="col-md-3">
-                    <img src="img/right.png" alt="Gloves Manufacturer" >
+                    <picture><source srcset="img/320w/right_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/right_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/right_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/right_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/right.webp" alt="Gloves Manufacturer" loading="lazy" decoding="async"></picture>
                 </div>
                 <!-- column end -->
             </div>
@@ -597,7 +593,7 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-headline text-center">
                         <h3>Our Products</h3>
-                        <div class="dbr"><img src="img/border-new.png" alt="Gloves Manufacturer" ></div>
+                        <div class="dbr"><picture><source srcset="img/320w/border-new_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/border-new_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/border-new_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/border-new_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/border-new.webp" alt="Gloves Manufacturer" loading="lazy" decoding="async"></picture></div>
                     </div>
                 </div>
             </div>
@@ -608,33 +604,33 @@
                 <div class="col-md-3 col-sm-4">
                     <a href="latexsurgicalgloves-prepowdered.php">
                         <div class="our-team">
-                            <div class="pic"><img src="img/product1.jpg" alt="Surgical Gloves"></div>
-                            <h3 class="title">Surgical Gloves <br > Pre Powdered</h3>
+                            <div class="pic"><picture><source srcset="img/320w/product1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/product1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/product1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/product1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/product1.webp" alt="Surgical Gloves" loading="lazy" decoding="async"></picture></div>
+                            <h3 class="title">Surgical Gloves <br> Pre Powdered</h3>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-4">
                     <a href="latexsurgicalgloves-powderedfree.php">
                         <div class="our-team">
-                            <div class="pic"><img src="img/product2.jpg" alt="Surgical Gloves"></div>
-                            <h3 class="title">Surgical Gloves <br > PowderFree</h3>
+                            <div class="pic"><picture><source srcset="img/320w/product2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/product2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/product2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/product2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/product2.webp" alt="Surgical Gloves" loading="lazy" decoding="async"></picture></div>
+                            <h3 class="title">Surgical Gloves <br> PowderFree</h3>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-4">
                     <a href="orthopedicgloves.php">
                         <div class="our-team">
-                            <div class="pic"><img src="img/orthopedicgloves-updated-small.jpg" alt="Surgical Gloves">
+                            <div class="pic"><picture><source srcset="img/320w/orthopedicgloves-updated-small_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/orthopedicgloves-updated-small_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/orthopedicgloves-updated-small_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/orthopedicgloves-updated-small_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/orthopedicgloves-updated-small.webp" alt="Surgical Gloves" loading="lazy" decoding="async"></picture>
                             </div>
-                            <h3 class="title">Surgical Gloves <br > Orthopeadic </h3>
+                            <h3 class="title">Surgical Gloves <br> Orthopeadic </h3>
                         </div>
                     </a>
                 </div>
                 <div class="col-md-3 col-sm-4">
                     <a href="microsurgery-gloves.php">
                         <div class="our-team">
-                            <div class="pic"><img src="img/microsurgery-gloves-small.jpg" alt="Microsurgery Gloves"></div>
-                            <h3 class="title">Microsurgery <br > Gloves</h3>
+                            <div class="pic"><picture><source srcset="img/320w/microsurgery-gloves-small_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/microsurgery-gloves-small_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/microsurgery-gloves-small_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/microsurgery-gloves-small_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/microsurgery-gloves-small.webp" alt="Microsurgery Gloves" loading="lazy" decoding="async"></picture></div>
+                            <h3 class="title">Microsurgery <br> Gloves</h3>
                         </div>
                     </a>
                 </div>
@@ -652,7 +648,7 @@
                         <h3>Our Certifications</h3>
 
                         <div class="dbr" style="margin-bottom: 46px;">
-                            <img src="img/border-new1.png" alt="Gloves Manufacturer">
+                            <picture><source srcset="img/320w/border-new1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/border-new1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/border-new1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/border-new1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/border-new1.webp" alt="Gloves Manufacturer" loading="lazy" decoding="async"></picture>
                         </div>
                     </div>
                 </div>
@@ -673,9 +669,8 @@
                                 <div class="row">
                                     <div class=" certificates-width col-lg-2 col-md-3">
                                         <div class="single-brand-item">
-                                            <a href="https://www.vlhsglove.com/certifications/EN-ISO-13485-2016.pdf"
-                                                target="_blank">
-                                                <img src="assets/img/bureau-5.jpg" alt="Latex Surgical Gloves">
+                                            <a href="https://www.vlhsglove.com/certifications/EN-ISO-13485-2016.pdf" target="_blank">
+                                                <picture><source srcset="assets/img/320w/bureau-5_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/bureau-5_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/bureau-5_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/bureau-5_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/bureau-5.webp" alt="Latex Surgical Gloves" loading="lazy" decoding="async"></picture>
                                             </a>
                                         </div>
                                     </div>
@@ -687,16 +682,15 @@
 
                                     <div class="certificates-width col-lg-2 col-md-3">
                                         <div class="single-brand-item">
-                                            <a href="https://www.vlhsglove.com/certifications/new/BIS-Certification-2021.pdf"
-                                                target="_blank">
-                                                <img src="assets/img/ISI.jpg" alt="Latex Surgical Gloves">
+                                            <a href="https://www.vlhsglove.com/certifications/new/BIS-Certification-2021.pdf" target="_blank">
+                                                <picture><source srcset="assets/img/320w/ISI_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/ISI_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/ISI_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/ISI_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/ISI.webp" alt="Latex Surgical Gloves" loading="lazy" decoding="async"></picture>
                                             </a>
                                         </div>
                                     </div>
                                     <div class="certificates-width col-lg-2 col-md-3">
                                         <div class="single-brand-item">
                                             <a href="https://www.vlhsglove.com/certifications/CE.pdf" target="_blank">
-                                                <img src="img/brand/ec.jpg" alt="Latex Surgical Gloves">
+                                                <picture><source srcset="img/brand/320w/ec_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/brand/640w/ec_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/brand/1024w/ec_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/brand/1920w/ec_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/brand/ec.webp" alt="Latex Surgical Gloves" loading="lazy" decoding="async"></picture>
                                             </a>
                                         </div>
                                     </div>
@@ -717,7 +711,7 @@
                                             <!--<a href="certifications/FREE-SALE-CERTIFICATE.pdf" target="_blank">-->
                                             <a href="certifications/Fress-Sale-Issuance.pdf" target="_blank">
                                                 <!--<img src="img/brand/7.jpg" alt="Latex Surgical Gloves">-->
-                                                <img src="assets/img/certificate-free.png" alt="Latex Surgical Gloves">
+                                                <picture><source srcset="assets/img/320w/certificate-free_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/certificate-free_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/certificate-free_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/certificate-free_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/certificate-free.webp" alt="Latex Surgical Gloves" loading="lazy" decoding="async"></picture>
                                             </a>
                                         </div>
                                     </div>
@@ -731,7 +725,7 @@
                                             <!--<a href="certifications/FREE-SALE-CERTIFICATE.pdf" target="_blank">-->
                                             <a href="certifications/ppe-certificate.pdf" target="_blank">
                                                 <!--<img src="img/brand/7.jpg" alt="Latex Surgical Gloves">-->
-                                                <img src="assets/img/ppe-certificate.jpg" alt="Latex Surgical Gloves">
+                                                <picture><source srcset="assets/img/320w/ppe-certificate_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/ppe-certificate_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/ppe-certificate_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/ppe-certificate_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/ppe-certificate.webp" alt="Latex Surgical Gloves" loading="lazy" decoding="async"></picture>
                                             </a>
                                         </div>
                                     </div>
@@ -753,7 +747,7 @@
                 <div class="col-md-12 col-sm-12 col-xs-12">
                     <div class="section-headline text-center">
                         <h3>Blogs</h3>
-                        <div class="dbr"><img src="img/border-new.png" alt="Gloves Manufacturer"></div>
+                        <div class="dbr"><picture><source srcset="img/320w/border-new_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/border-new_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/border-new_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/border-new_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/border-new.webp" alt="Gloves Manufacturer" loading="lazy" decoding="async"></picture></div>
                     </div>
                 </div>
             </div>
@@ -791,22 +785,21 @@
 
 
                 <div class="col-md-4 blog_col" style="margin-bottom: 15px">
-                    <img src="img/blog/b9.png" class="img-responsive" alt="blog-image"
-                        style="">
+                    <picture><source srcset="img/blog/320w/b9_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/blog/640w/b9_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/blog/1024w/b9_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/blog/1920w/b9_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/blog/b9.webp" class="img-responsive" alt="blog-image" style="" loading="lazy" decoding="async"></picture>
                     <div class="blog_know">
                         <p class="blog_txt">The Importance of Hand care for Surgeons and Healthcare Workers</p>
                         <a href="the-importance-of-hand-care-for-surgeons-and-healthcare-workers.php">Read More</a>
                     </div>
                 </div>
                 <div class="col-md-4 blog_col">
-                    <img src="img/blog/b7.png" class="img-responsive" alt="blog-image" style="">
+                    <picture><source srcset="img/blog/320w/b7_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/blog/640w/b7_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/blog/1024w/b7_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/blog/1920w/b7_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/blog/b7.webp" class="img-responsive" alt="blog-image" style="" loading="lazy" decoding="async"></picture>
                     <div class="blog_know">
                         <p class="blog_txt">Uses Of Orthopaedic Gloves: All You Need To Know</p>
                         <a href="uses-of-orthopedic-gloves-all-you-need-to-know-about.php">Read More</a>
                     </div>
                 </div>
                 <div class="col-md-4 blog_col">
-                    <img src="assets/img/blog9-2.png" class="img-responsive" alt="blog-image" style="">
+                    <picture><source srcset="assets/img/320w/blog9-2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/blog9-2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/blog9-2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/blog9-2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/blog9-2.webp" class="img-responsive" alt="blog-image" style="" loading="lazy" decoding="async"></picture>
                     <div class="blog_know">
                         <p class="blog_txt">Why Surgical Powder-Free Gloves Are More Effective Than Powdered Gloves</p>
                         <a href="https://www.vlhsglove.com/why-surgical-powder-free-gloves-are-more-effective-than-powdered-gloves.php">Read More</a>
@@ -835,7 +828,7 @@
     </div>
     <!-- End Banner Area -->
     <!-- Start Footer bottom Area -->
-    <?php include_once('footer.php'); ?>
+    <!--?php include_once('footer.php'); ?-->
 
     <!-- all js here -->
 
@@ -872,7 +865,7 @@
                 }, 5000);
             </script> -->
 
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" ></script>
-</body>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b"></script>
 
-</html>
+
+</body></html>

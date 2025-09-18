@@ -1,21 +1,19 @@
-<!doctype html>
-<html >
-    <head>
+<!DOCTYPE html><html><head>
         <meta charset="utf-8">
         <title>Sterile surgical gloves | Vlhsglove</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
+        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Global site tag (gtag.js) - Google Analytics -->
         <meta name="description" content="sterile surgical gloves. Vlhsglove is made from natural rubber latex. The glove has straight fingers and is ambidextrous. Stay connected with us today">
-        <link rel="canonical" href="https://www.vlhsglove.com/sterile-surgical-gloves-exporters.php" />
+        <link rel="canonical" href="https://www.vlhsglove.com/sterile-surgical-gloves-exporters.php">
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -50,11 +48,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon/apple-icon-144x144.png">
 		<link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon/apple-icon-152x152.png">
 		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
-		<link rel="icon" type="image/png" sizes="192x192"  href="assets/img/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
-		<link href="assets/assets/docs.css" rel="stylesheet">
+		<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
         <link href="assets/css/flag-icon.css" rel="stylesheet">
 		<link rel="manifest" href="assets/img/favicon/manifest.json">
 		<meta name="msapplication-TileColor" content="#ffffff">
@@ -82,7 +80,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 		
 		
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -96,7 +94,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 		
 							<!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -175,7 +173,7 @@ function googleTranslateElementInit() {
                     <div class="row">
                         <div class="col-md-3 col-sm-3 col-xs-3">
                             <div class="logo">
-                                <a href="index.php"><img src="assets\img\logo.png" alt="Sterile surgical gloves in Spain"></a>
+                                <a href="index.php"><picture><source srcset="./320w/assets\img\logo_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="./640w/assets\img\logo_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="./1024w/assets\img\logo_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="./1920w/assets\img\logo_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="./assets\img\logo.webp" alt="Sterile surgical gloves in Spain" loading="lazy" decoding="async"></picture></a>
                             </div>
                         </div>
                         <div class="col-md-9 col-sm-9 col-xs-9">
@@ -266,7 +264,7 @@ function googleTranslateElementInit() {
                     <div class="col-md-4">
                         <div class="service-nav">
                     
-							<img src="assets/img/Latex-Surgical-powder-free.jpg" alt="Sterile surgical gloves in Spain" class="responsive" height="453px;" width="370px;">
+							<picture><source srcset="assets/img/320w/Latex-Surgical-powder-free_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Latex-Surgical-powder-free_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Latex-Surgical-powder-free_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Latex-Surgical-powder-free_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Latex-Surgical-powder-free.webp" alt="Sterile surgical gloves in Spain" class="responsive" height="453px;" width="370px;" loading="lazy" decoding="async"></picture>
                             <!---<ul class="nav">
                                 <li><a href="#"><i class="fa fa-wheelchair-alt"></i>Orthopaedics</a></li>
                                 <li><a href="#"><i class="fa fa-stethoscope"></i>Neurologist</a></li>
@@ -343,7 +341,7 @@ function googleTranslateElementInit() {
         <!--main js-->
         <script src="assets\js\main.js"></script>
         
-        <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+        <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
 
 	<script type="text/javascript">
                 $('.translation-links a').on('click', function() {
@@ -367,6 +365,6 @@ function googleTranslateElementInit() {
             	  
                 });
             </script>
-            <?php include_once('footer.php'); ?>
-    </body>
-</html>  
+            <!--?php include_once('footer.php'); ?-->
+    
+  </body></html>

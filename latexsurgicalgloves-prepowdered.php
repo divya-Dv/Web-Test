@@ -1,15 +1,12 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -21,7 +18,7 @@
         gtag('config', 'UA-83946647-2');
     </script>
     <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -71,15 +68,14 @@
     <!-- page title -->
     <title>DR Glove - Powdered Latex Surgical Glove</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description"
-        content="Discover DR Glove's Powdered Latex Surgical Glove, designed for comfort, durability, and excellent tactile sensitivity. Perfect for medical purpose" />
+    <meta name="description" content="Discover DR Glove's Powdered Latex Surgical Glove, designed for comfort, durability, and excellent tactile sensitivity. Perfect for medical purpose">
 
-    <link rel="canonical" href="https://www.vlhsglove.com/powdered-latex-examination-gloves.php" />
+    <link rel="canonical" href="https://www.vlhsglove.com/powdered-latex-examination-gloves.php">
     <!--Bootstrap css-->
 
     <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
@@ -97,7 +93,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 
 
-    <link href="assets/assets/docs.css" rel="stylesheet">
+    <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
     <link href="assets/css/flag-icon.css" rel="stylesheet">
 
     <link rel="manifest" href="assets/img/favicon/manifest.json">
@@ -125,7 +121,7 @@
     <!--modernizr js-->
     <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -237,7 +233,7 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include_once('innerpage_header.php'); ?>
+    <!--?php include_once('innerpage_header.php'); ?-->
     <!--End header area -->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
@@ -251,8 +247,7 @@
                             <h1 class="entry-title">Latex Surgical Gloves – Pre Powdered</h1>
                             <div class="nx-breadcrumb"><!-- Breadcrumb NavXT 6.1.0 -->
                                 <span property="itemListElement" typeof="ListItem">
-                                    <a property="item" typeof="WebPage" title="Go to Dr. Glove."
-                                        href="http://www.vlhsglove.com" class="home">
+                                    <a property="item" typeof="WebPage" title="Go to Dr. Glove." href="http://www.vlhsglove.com" class="home">
                                         <span property="name">Dr. Glove</span></a>
                                     <meta property="position" content="1">
                                 </span> &gt; <span property="itemListElement" typeof="ListItem">
@@ -288,10 +283,10 @@
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/prepowder.jpg" alt="" style="width:100%;">
+                                    <picture><source srcset="img/320w/prepowder_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/prepowder_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/prepowder_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/prepowder_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/prepowder.webp" alt="" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <div class="item">
-                                    <img src="img/prepowder2.jpg" alt="" style="width:100%;">
+                                    <picture><source srcset="img/320w/prepowder2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/prepowder2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/prepowder2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/prepowder2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/prepowder2.webp" alt="" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <!-- Left and right controls -->
                                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -327,12 +322,12 @@
                         <h3 class="color">QUALITY STANDARDS</h3>
                         <ul class="list">
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> EN 455-1,
-                                EN 455-2, EN 455-3, & EN 455-4</li>
+                                EN 455-2, EN 455-3, &amp; EN 455-4</li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> IS 13422,
-                                ASTM D 3577, & ISO 10282</li>
+                                ASTM D 3577, &amp; ISO 10282</li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> EN ISO 374
-                                Parts 1,2,4 & 5, EN 16523, EN ISO 21420, EN ISO 15223-1, EN ISO 11135,
-                                EN ISO 11137-1, EN ISO 11737-1 & 2, EN ISO 11138-2</li>
+                                Parts 1,2,4 &amp; 5, EN 16523, EN ISO 21420, EN ISO 15223-1, EN ISO 11135,
+                                EN ISO 11137-1, EN ISO 11737-1 &amp; 2, EN ISO 11138-2</li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> CE Mark -
                                 MDR 2017/745 Class IIa Device.</li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i>
@@ -357,10 +352,8 @@
                                 Standard of 0.65/1.5 AQL for Pinholes or as per the customer requirements.</li>
 
                         </ul><br>
-                        <a href="img/IFU-LSG PP_Vijayalakshmi Gloves.pdf" target="_blank"
-                            class="view_doc_btn">Instructions for Use</a>
-                        <a href="img/VLHS-Surgical-Product-Catalogue-PrePowdered.pdf" target="_blank"
-                            class="view_doc_btn">Product Catalogue</a>
+                        <a href="img/IFU-LSG PP_Vijayalakshmi Gloves.pdf" target="_blank" class="view_doc_btn">Instructions for Use</a>
+                        <a href="img/VLHS-Surgical-Product-Catalogue-PrePowdered.pdf" target="_blank" class="view_doc_btn">Product Catalogue</a>
                     </div>
                 </div>
             </div>
@@ -385,7 +378,7 @@
                         <li class=""><a data-toggle="tab" href="#bs_tab123738425"> Physical Properties</a></li>
                     </ul>
                     <div class="tab-content">
-                        <div class="tab-pane fade active in" id=bs_first_tab25>
+                        <div class="tab-pane fade active in" id="bs_first_tab25">
                             <table border="0" width="100%" cellspacing="1" cellpadding="5">
                                 <tbody>
                                     <tr>
@@ -398,7 +391,7 @@
                                     </tr>
                                     <tr>
                                         <th>Type</th>
-                                        <td>Latex Surgical Gloves, Powdered with US FDA approved <br />USP Grade Bio-Absorbable Corn Starch</td>
+                                        <td>Latex Surgical Gloves, Powdered with US FDA approved <br>USP Grade Bio-Absorbable Corn Starch</td>
                                     </tr>
                                     <tr>
                                         <th>Colour</th>
@@ -431,8 +424,8 @@
                                     </tr>
                                     <tr>
                                         <th>Packing</th>
-                                        <td>*One pair in paper wallet and one wallet per pouch.<br />
-                                            *50 pouches in dispenser box.<br />
+                                        <td>*One pair in paper wallet and one wallet per pouch.<br>
+                                            *50 pouches in dispenser box.<br>
                                             *8 boxes in one carton / As per customer requirement</td>
                                     </tr>
                                     <tr>
@@ -442,17 +435,15 @@
                                 </tbody>
                             </table>
                         </div>
-                        <div class="tab-pane fade " id=bs_tab121340625>
+                        <div class="tab-pane fade " id="bs_tab121340625">
                             <table class="table-list">
                                 <tbody>
                                     <tr>
                                         <td style="background-color: #0095da; color: #fff;" colspan="2" scope="col">
                                             <strong style="color: #fff;">Dimension Properties</strong>
                                         </td>
-                                        <td style="background-color: #0095da; color: #fff;" scope="col"><strong
-                                                style="color: #fff;">Dr.Glove Specification</strong></td>
-                                        <td style="background-color: #0095da; color: #fff;" scope="col"><strong
-                                                style="color: #fff;">ASTM D 3577 / IS 13422 Standard</strong></td>
+                                        <td style="background-color: #0095da; color: #fff;" scope="col"><strong style="color: #fff;">Dr.Glove Specification</strong></td>
+                                        <td style="background-color: #0095da; color: #fff;" scope="col"><strong style="color: #fff;">ASTM D 3577 / IS 13422 Standard</strong></td>
                                     </tr>
                                     <tr>
                                         <th scope="row" align="left">Length (mm)</th>
@@ -518,7 +509,7 @@
                                 </tbody>
                             </table>
                         </div>
-                        <div class="tab-pane fade " id=bs_tab123738425>
+                        <div class="tab-pane fade " id="bs_tab123738425">
                             <table class="table-list">
                                 <tbody>
                                     <tr>
@@ -602,20 +593,19 @@
                     <div class="row">
             <div class="form-group">
                 <label for="city"> City:</label>
-                <input type="text" class="form-control" id="city" name="city" required>
+                <input type="text" class="form-control" id="city" name="city" required="">
                     </div>
         </div>
                     <div class="row">
                         <div class="form-group">
                             <label for="email"> Phone:</label>
-                            <input type="tel" class="form-control" id="phone" name="phone" required maxlength="50">
+                            <input type="tel" class="form-control" id="phone" name="phone" required="" maxlength="50">
                         </div>
                     </div>
                     <div class="row">
                         <div class="form-group">
                             <label for="name"> Message:</label>
-                            <textarea class="form-control" type="textarea" id="message" name="message"
-                                placeholder="Your Message Here" maxlength="6000" rows="7"></textarea>
+                            <textarea class="form-control" type="textarea" id="message" name="message" placeholder="Your Message Here" maxlength="6000" rows="7"></textarea>
                         </div>
                     </div>
                     <div class="row">
@@ -668,7 +658,7 @@
     <!--main js-->
     <script src="assets\js\main.js"></script>
 
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
 
     <script type="text/javascript">
         $('.translation-links a').on('click', function() {
@@ -706,9 +696,9 @@
     </script>
     <!--captcha code end-->
 
-    <?php include_once('footer.php'); ?>
+    <!--?php include_once('footer.php'); ?-->
 
 
-</body>
 
-</html>
+
+</body></html>

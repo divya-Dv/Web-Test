@@ -1,12 +1,9 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -58,14 +55,14 @@
     <!-- page title -->
     <title>DR Glove - Surgical Gloves Manufacturing Process</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description" content="Surgical Gloves Manufacturing Process. We offers gloves for various applications, including the food industry, medical and personal protection call us." />
-    <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powder free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485." />
-    <link rel="canonical" href="https://www.vlhsglove.com/process.php" />
+    <meta name="description" content="Surgical Gloves Manufacturing Process. We offers gloves for various applications, including the food industry, medical and personal protection call us.">
+    <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powder free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485.">
+    <link rel="canonical" href="https://www.vlhsglove.com/process.php">
 
     <!--Bootstrap css-->
 
@@ -82,7 +79,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
-    <link href="assets/assets/docs.css" rel="stylesheet">
+    <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
     <link href="assets/css/flag-icon.css" rel="stylesheet">
     <link rel="manifest" href="assets/img/favicon/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -109,7 +106,7 @@
     <!--modernizr js-->
     <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -121,7 +118,7 @@
         gtag('config', 'UA-121999687-1');
     </script>
     <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -197,7 +194,7 @@
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include_once('innerpage_header.php'); ?>
+    <!--?php include_once('innerpage_header.php'); ?-->
 
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
@@ -241,10 +238,10 @@
                 <div class="grid">
                     <div class="col-md-4 col-sm-6 col-xs-12 padding grid-item metal">
                         <div class="content">
-                            <h3><strong>Pre Processing<strong></h3>
-                        </div>
+                            <h3><strong>Pre Processing<strong></strong></strong></h3><strong><strong>
+                        </strong></strong></div><strong><strong>
                         <div class="portfolio-single-item" style="border:1px solid blue;height:250px;">
-                            <img src="assets\img\Pre-Processing.jpg" class="img-responsive" alt="Surgical Gloves Manufacturing Process">
+                            <picture><source srcset="./320w/assets\img\Pre-Processing_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="./640w/assets\img\Pre-Processing_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="./1024w/assets\img\Pre-Processing_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="./1920w/assets\img\Pre-Processing_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="./assets\img\Pre-Processing.webp" class="img-responsive" alt="Surgical Gloves Manufacturing Process" loading="lazy" decoding="async"></picture>
 
                             <div class="portfolio-overlay">
                                 <div class="zoom">
@@ -253,13 +250,13 @@
 
                             </div>
                         </div>
-                    </div>
+                    </strong></strong></div><strong><strong>
                     <div class="col-md-4 col-sm-6 col-xs-12 padding grid-item metal">
                         <div class="content">
                             <h3><strong>Processing</strong></h3>
                         </div>
                         <div class="portfolio-single-item" style="border:1px solid blue;">
-                            <img src="assets\img\Processings.jpg" class="img-responsive" alt="Surgical Gloves Manufacturing Process">
+                            <picture><source srcset="./320w/assets\img\Processings_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="./640w/assets\img\Processings_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="./1024w/assets\img\Processings_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="./1920w/assets\img\Processings_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="./assets\img\Processings.webp" class="img-responsive" alt="Surgical Gloves Manufacturing Process" loading="lazy" decoding="async"></picture>
                             <div class="portfolio-overlay">
                                 <div class="zoom">
                                     <a href="assets\img\Processings.jpg" class="portfolio-single"><i class="fa fa-search-plus"></i></a>
@@ -273,7 +270,7 @@
                             <h3>Post Processing</h3>
                         </div>
                         <div class="portfolio-single-item" style="border:1px solid blue;">
-                            <img src="assets\img\Post-Processing-s.jpg" class="img-responsive" alt="Surgical Gloves Manufacturing Process">
+                            <picture><source srcset="./320w/assets\img\Post-Processing-s_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="./640w/assets\img\Post-Processing-s_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="./1024w/assets\img\Post-Processing-s_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="./1920w/assets\img\Post-Processing-s_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="./assets\img\Post-Processing-s.webp" class="img-responsive" alt="Surgical Gloves Manufacturing Process" loading="lazy" decoding="async"></picture>
                             <div class="portfolio-overlay">
                                 <div class="zoom">
                                     <a href="assets\img\Post-Processing-s.jpg" class="portfolio-single"><i class="fa fa-search-plus"></i></a>
@@ -282,10 +279,10 @@
                             </div>
                         </div>
                     </div>
-                </div>
-            </div>
-        </div>
-    </section><!--End Our-gallery section -->
+                </strong></strong></div><strong><strong>
+            </strong></strong></div><strong><strong>
+        </strong></strong></div><strong><strong>
+    </strong></strong></section><!--End Our-gallery section --><strong><strong>
     <!--start widget-area section -->
 
     <!--Scroll-up-->
@@ -312,7 +309,7 @@
     <!--main js-->
     <script src="assets\js\main.js"></script>
 
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
     <script type="text/javascript">
         $('.translation-links a').on('click', function() {
 
@@ -335,8 +332,8 @@
 
         });
     </script>
-    <?php include_once('footer.php'); ?>
+    <!--?php include_once('footer.php'); ?-->
 
-</body>
 
-</html>
+
+</strong></strong></body></html>

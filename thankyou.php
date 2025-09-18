@@ -1,12 +1,10 @@
-<!doctype html>
-<html lang="zxx">
-    <head>
+<!DOCTYPE html><html lang="zxx"><head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
         <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -33,13 +31,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!-- page title -->
         <title>Thank You | Dr. Glove | Surgical Gloves in Europe</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-        <meta name="description" content="Reach us for Surgical Gloves, Latex Surgical Gloves & Orthopaedic Gloves"/>
-        <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485."/>
+        <meta name="description" content="Reach us for Surgical Gloves, Latex Surgical Gloves &amp; Orthopaedic Gloves">
+        <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485.">
         
         <!--Bootstrap css-->
 		
@@ -52,7 +50,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon/apple-icon-144x144.png">
 		<link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon/apple-icon-152x152.png">
 		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
-		<link rel="icon" type="image/png" sizes="192x192"  href="assets/img/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
@@ -61,7 +59,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<meta name="msapplication-TileImage" content="assets/img/favicon/ms-icon-144x144.png">
 		<meta name="theme-color" content="#ffffff">
 		
-        <link rel="stylesheet" href="assets\bootstrap\css\bootstrap.min.css">
+        <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link rel="stylesheet" href="assets\bootstrap\css\bootstrap.min.css">
         <!-- Fontawesome css -->
         <link rel="stylesheet" href="assets\css\font-awesome.min.css">
         <!-- Slick slider css -->
@@ -81,7 +79,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!--modernizr js-->
         <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 		
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -93,7 +91,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <link rel="stylesheet" href="form.css">
 		<script src="form.js"></script>		
 							<!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -134,13 +132,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
        
         
-       <?php include_once('innerpage_header.php');?>
+       <!--?php include_once('innerpage_header.php');?-->
 		
         <section>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-12 text-center">
-							<img src="img/thank_you.jpg">
+							<picture><source srcset="img/320w/thank_you_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/thank_you_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/thank_you_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/thank_you_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/thank_you.webp" loading="lazy" decoding="async"></picture>
 					</div>
 				</div>
 			</div>
@@ -152,8 +150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		  <div id="content" class="site-content" role="main" style="margin-bottom:50px;">
                 <!-- #post -->
 
-			  <center><a href="index.php" 
-			style="padding:15px 30px;background:#95C837!important;color:#ffffff!important;border-radius:10px;font-weight:bold;">
+			  <center><a href="index.php" style="padding:15px 30px;background:#95C837!important;color:#ffffff!important;border-radius:10px;font-weight:bold;">
 				  Back To Home</a></center>
 <div id="comments" class="comments-area">
 
@@ -189,7 +186,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <script src="assets\js\jquery.counterup.min.js"></script>
         <script src="assets\js\waypoints.min.js"></script>
        
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCgvD1gxQxTJiZHkL47RjF3GLpAUqVXC90&callback"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCgvD1gxQxTJiZHkL47RjF3GLpAUqVXC90&amp;callback"></script>
         <!--validate js -->
         <script src="assets\js\jquery.validate.js"></script>
         <!--plugin js -->
@@ -198,8 +195,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <script src="assets\js\main.js"></script>
         
         <!--<script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>-->
-		<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>
-		       <?php include_once('footer.php');?>
+		<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&amp;hash=193b82c521e5a0fe843dbd9e697b3505&amp;lsid=19608"></script>
+		       <!--?php include_once('footer.php');?-->
 
-    </body>
-</html>    
+    
+    </body></html>

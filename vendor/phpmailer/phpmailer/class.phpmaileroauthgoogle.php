@@ -1,11 +1,10 @@
-<?php
+<!--?php
 /**
  * PHPMailer - PHP email creation and transport class.
  * PHP Version 5.4
  * @package PHPMailer
  * @link https://github.com/PHPMailer/PHPMailer/ The PHPMailer GitHub project
- * @author Marcus Bointon (Synchro/coolbru) <phpmailer@synchromedia.co.uk>
- * @author Jim Jagielski (jimjag) <jimjag@gmail.com>
+ * @author Marcus Bointon (Synchro/coolbru) <phpmailer@synchromedia.co.uk--><html><head></head><body>* @author Jim Jagielski (jimjag) <jimjag@gmail.com>
  * @author Andy Prevost (codeworxtech) <codeworxtech@users.sourceforge.net>
  * @author Brent R. Matzelle (original founder)
  * @copyright 2012 - 2014 Marcus Bointon
@@ -43,17 +42,17 @@ class PHPMailerOAuthGoogle
         $ClientId,
         $RefreshToken
     ) {
-        $this->oauthClientId = $ClientId;
-        $this->oauthClientSecret = $ClientSecret;
-        $this->oauthRefreshToken = $RefreshToken;
-        $this->oauthUserEmail = $UserEmail;
+        $this-&gt;oauthClientId = $ClientId;
+        $this-&gt;oauthClientSecret = $ClientSecret;
+        $this-&gt;oauthRefreshToken = $RefreshToken;
+        $this-&gt;oauthUserEmail = $UserEmail;
     }
 
     private function getProvider()
     {
         return new League\OAuth2\Client\Provider\Google([
-            'clientId' => $this->oauthClientId,
-            'clientSecret' => $this->oauthClientSecret
+            'clientId' =&gt; $this-&gt;oauthClientId,
+            'clientSecret' =&gt; $this-&gt;oauthClientSecret
         ]);
     }
 
@@ -64,14 +63,15 @@ class PHPMailerOAuthGoogle
 
     private function getToken()
     {
-        $provider = $this->getProvider();
-        $grant = $this->getGrant();
-        return $provider->getAccessToken($grant, ['refresh_token' => $this->oauthRefreshToken]);
+        $provider = $this-&gt;getProvider();
+        $grant = $this-&gt;getGrant();
+        return $provider-&gt;getAccessToken($grant, ['refresh_token' =&gt; $this-&gt;oauthRefreshToken]);
     }
 
     public function getOauth64()
     {
-        $token = $this->getToken();
-        return base64_encode("user=" . $this->oauthUserEmail . "\001auth=Bearer " . $token . "\001\001");
+        $token = $this-&gt;getToken();
+        return base64_encode("user=" . $this-&gt;oauthUserEmail . "\001auth=Bearer " . $token . "\001\001");
     }
 }
+</phpmailer@synchromedia.co.uk></codeworxtech@users.sourceforge.net></jimjag@gmail.com></body></html>

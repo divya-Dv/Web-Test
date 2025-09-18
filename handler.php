@@ -1,4 +1,4 @@
-<?php
+<!--?php
 ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
@@ -13,14 +13,14 @@ use FormGuide\Handlx\FormHandler;
 
 $pp = new FormHandler(); 
 
-$validator = $pp->getValidator();
-$validator->fields(['name', 'email','phone'])->areRequired()->maxLength(50);
-$validator->field('email')->isEmail();
-$validator->field('message')->maxLength(6000);
+$validator = $pp---><html><head></head><body>getValidator();
+$validator-&gt;fields(['name', 'email','phone'])-&gt;areRequired()-&gt;maxLength(50);
+$validator-&gt;field('email')-&gt;isEmail();
+$validator-&gt;field('message')-&gt;maxLength(6000);
 
 
 
 
-$pp->sendEmailTo('info@vlhsglove.com'); // ← Your email here
+$pp-&gt;sendEmailTo('info@vlhsglove.com'); // ← Your email here
 
-echo $pp->process($_POST);
+echo $pp-&gt;process($_POST);</body></html>

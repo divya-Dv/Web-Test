@@ -1,12 +1,10 @@
-<!doctype html>
-<html lang="en">
-    <head>
+<!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
-        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -15,7 +13,7 @@
   gtag('config', 'UA-83946647-2');
 </script>
 <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=A<W-753793562"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=A<W-753793562"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);} 
@@ -33,14 +31,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!-- page title -->
         <title>DR Glove - Micro Surgery Gloves Manufacturer</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-		<meta name="description" content="Micro Surgery Gloves Manufacturer. Our gloves offer exceptional precision, comforts, and protection for delicate surgical procedure visit our website."/>
+		<meta name="description" content="Micro Surgery Gloves Manufacturer. Our gloves offer exceptional precision, comforts, and protection for delicate surgical procedure visit our website.">
 		
-        <link rel="canonical" href="https://www.vlhsglove.com/micro-surgery-gloves-manufacturer.php" />
+        <link rel="canonical" href="https://www.vlhsglove.com/micro-surgery-gloves-manufacturer.php">
         <!--Bootstrap css-->
 		
 		<link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
@@ -52,13 +50,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon/apple-icon-144x144.png">
 		<link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon/apple-icon-152x152.png">
 		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
-		<link rel="icon" type="image/png" sizes="192x192"  href="assets/img/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 		
 		
-			<link href="assets/assets/docs.css" rel="stylesheet">
+			<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
         <link href="assets/css/flag-icon.css" rel="stylesheet">
 		
 		<link rel="manifest" href="assets/img/favicon/manifest.json">
@@ -86,7 +84,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!--modernizr js-->
         <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 		
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -153,7 +151,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
         
-       <?php include_once('innerpage_header.php');?>
+       <!--?php include_once('innerpage_header.php');?-->
 		<!--Start Medipath-banner area -->
        <section class="medipath-banner">
             <div class="medipath-overlay"></div>
@@ -170,19 +168,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 					 <div class="nx-breadcrumb"><!-- Breadcrumb NavXT 6.1.0 -->
                      <span property="itemListElement" typeof="ListItem">
 						
-				</div>
+				</span></div>
 			</div>
   </div>
                 </div>
             </div>
-        </section><!--End Medipath-banner area -->
+        </div></section><!--End Medipath-banner area -->
         <!--start about section -->
         <section class="about section-padding">
             <div class="container">
                 <div class="row">
                     <div class="col-md-5 img_col" style="padding-top:20px;">
                         <div class="medipath-details-img">
-                            <img src="../img/prepowder1.jpg" class="img-responsive" alt="Micro Surgery Gloves Manufacturer" title="Micro Surgery Gloves Manufacturer">
+                            <picture><source srcset="../img/320w/prepowder1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/640w/prepowder1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/1024w/prepowder1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/1920w/prepowder1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/prepowder1.webp" class="img-responsive" alt="Micro Surgery Gloves Manufacturer" title="Micro Surgery Gloves Manufacturer" loading="lazy" decoding="async" width="1667" height="1875"></picture>
                                           
                             
                         </div>
@@ -192,19 +190,19 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="medipath-Welcome">
 							<!---<h4 style="color:#1ed1c7;"><center>ABOUT VLHS</center></h4>-->
 							<h2>Microsurgery Gloves Manufacturer</h2>
-                            <p>You can round off your search for high-performance micro surgery gloves manufacturer with <b>Vijayalakshmi Health and Surgical Pvt. Ltd</b> Glove. Founded by a team of visionaries, the company has risen to the top from its modest beginnings to become one of the most prestigious brands. Our goal is simple and far-reaching; to equip healthcare experts with quality-driven gloves so they can perform their tasks with confidence and help improve health outcomes over time. Each pair of our <a href= "latexsurgicalgloves-prepowdered.php">latex surgical gloves</a> is made with great precision and care. They undergo a series of checks to ensure they are of top quality.</p>
+                            <p>You can round off your search for high-performance micro surgery gloves manufacturer with <b>Vijayalakshmi Health and Surgical Pvt. Ltd</b> Glove. Founded by a team of visionaries, the company has risen to the top from its modest beginnings to become one of the most prestigious brands. Our goal is simple and far-reaching; to equip healthcare experts with quality-driven gloves so they can perform their tasks with confidence and help improve health outcomes over time. Each pair of our <a href="latexsurgicalgloves-prepowdered.php">latex surgical gloves</a> is made with great precision and care. They undergo a series of checks to ensure they are of top quality.</p>
  
-<p style="margin-top: 15px;">Quality compliance underscores all our efforts as a highly trusted <b>micro surgery gloves manufacturer</b>. Our team of engineers, technicians, and other industry professionals work in close sync to ensure our processes are streamlined while adhering to all relevant quality guidelines. Some of our accreditations includes CE Certification, EN ISO-13485:2016, and ISI Certification. This serves as testimony to our commitment and expertise as a process-driven company. With increased competition over the years, it has become imperative to differentiate our offerings by complying with various international standards. Heavy investment in R&D projects allows us to bring innovative solutions to the market. Our production facility is fitted with advanced machinery which allows us to produce gloves that offer superior protection and comfort every time. Our current production capacity is 42 million pairs of gloves.</p>
+<p style="margin-top: 15px;">Quality compliance underscores all our efforts as a highly trusted <b>micro surgery gloves manufacturer</b>. Our team of engineers, technicians, and other industry professionals work in close sync to ensure our processes are streamlined while adhering to all relevant quality guidelines. Some of our accreditations includes CE Certification, EN ISO-13485:2016, and ISI Certification. This serves as testimony to our commitment and expertise as a process-driven company. With increased competition over the years, it has become imperative to differentiate our offerings by complying with various international standards. Heavy investment in R&amp;D projects allows us to bring innovative solutions to the market. Our production facility is fitted with advanced machinery which allows us to produce gloves that offer superior protection and comfort every time. Our current production capacity is 42 million pairs of gloves.</p>
                          </div>
                     </div>
 					
                 </div>
                 <div class="col-md-12 text_col">
                    <p style="margin-top: 15px;">Our greatest strength as a top-tier <b>micro surgery gloves manufacturer</b> is the tireless effort to improve our capabilities from time to time. We work closely with our clients to understand their challenges and devise solutions that are reliable and effective. It is time to change the medical landscape for the better with <b>Vijayalakshmi Health and Surgical Pvt. Ltd</b> Glove as your trusted partner in the effort to improve lives.</p>
-<p style="margin-top: 15px;"><b>Related Link:</b> <a href= "micro-surgery-gloves-manufacturer.php">Microsurgery Gloves Manufacturer In India</a></p>
+<p style="margin-top: 15px;"><b>Related Link:</b> <a href="micro-surgery-gloves-manufacturer.php">Microsurgery Gloves Manufacturer In India</a></p>
                 </div>
             </div>
-        </section>
+        </div></section>
       
         <!--Scroll-up-->
         <a id="scroll-up"><i class="fa fa-angle-up"></i></a>
@@ -230,7 +228,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!--main js-->
         <script src="assets/js/main.js"></script>
         <script src="js/main.js"></script>
-        <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+        <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
 		<!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
 
@@ -256,7 +254,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             	  
                 });
             </script>
-                   <?php include_once('footer.php');?>
+                   <!--?php include_once('footer.php');?-->
 
-    </body>
-</html>    
+    
+    </body></html>

@@ -1,4 +1,4 @@
-<?php
+<!--?php
 
 /**
 * Registers an autoload for all the classes in Gregwar\Captcha
@@ -14,3 +14,4 @@ spl_autoload_register(function ($className) {
         }
     }
 });
+--><html><head></head><body></body></html>

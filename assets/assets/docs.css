@@ -50,7 +50,7 @@ h6 {
   text-align: center;
   border-radius: 0;
   padding-bottom: 80px;
-  background: linear-gradient(to right, #0d6632, #f4c01a);
+  linear-gradient(to right, #0d6632, #f4c01a)
 }
 .jumbotron h1 {
   margin-bottom: 15px;

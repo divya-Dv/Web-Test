@@ -1,23 +1,19 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <?php include 'innerpage-toplinks.php' ?>
+    <!--?php include 'innerpage-toplinks.php' ?-->
 
     <!-- End Google Tag Manager -->
     <!-- page title -->
     <title>Surgical Hand Gloves Exporter In Ahmedabad - DR Glove</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description"
-        content="Best Surgical Hand Gloves Exporter In Ahmedabad from Vijaylakshmi health and surgicals pvt ltd provide top quality gloves to customers visit us for details." />
+    <meta name="description" content="Best Surgical Hand Gloves Exporter In Ahmedabad from Vijaylakshmi health and surgicals pvt ltd provide top quality gloves to customers visit us for details.">
 
-    <link rel="canonical" href="https://www.vlhsglove.com/surgical-hand-gloves-exporter-ahmedabad.php" />
+    <link rel="canonical" href="https://www.vlhsglove.com/surgical-hand-gloves-exporter-ahmedabad.php">
     <!--Bootstrap css-->
 
 
@@ -53,7 +49,7 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include_once('innerpage_header.php');?>
+    <!--?php include_once('innerpage_header.php');?-->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
         <div class="medipath-overlay"></div>
@@ -76,12 +72,12 @@
                                 <!-- Breadcrumb NavXT 6.1.0 -->
                                 <span property="itemListElement" typeof="ListItem">
 
-                            </div>
+                            </span></div>
                         </div>
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
     <!--End Medipath-banner area -->
     <!--start about section -->
     <section class="about section-padding">
@@ -94,10 +90,10 @@
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/prepowder.jpg" alt="Surgical Hand Gloves Exporter In Ahmedabad" style="width:100%;">
+                                    <picture><source srcset="img/320w/prepowder_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/prepowder_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/prepowder_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/prepowder_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/prepowder.webp" alt="Surgical Hand Gloves Exporter In Ahmedabad" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <div class="item">
-                                    <img src="img/prepowder2.jpg" alt="Surgical Hand Gloves Exporter In Ahmedabad" style="width:100%;">
+                                    <picture><source srcset="img/320w/prepowder2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/prepowder2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/prepowder2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/prepowder2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/prepowder2.webp" alt="Surgical Hand Gloves Exporter In Ahmedabad" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <!-- Left and right controls -->
                                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -177,13 +173,12 @@
                             medical case. Our team of industry experts and professionals are dedicated to upholding our
                             stand as an industry leader and upholding the trust we have gained over the years from
                             healthcare professionals over the years.</p>
-                        <p style="margin-top: 15px;"><b>Related Link:</b> <a
-                                href="surgical-hand-gloves-manufacturer-delhi.php">Surgical Hand Gloves Manufacturer In Delhi</a>
+                        <p style="margin-top: 15px;"><b>Related Link:</b> <a href="surgical-hand-gloves-manufacturer-delhi.php">Surgical Hand Gloves Manufacturer In Delhi</a>
                         </p>
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
 
     <!--Scroll-up-->
     <a id="scroll-up"><i class="fa fa-angle-up"></i></a>
@@ -209,8 +204,7 @@
     <!--main js-->
     <script src="assets/js/main.js"></script>
     <script src="js/main.js"></script>
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b"
-        type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
     <!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
 
@@ -236,8 +230,8 @@
 
     });
     </script>
-    <?php include_once('footer.php');?>
+    <!--?php include_once('footer.php');?-->
 
-</body>
 
-</html>
+
+</body></html>

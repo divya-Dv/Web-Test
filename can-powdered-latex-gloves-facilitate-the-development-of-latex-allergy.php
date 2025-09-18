@@ -1,13 +1,10 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -19,7 +16,7 @@
         gtag('config', 'UA-83946647-2');
     </script>
     <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -51,14 +48,14 @@
     <!-- page title -->
     <title>Can Powdered Latex Gloves Facilitate the Development of Latex Allergy? | Vlhs</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description" content="A study recently looked at the effects of powdered latex gloves and found that they may facilitate the development of latex allergy." />
+    <meta name="description" content="A study recently looked at the effects of powdered latex gloves and found that they may facilitate the development of latex allergy.">
 
-    <link rel="canonical" href="https://www.vlhsglove.com/can-powdered-latex-gloves-facilitate-the-development-of-latex-allergy.php" />
+    <link rel="canonical" href="https://www.vlhsglove.com/can-powdered-latex-gloves-facilitate-the-development-of-latex-allergy.php">
     <!--Bootstrap css-->
 
     <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
@@ -76,7 +73,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 
 
-    <link href="assets/assets/docs.css" rel="stylesheet">
+    <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
     <link href="assets/css/flag-icon.css" rel="stylesheet">
 
     <link rel="manifest" href="assets/img/favicon/manifest.json">
@@ -104,7 +101,7 @@
     <!--modernizr js-->
     <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -179,7 +176,7 @@
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include_once('innerpage_header.php'); ?>
+    <!--?php include_once('innerpage_header.php'); ?-->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
         <div class="medipath-overlay"></div>
@@ -219,7 +216,7 @@
                 </div>
                 <div class="col-md-5 img_col" style="padding-top:20px;">
                     <div class="medipath-details-img">
-                        <img src="assets/img/powered-latex-gloves.jpg" class="img-responsive" alt="Can Powdered Latex Gloves Facilitate the Development of Latex Allergy" title="Can Powdered Latex Gloves Facilitate the Development of Latex Allergy" style="">
+                        <picture><source srcset="assets/img/320w/powered-latex-gloves_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/powered-latex-gloves_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/powered-latex-gloves_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/powered-latex-gloves_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/powered-latex-gloves.webp" class="img-responsive" alt="Can Powdered Latex Gloves Facilitate the Development of Latex Allergy" title="Can Powdered Latex Gloves Facilitate the Development of Latex Allergy" style="" loading="lazy" decoding="async"></picture>
                     </div>
                 </div>
             </div>
@@ -251,7 +248,7 @@
     <!--main js-->
     <script src="assets/js/main.js"></script>
     <script src="js/main.js"></script>
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
 
 
     <script type="text/javascript">
@@ -276,7 +273,7 @@
 
         });
     </script>
-    <?php include_once('footer.php'); ?>
-</body>
+    <!--?php include_once('footer.php'); ?-->
 
-</html>
+
+</body></html>

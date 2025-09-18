@@ -1,10 +1,9 @@
-<?php
+<!--?php
 
 /*
  * This file is part of Composer.
  *
- * (c) Nils Adermann <naderman@naderman.de>
- *     Jordi Boggiano <j.boggiano@seld.be>
+ * (c) Nils Adermann <naderman@naderman.de--><html><head></head><body>*     Jordi Boggiano <j.boggiano@seld.be>
  *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
@@ -18,14 +17,14 @@ namespace Composer\Autoload;
  *     $loader = new \Composer\Autoload\ClassLoader();
  *
  *     // register classes with namespaces
- *     $loader->add('Symfony\Component', __DIR__.'/component');
- *     $loader->add('Symfony',           __DIR__.'/framework');
+ *     $loader-&gt;add('Symfony\Component', __DIR__.'/component');
+ *     $loader-&gt;add('Symfony',           __DIR__.'/framework');
  *
  *     // activate the autoloader
- *     $loader->register();
+ *     $loader-&gt;register();
  *
  *     // to enable searching the include path (eg. for PEAR packages)
- *     $loader->setUseIncludePath(true);
+ *     $loader-&gt;setUseIncludePath(true);
  *
  * In this example, if you try to use a class in the Symfony\Component
  * namespace or one of its children (Symfony\Component\Console for instance),
@@ -59,8 +58,8 @@ class ClassLoader
 
     public function getPrefixes()
     {
-        if (!empty($this->prefixesPsr0)) {
-            return call_user_func_array('array_merge', $this->prefixesPsr0);
+        if (!empty($this-&gt;prefixesPsr0)) {
+            return call_user_func_array('array_merge', $this-&gt;prefixesPsr0);
         }
 
         return array();
@@ -68,22 +67,22 @@ class ClassLoader
 
     public function getPrefixesPsr4()
     {
-        return $this->prefixDirsPsr4;
+        return $this-&gt;prefixDirsPsr4;
     }
 
     public function getFallbackDirs()
     {
-        return $this->fallbackDirsPsr0;
+        return $this-&gt;fallbackDirsPsr0;
     }
 
     public function getFallbackDirsPsr4()
     {
-        return $this->fallbackDirsPsr4;
+        return $this-&gt;fallbackDirsPsr4;
     }
 
     public function getClassMap()
     {
-        return $this->classMap;
+        return $this-&gt;classMap;
     }
 
     /**
@@ -91,10 +90,10 @@ class ClassLoader
      */
     public function addClassMap(array $classMap)
     {
-        if ($this->classMap) {
-            $this->classMap = array_merge($this->classMap, $classMap);
+        if ($this-&gt;classMap) {
+            $this-&gt;classMap = array_merge($this-&gt;classMap, $classMap);
         } else {
-            $this->classMap = $classMap;
+            $this-&gt;classMap = $classMap;
         }
     }
 
@@ -110,13 +109,13 @@ class ClassLoader
     {
         if (!$prefix) {
             if ($prepend) {
-                $this->fallbackDirsPsr0 = array_merge(
+                $this-&gt;fallbackDirsPsr0 = array_merge(
                     (array) $paths,
-                    $this->fallbackDirsPsr0
+                    $this-&gt;fallbackDirsPsr0
                 );
             } else {
-                $this->fallbackDirsPsr0 = array_merge(
-                    $this->fallbackDirsPsr0,
+                $this-&gt;fallbackDirsPsr0 = array_merge(
+                    $this-&gt;fallbackDirsPsr0,
                     (array) $paths
                 );
             }
@@ -125,19 +124,19 @@ class ClassLoader
         }
 
         $first = $prefix[0];
-        if (!isset($this->prefixesPsr0[$first][$prefix])) {
-            $this->prefixesPsr0[$first][$prefix] = (array) $paths;
+        if (!isset($this-&gt;prefixesPsr0[$first][$prefix])) {
+            $this-&gt;prefixesPsr0[$first][$prefix] = (array) $paths;
 
             return;
         }
         if ($prepend) {
-            $this->prefixesPsr0[$first][$prefix] = array_merge(
+            $this-&gt;prefixesPsr0[$first][$prefix] = array_merge(
                 (array) $paths,
-                $this->prefixesPsr0[$first][$prefix]
+                $this-&gt;prefixesPsr0[$first][$prefix]
             );
         } else {
-            $this->prefixesPsr0[$first][$prefix] = array_merge(
-                $this->prefixesPsr0[$first][$prefix],
+            $this-&gt;prefixesPsr0[$first][$prefix] = array_merge(
+                $this-&gt;prefixesPsr0[$first][$prefix],
                 (array) $paths
             );
         }
@@ -158,34 +157,34 @@ class ClassLoader
         if (!$prefix) {
             // Register directories for the root namespace.
             if ($prepend) {
-                $this->fallbackDirsPsr4 = array_merge(
+                $this-&gt;fallbackDirsPsr4 = array_merge(
                     (array) $paths,
-                    $this->fallbackDirsPsr4
+                    $this-&gt;fallbackDirsPsr4
                 );
             } else {
-                $this->fallbackDirsPsr4 = array_merge(
-                    $this->fallbackDirsPsr4,
+                $this-&gt;fallbackDirsPsr4 = array_merge(
+                    $this-&gt;fallbackDirsPsr4,
                     (array) $paths
                 );
             }
-        } elseif (!isset($this->prefixDirsPsr4[$prefix])) {
+        } elseif (!isset($this-&gt;prefixDirsPsr4[$prefix])) {
             // Register directories for a new namespace.
             $length = strlen($prefix);
             if ('\\' !== $prefix[$length - 1]) {
                 throw new \InvalidArgumentException("A non-empty PSR-4 prefix must end with a namespace separator.");
             }
-            $this->prefixLengthsPsr4[$prefix[0]][$prefix] = $length;
-            $this->prefixDirsPsr4[$prefix] = (array) $paths;
+            $this-&gt;prefixLengthsPsr4[$prefix[0]][$prefix] = $length;
+            $this-&gt;prefixDirsPsr4[$prefix] = (array) $paths;
         } elseif ($prepend) {
             // Prepend directories for an already registered namespace.
-            $this->prefixDirsPsr4[$prefix] = array_merge(
+            $this-&gt;prefixDirsPsr4[$prefix] = array_merge(
                 (array) $paths,
-                $this->prefixDirsPsr4[$prefix]
+                $this-&gt;prefixDirsPsr4[$prefix]
             );
         } else {
             // Append directories for an already registered namespace.
-            $this->prefixDirsPsr4[$prefix] = array_merge(
-                $this->prefixDirsPsr4[$prefix],
+            $this-&gt;prefixDirsPsr4[$prefix] = array_merge(
+                $this-&gt;prefixDirsPsr4[$prefix],
                 (array) $paths
             );
         }
@@ -201,9 +200,9 @@ class ClassLoader
     public function set($prefix, $paths)
     {
         if (!$prefix) {
-            $this->fallbackDirsPsr0 = (array) $paths;
+            $this-&gt;fallbackDirsPsr0 = (array) $paths;
         } else {
-            $this->prefixesPsr0[$prefix[0]][$prefix] = (array) $paths;
+            $this-&gt;prefixesPsr0[$prefix[0]][$prefix] = (array) $paths;
         }
     }
 
@@ -219,14 +218,14 @@ class ClassLoader
     public function setPsr4($prefix, $paths)
     {
         if (!$prefix) {
-            $this->fallbackDirsPsr4 = (array) $paths;
+            $this-&gt;fallbackDirsPsr4 = (array) $paths;
         } else {
             $length = strlen($prefix);
             if ('\\' !== $prefix[$length - 1]) {
                 throw new \InvalidArgumentException("A non-empty PSR-4 prefix must end with a namespace separator.");
             }
-            $this->prefixLengthsPsr4[$prefix[0]][$prefix] = $length;
-            $this->prefixDirsPsr4[$prefix] = (array) $paths;
+            $this-&gt;prefixLengthsPsr4[$prefix[0]][$prefix] = $length;
+            $this-&gt;prefixDirsPsr4[$prefix] = (array) $paths;
         }
     }
 
@@ -237,7 +236,7 @@ class ClassLoader
      */
     public function setUseIncludePath($useIncludePath)
     {
-        $this->useIncludePath = $useIncludePath;
+        $this-&gt;useIncludePath = $useIncludePath;
     }
 
     /**
@@ -248,7 +247,7 @@ class ClassLoader
      */
     public function getUseIncludePath()
     {
-        return $this->useIncludePath;
+        return $this-&gt;useIncludePath;
     }
 
     /**
@@ -259,7 +258,7 @@ class ClassLoader
      */
     public function setClassMapAuthoritative($classMapAuthoritative)
     {
-        $this->classMapAuthoritative = $classMapAuthoritative;
+        $this-&gt;classMapAuthoritative = $classMapAuthoritative;
     }
 
     /**
@@ -269,7 +268,7 @@ class ClassLoader
      */
     public function isClassMapAuthoritative()
     {
-        return $this->classMapAuthoritative;
+        return $this-&gt;classMapAuthoritative;
     }
 
     /**
@@ -279,7 +278,7 @@ class ClassLoader
      */
     public function setApcuPrefix($apcuPrefix)
     {
-        $this->apcuPrefix = function_exists('apcu_fetch') && ini_get('apc.enabled') ? $apcuPrefix : null;
+        $this-&gt;apcuPrefix = function_exists('apcu_fetch') &amp;&amp; ini_get('apc.enabled') ? $apcuPrefix : null;
     }
 
     /**
@@ -289,7 +288,7 @@ class ClassLoader
      */
     public function getApcuPrefix()
     {
-        return $this->apcuPrefix;
+        return $this-&gt;apcuPrefix;
     }
 
     /**
@@ -318,7 +317,7 @@ class ClassLoader
      */
     public function loadClass($class)
     {
-        if ($file = $this->findFile($class)) {
+        if ($file = $this-&gt;findFile($class)) {
             includeFile($file);
 
             return true;
@@ -335,33 +334,33 @@ class ClassLoader
     public function findFile($class)
     {
         // class map lookup
-        if (isset($this->classMap[$class])) {
-            return $this->classMap[$class];
+        if (isset($this-&gt;classMap[$class])) {
+            return $this-&gt;classMap[$class];
         }
-        if ($this->classMapAuthoritative || isset($this->missingClasses[$class])) {
+        if ($this-&gt;classMapAuthoritative || isset($this-&gt;missingClasses[$class])) {
             return false;
         }
-        if (null !== $this->apcuPrefix) {
-            $file = apcu_fetch($this->apcuPrefix.$class, $hit);
+        if (null !== $this-&gt;apcuPrefix) {
+            $file = apcu_fetch($this-&gt;apcuPrefix.$class, $hit);
             if ($hit) {
                 return $file;
             }
         }
 
-        $file = $this->findFileWithExtension($class, '.php');
+        $file = $this-&gt;findFileWithExtension($class, '.php');
 
         // Search for Hack files if we are running on HHVM
-        if (false === $file && defined('HHVM_VERSION')) {
-            $file = $this->findFileWithExtension($class, '.hh');
+        if (false === $file &amp;&amp; defined('HHVM_VERSION')) {
+            $file = $this-&gt;findFileWithExtension($class, '.hh');
         }
 
-        if (null !== $this->apcuPrefix) {
-            apcu_add($this->apcuPrefix.$class, $file);
+        if (null !== $this-&gt;apcuPrefix) {
+            apcu_add($this-&gt;apcuPrefix.$class, $file);
         }
 
         if (false === $file) {
             // Remember that this class does not exist.
-            $this->missingClasses[$class] = true;
+            $this-&gt;missingClasses[$class] = true;
         }
 
         return $file;
@@ -373,14 +372,14 @@ class ClassLoader
         $logicalPathPsr4 = strtr($class, '\\', DIRECTORY_SEPARATOR) . $ext;
 
         $first = $class[0];
-        if (isset($this->prefixLengthsPsr4[$first])) {
+        if (isset($this-&gt;prefixLengthsPsr4[$first])) {
             $subPath = $class;
             while (false !== $lastPos = strrpos($subPath, '\\')) {
                 $subPath = substr($subPath, 0, $lastPos);
                 $search = $subPath.'\\';
-                if (isset($this->prefixDirsPsr4[$search])) {
-                    foreach ($this->prefixDirsPsr4[$search] as $dir) {
-                        $length = $this->prefixLengthsPsr4[$first][$search];
+                if (isset($this-&gt;prefixDirsPsr4[$search])) {
+                    foreach ($this-&gt;prefixDirsPsr4[$search] as $dir) {
+                        $length = $this-&gt;prefixLengthsPsr4[$first][$search];
                         if (file_exists($file = $dir . DIRECTORY_SEPARATOR . substr($logicalPathPsr4, $length))) {
                             return $file;
                         }
@@ -390,7 +389,7 @@ class ClassLoader
         }
 
         // PSR-4 fallback dirs
-        foreach ($this->fallbackDirsPsr4 as $dir) {
+        foreach ($this-&gt;fallbackDirsPsr4 as $dir) {
             if (file_exists($file = $dir . DIRECTORY_SEPARATOR . $logicalPathPsr4)) {
                 return $file;
             }
@@ -406,8 +405,8 @@ class ClassLoader
             $logicalPathPsr0 = strtr($class, '_', DIRECTORY_SEPARATOR) . $ext;
         }
 
-        if (isset($this->prefixesPsr0[$first])) {
-            foreach ($this->prefixesPsr0[$first] as $prefix => $dirs) {
+        if (isset($this-&gt;prefixesPsr0[$first])) {
+            foreach ($this-&gt;prefixesPsr0[$first] as $prefix =&gt; $dirs) {
                 if (0 === strpos($class, $prefix)) {
                     foreach ($dirs as $dir) {
                         if (file_exists($file = $dir . DIRECTORY_SEPARATOR . $logicalPathPsr0)) {
@@ -419,14 +418,14 @@ class ClassLoader
         }
 
         // PSR-0 fallback dirs
-        foreach ($this->fallbackDirsPsr0 as $dir) {
+        foreach ($this-&gt;fallbackDirsPsr0 as $dir) {
             if (file_exists($file = $dir . DIRECTORY_SEPARATOR . $logicalPathPsr0)) {
                 return $file;
             }
         }
 
         // PSR-0 include paths.
-        if ($this->useIncludePath && $file = stream_resolve_include_path($logicalPathPsr0)) {
+        if ($this-&gt;useIncludePath &amp;&amp; $file = stream_resolve_include_path($logicalPathPsr0)) {
             return $file;
         }
 
@@ -443,3 +442,4 @@ function includeFile($file)
 {
     include $file;
 }
+</j.boggiano@seld.be></fabien@symfony.com></j.boggiano@seld.be></body></html>

@@ -1,23 +1,19 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <?php include 'innerpage-toplinks.php' ?>
+    <!--?php include 'innerpage-toplinks.php' ?-->
 
     <!-- End Google Tag Manager -->
     <!-- page title -->
     <title>Powdered Surgical Gloves - DR Glove</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description"
-        content="Powdered Surgical Gloves from Vijaylakshmi health & surgicals pvt ltd its designed from latex rubber which is beneficiary for safety and long wear visit." />
+    <meta name="description" content="Powdered Surgical Gloves from Vijaylakshmi health &amp; surgicals pvt ltd its designed from latex rubber which is beneficiary for safety and long wear visit.">
 
-    <link rel="canonical" href="https://www.vlhsglove.com/powdered-surgical-gloves.php" />
+    <link rel="canonical" href="https://www.vlhsglove.com/powdered-surgical-gloves.php">
     <!--Bootstrap css-->
 
 
@@ -53,7 +49,7 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include_once('innerpage_header.php');?>
+    <!--?php include_once('innerpage_header.php');?-->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
         <div class="medipath-overlay"></div>
@@ -76,12 +72,12 @@
                                 <!-- Breadcrumb NavXT 6.1.0 -->
                                 <span property="itemListElement" typeof="ListItem">
 
-                            </div>
+                            </span></div>
                         </div>
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
     <!--End Medipath-banner area -->
     <!--start about section -->
     <section class="about section-padding">
@@ -94,13 +90,13 @@
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/prepowder.jpg" alt="Powdered Surgical Gloves" style="width:100%;">
+                                    <picture><source srcset="img/320w/prepowder_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/prepowder_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/prepowder_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/prepowder_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/prepowder.webp" alt="Powdered Surgical Gloves" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <div class="item">
-                                    <img src="img/prepowder2.jpg" alt="Powdered Surgical Gloves" style="width:100%;">
+                                    <picture><source srcset="img/320w/prepowder2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/prepowder2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/prepowder2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/prepowder2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/prepowder2.webp" alt="Powdered Surgical Gloves" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <div class="item">
-                                    <img src="img/powderfree.jpg" alt="Powdered Surgical Gloves" style="width:100%;">
+                                    <picture><source srcset="img/320w/powderfree_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/powderfree_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/powderfree_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/powderfree_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/powderfree.webp" alt="Powdered Surgical Gloves" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <!-- Left and right controls -->
                                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -127,7 +123,7 @@
                                 worldwide. Our company was established in the year 2009 with the goal to supply the
                                 market with quality surgical gloves that would enhance surgeries and promote a better
                                 health outcome. In the years that followed, we have diversified our product line and
-                                provide our customers with a variety of medical gloves: <B>powdered surgical gloves</b>,
+                                provide our customers with a variety of medical gloves: <b>powdered surgical gloves</b>,
                                 <a href="latexsurgicalgloves-powderedfree.php">powder-free surgical gloves</a>,
                                 orthopaedic gloves, <a href="latexexaminationgloves.php">nitrile examination gloves</a>,
                                 microsurgery gloves and more.
@@ -193,8 +189,8 @@
                         <ul class="ul_list" style="padding-left:20px">
                             <li><b>Quality:</b> We conform to a series of internal quality guidelines along with numerous international quality regulations like CE Certification, EN ISO-13485:2016, and ISI Certification.  This gives our partners the confidence they
                                 require to continue their business with us.</li>
-                            <li><b>R&D:</b> We recognise that the medical field is evolving, and constant monitoring of
-                                existing capabilities is necessary to ensure they are up to the task. Our R&D team pays
+                            <li><b>R&amp;D:</b> We recognise that the medical field is evolving, and constant monitoring of
+                                existing capabilities is necessary to ensure they are up to the task. Our R&amp;D team pays
                                 special attention to market trends and customer feedback to meet the greatest extent of
                                 market demand at any given time.</li>
                             <li><b>Customer Focus:</b> There are no two opinions that customer satisfaction is the
@@ -205,14 +201,13 @@
 
                         </ul>
 
-                        <p style="margin-top: 15px;"><b>Related Link:</b> <a
-                                href="surgical-gloves-manufacturers-chennai.php"> Surgical Glove Manufacturers In
+                        <p style="margin-top: 15px;"><b>Related Link:</b> <a href="surgical-gloves-manufacturers-chennai.php"> Surgical Glove Manufacturers In
                                 Chennai</a>
                         </p>
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
 
     <!--Scroll-up-->
     <a id="scroll-up"><i class="fa fa-angle-up"></i></a>
@@ -238,8 +233,7 @@
     <!--main js-->
     <script src="assets/js/main.js"></script>
     <script src="js/main.js"></script>
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b"
-        type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
     <!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
 
@@ -265,8 +259,8 @@
 
     });
     </script>
-    <?php include_once('footer.php');?>
+    <!--?php include_once('footer.php');?-->
 
-</body>
 
-</html>
+
+</body></html>

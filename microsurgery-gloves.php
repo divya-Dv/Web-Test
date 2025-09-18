@@ -1,14 +1,11 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -20,7 +17,7 @@
         gtag('config', 'UA-83946647-2');
     </script>
     <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -70,13 +67,12 @@
     <!-- page title -->
     <title>DR Glove - Microsurgery Gloves Manufacturer</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
 <meta property="og:description" content="DR. Glove is a leading manufacturer of microsurgery gloves, providing top-quality, reliable protection for surgeons during delicate and intricate procedures.">
 
-    <meta name="description"
-        content="DR. Glove is a leading manufacturer of microsurgery gloves, providing top-quality, reliable protection for surgeons during delicate and intricate procedures." />
+    <meta name="description" content="DR. Glove is a leading manufacturer of microsurgery gloves, providing top-quality, reliable protection for surgeons during delicate and intricate procedures.">
 
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="DR. Glove - Microsurgery Gloves Manufacturer">
@@ -84,7 +80,7 @@
 <meta name="twitter:image" content="https://www.vlhsglove.com/img/microsurgery-gloves.jpg">
 
 
-    <link rel="canonical" href="https://www.vlhsglove.com/microsurgery-gloves.php" />
+    <link rel="canonical" href="https://www.vlhsglove.com/microsurgery-gloves.php">
     <!--Bootstrap css-->
 
     <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
@@ -102,7 +98,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 
 
-    <link href="assets/assets/docs.css" rel="stylesheet">
+    <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
     <link href="assets/css/flag-icon.css" rel="stylesheet">
 
     <link rel="manifest" href="assets/img/favicon/manifest.json">
@@ -130,7 +126,7 @@
     <!--modernizr js-->
     <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -221,7 +217,7 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include_once('innerpage_header.php'); ?>
+    <!--?php include_once('innerpage_header.php'); ?-->
     <!--End header area -->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
@@ -235,8 +231,7 @@
                             <h1 class="entry-title">Microsurgery Gloves</h1>
                             <div class="nx-breadcrumb"><!-- Breadcrumb NavXT 6.1.0 -->
                                 <span property="itemListElement" typeof="ListItem">
-                                    <a property="item" typeof="WebPage" title="Go to Dr. Glove."
-                                        href="http://www.vlhsglove.com" class="home">
+                                    <a property="item" typeof="WebPage" title="Go to Dr. Glove." href="http://www.vlhsglove.com" class="home">
                                         <span property="name">Dr. Glove</span></a>
                                     <meta property="position" content="1">
                                 </span> &gt; <span property="itemListElement" typeof="ListItem">
@@ -260,8 +255,7 @@
                 <div class="col-md-4">
                     <div class="service-nav">
 
-                        <img src="img/microsurgery-gloves.jpg" alt="Microsurgery Gloves Manufacturer" class="responsive"
-                            height="513px;" width="350px;">
+                        <picture><source srcset="img/320w/microsurgery-gloves_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/microsurgery-gloves_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/microsurgery-gloves_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/microsurgery-gloves_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/microsurgery-gloves.webp" alt="Microsurgery Gloves Manufacturer" class="responsive" height="513px;" width="350px;" loading="lazy" decoding="async"></picture>
 
                     </div>
 
@@ -289,20 +283,17 @@
 
                         <h3 class="color">QUALITY STANDARDS</h3>
                         <ul class="list">
-                            <li><i class="fa fa-play-circle-o"
-                                    style="color:#cccece; padding-right:5px;"></i>ASTM:D-3577-2019 & EN455-1:2020,
+                            <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i>ASTM:D-3577-2019 &amp; EN455-1:2020,
                                 EN455-2:2015, EN 455-3:2015</li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i>Indian
                                 Medical Device Regulation (IMDR) 2017 - Class B Device</li>
-                            <li><i class="fa fa-play-circle-o"
-                                    style="color:#cccece; padding-right:5px;"></i>Manufactured under EN ISO 13485:2016
+                            <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i>Manufactured under EN ISO 13485:2016
                                 quality management system</li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i>Using High
                                 grade polymer coat chemicals used to make a powder free product</li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i>Bioburden
                                 and sterility tested</li>
-                            <li><i class="fa fa-play-circle-o"
-                                    style="color:#cccece; padding-right:5px;"></i>Manufactured in a clean controlled
+                            <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i>Manufactured in a clean controlled
                                 environment Room.</li>
 
                         </ul>
@@ -338,7 +329,7 @@
                         <li class=""><a data-toggle="tab" href="#bs_tab123738425"> Physical Properties</a></li>
                     </ul>
                     <div class="tab-content">
-                        <div class="tab-pane fade active in" id=bs_first_tab25>
+                        <div class="tab-pane fade active in" id="bs_first_tab25">
                             <table border="0" width="100%" cellspacing="1" cellpadding="5">
                                 <tbody>
                                     <tr>
@@ -387,17 +378,15 @@
                                 </tbody>
                             </table>
                         </div>
-                        <div class="tab-pane fade " id=bs_tab121340625>
+                        <div class="tab-pane fade " id="bs_tab121340625">
                             <table class="table-list">
                                 <tbody>
                                     <tr>
                                         <td style="background-color: #0095da; color: #fff;" colspan="2" scope="col">
                                             <strong style="color: #fff;">Dimension Properties</strong>
                                         </td>
-                                        <td style="background-color: #0095da; color: #fff;" scope="col"><strong
-                                                style="color: #fff;">Dr.Glove Specification</strong></td>
-                                        <td style="background-color: #0095da; color: #fff;" scope="col"><strong
-                                                style="color: #fff;">ASTM D 3577 / IS 13422 Standard</strong></td>
+                                        <td style="background-color: #0095da; color: #fff;" scope="col"><strong style="color: #fff;">Dr.Glove Specification</strong></td>
+                                        <td style="background-color: #0095da; color: #fff;" scope="col"><strong style="color: #fff;">ASTM D 3577 / IS 13422 Standard</strong></td>
                                     </tr>
                                     <tr>
                                         <th scope="row" align="left">Length (mm)</th>
@@ -460,7 +449,7 @@
                                 </tbody>
                             </table>
                         </div>
-                        <div class="tab-pane fade " id=bs_tab123738425>
+                        <div class="tab-pane fade " id="bs_tab123738425">
                             <table class="table-list">
                                 <tbody>
                                     <tr>
@@ -535,20 +524,19 @@
                     <div class="row">
                         <div class="form-group">
                             <label for="email"> Phone:</label>
-                            <input type="tel" class="form-control" id="phone" name="phone" required maxlength="50">
+                            <input type="tel" class="form-control" id="phone" name="phone" required="" maxlength="50">
                         </div>
                     </div>
                     <div class="row">
             <div class="form-group">
                 <label for="city"> City:</label>
-                <input type="text" class="form-control" id="city" name="city" required>
+                <input type="text" class="form-control" id="city" name="city" required="">
                     </div>
         </div>
                     <div class="row">
                         <div class="form-group">
                             <label for="name"> Message:</label>
-                            <textarea class="form-control" type="textarea" id="message" name="message"
-                                placeholder="Your Message Here" maxlength="6000" rows="7"></textarea>
+                            <textarea class="form-control" type="textarea" id="message" name="message" placeholder="Your Message Here" maxlength="6000" rows="7"></textarea>
                         </div>
                     </div>
                     <div class="row">
@@ -601,7 +589,7 @@
     <!--main js-->
     <script src="assets\js\main.js"></script>
 
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
 
     <script type="text/javascript">
         $('.translation-links a').on('click', function() {
@@ -639,9 +627,9 @@
     </script>
     <!--captcha code end-->
 
-    <?php include_once('footer.php'); ?>
+    <!--?php include_once('footer.php'); ?-->
 
 
-</body>
 
-</html>
+
+</body></html>

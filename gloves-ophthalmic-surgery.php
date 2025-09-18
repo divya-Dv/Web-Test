@@ -1,23 +1,19 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <?php include 'innerpage-toplinks.php' ?>
+    <!--?php include 'innerpage-toplinks.php' ?-->
 
     <!-- End Google Tag Manager -->
     <!-- page title -->
     <title>Gloves For Ophthalmic Surgery - DR Glove</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description"
-        content="Vijaylakshmi health & surgical introducing Gloves For Ophthalmic Surgery which is highly efficient and durable more details for gloves visit our website." />
+    <meta name="description" content="Vijaylakshmi health &amp; surgical introducing Gloves For Ophthalmic Surgery which is highly efficient and durable more details for gloves visit our website.">
 
-    <link rel="canonical" href="https://www.vlhsglove.com/surgical-gloves-manufacturers-chennai.php" />
+    <link rel="canonical" href="https://www.vlhsglove.com/surgical-gloves-manufacturers-chennai.php">
     <!--Bootstrap css-->
 
 
@@ -53,7 +49,7 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include_once('innerpage_header.php');?>
+    <!--?php include_once('innerpage_header.php');?-->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
         <div class="medipath-overlay"></div>
@@ -76,12 +72,12 @@
                                 <!-- Breadcrumb NavXT 6.1.0 -->
                                 <span property="itemListElement" typeof="ListItem">
 
-                            </div>
+                            </span></div>
                         </div>
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
     <!--End Medipath-banner area -->
     <!--start about section -->
     <section class="about section-padding">
@@ -94,13 +90,13 @@
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/prepowder.jpg" alt="Gloves For Ophthalmic Surgery" style="width:100%;">
+                                    <picture><source srcset="img/320w/prepowder_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/prepowder_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/prepowder_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/prepowder_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/prepowder.webp" alt="Gloves For Ophthalmic Surgery" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <div class="item">
-                                    <img src="img/prepowder2.jpg" alt="Gloves For Ophthalmic Surgery" style="width:100%;">
+                                    <picture><source srcset="img/320w/prepowder2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/prepowder2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/prepowder2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/prepowder2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/prepowder2.webp" alt="Gloves For Ophthalmic Surgery" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <div class="item">
-                                    <img src="img/powderfree.jpg" alt="Gloves For Ophthalmic Surgery" style="width:100%;">
+                                    <picture><source srcset="img/320w/powderfree_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/powderfree_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/powderfree_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/powderfree_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/powderfree.webp" alt="Gloves For Ophthalmic Surgery" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <!-- Left and right controls -->
                                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -125,10 +121,8 @@
                                 Gloves is where you need to be headed. Our company was incorporated in 2011 with the
                                 goal to equip healthcare centres and medical professionals with high-quality gloves for
                                 a variety of medical applications. We are specialists in the production of a wide range
-                                of medical gloves such as powdered surgical gloves, <a
-                                    href="latexsurgicalgloves-powderedfree.php">powder-free surgical gloves</a>,
-                                orthopaedic gloves, nitrile examination gloves, <a
-                                    href="microsurgery-gloves.php">microsurgical gloves</a>, etc. Each pair we offer
+                                of medical gloves such as powdered surgical gloves, <a href="latexsurgicalgloves-powderedfree.php">powder-free surgical gloves</a>,
+                                orthopaedic gloves, nitrile examination gloves, <a href="microsurgery-gloves.php">microsurgical gloves</a>, etc. Each pair we offer
                                 undergoes a series of checks before they are considered ready for use. It is our
                                 dedication to quality and innovation that has led us to being one of the most popular
                                 brands concerning <b>gloves for ophthalmic surgery</b> and other uses.</p>
@@ -164,12 +158,12 @@
                             They are also less likely to contaminate any sterile environment.</p>
 
                         <h2>What kind of Gloves are used for Surgical Procedures</h2>
-                        </p>Surgical gloves, as the name suggests, are specially made for performing surgical
+                        <p></p>Surgical gloves, as the name suggests, are specially made for performing surgical
                         procedures. One must keep in mind that there are different types of surgical gloves which is
                         manufactured based on the specific needs of the task and healthcare experts’ specifications.
                         Some gloves are thicker, others have long cuffs, while some other gloves have textured grip and
                         so on. Hence, the right kind of gloves for the procedure is pre-determined and used as per the
-                        prevailing medical case.</p>
+                        prevailing medical case.<p></p>
 
                         <h2>Conclusion</h2>
                         <p>With over a decade of experience in the industry, we understand the critical role that these
@@ -178,14 +172,13 @@
                             tactile sensitivity to each user. The right choice of <b>gloves for ophthalmic surgery</b>
                             is obvious – head to VLHS Gloves today!</p>
 
-                        <p style="margin-top: 15px;"><b>Related Link:</b> <a
-                                href="surgical-gloves-manufacturers-karnataka.php">Surgical Glove Manufacturers In
+                        <p style="margin-top: 15px;"><b>Related Link:</b> <a href="surgical-gloves-manufacturers-karnataka.php">Surgical Glove Manufacturers In
                                 Karnataka</a>
                         </p>
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
 
     <!--Scroll-up-->
     <a id="scroll-up"><i class="fa fa-angle-up"></i></a>
@@ -211,8 +204,7 @@
     <!--main js-->
     <script src="assets/js/main.js"></script>
     <script src="js/main.js"></script>
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b"
-        type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
     <!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
 
@@ -238,8 +230,8 @@
 
     });
     </script>
-    <?php include_once('footer.php');?>
+    <!--?php include_once('footer.php');?-->
 
-</body>
 
-</html>
+
+</body></html>

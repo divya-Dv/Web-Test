@@ -1,11 +1,9 @@
-<!doctype html>
-<html lang="en">
-    <head>
+<!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
-        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
         <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -32,16 +30,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!-- page title -->
         <title>Surgical Gloves | Dr Glove | Vlhsglove</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-        <meta name="description" content="Surgical gloves by Dr glove. Vlhsglove provides you with the best quality products at reasonable prices. Stay in contact with us today. Buy online now"/>
-        <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485."/>
+        <meta name="description" content="Surgical gloves by Dr glove. Vlhsglove provides you with the best quality products at reasonable prices. Stay in contact with us today. Buy online now">
+        <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485.">
         
         <!--Bootstrap css-->
-		<link rel="canonical" href="https://www.vlhsglove.com/contact.php" />
+		<link rel="canonical" href="https://www.vlhsglove.com/contact.php">
 		<link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
         <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicon/apple-icon-60x60.png">
 		<link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicon/apple-icon-72x72.png">
@@ -51,12 +49,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon/apple-icon-144x144.png">
 		<link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon/apple-icon-152x152.png">
 		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
-		<link rel="icon" type="image/png" sizes="192x192"  href="assets/img/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 		
-		<link href="assets/assets/docs.css" rel="stylesheet">
+		<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
         <link href="assets/css/flag-icon.css" rel="stylesheet">
 		<link rel="manifest" href="assets/img/favicon/manifest.json">
 		<meta name="msapplication-TileColor" content="#ffffff">
@@ -83,7 +81,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!--modernizr js-->
         <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 		
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -98,7 +96,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 		
 		<!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -109,7 +107,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
 
 		
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
+<script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 
 
 <!--captcha code start-->
@@ -133,7 +131,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 
 		
-    </head>
     <style>
         .box {
             border: 1px solid #000;
@@ -146,7 +143,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         .container {
             padding: 10px;
         }
-    </style>
+    </style></head>
+    
     <body>
         <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRP5KGQ"
@@ -161,7 +159,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       
             
         <!--Start Header area-->
-       <?php include_once('innerpage_header.php'); ?>
+       <!--?php include_once('innerpage_header.php'); ?-->
 		<!--Start Medipath-banner area -->
         <section class="medipath-banner">
             <div class="medipath-overlay"></div>
@@ -190,9 +188,9 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		    <div class="col-md-4">
 		        <div class="box">
 		            <h2 class="heading-color" style="font-size: 24px;">Sales Office</h2>
-		            <p><b>Vijayalakshmi Health & Surgicals Pvt. Ltd.</b></p>
+		            <p><b>Vijayalakshmi Health &amp; Surgicals Pvt. Ltd.</b></p>
 		            <p>204, Sri Towers, HIG No:18, Road No.1,KPHB Colony, Kukatpally, Hyderabad-500072,Telangana, India.</p>
-		            <p><i class="fa fa-mobile"></i> +91 7799977314 <br /></p>
+		            <p><i class="fa fa-mobile"></i> +91 7799977314 <br></p>
 		            <p style="color:#0095da;">  <i class="fa fa-envelope"></i> 
 							 <a href="mailto:sales@vlhsglove.com" style="color:#0095da;">sales@vlhsglove.com</a> / <a href="mailto:info@vlhsglove.com" style="color:#0095da;">info@vlhsglove.com</a></p>
 							 <h3 class="heading-color" style="font-size: 24px;">Sales Office Location Map</h3>
@@ -203,12 +201,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		    <div class="col-md-4">
 		        <div class="box">
 		            <h2 class="heading-color" style="font-size: 24px;">Factory Address</h2>
-		            <p><b>Vijayalakshmi Health & Surgicals Pvt. Ltd.</b></p>
+		            <p><b>Vijayalakshmi Health &amp; Surgicals Pvt. Ltd.</b></p>
 		            <p>406, APIIC Growth Centre, Gundlapalli, Ongole, Prakasam Dt – 523211, Andhra Pradesh, India.</p>
-		            <p><i class="fa fa-mobile"></i> +91 7799977314 <br /></p>
+		            <p><i class="fa fa-mobile"></i> +91 7799977314 <br></p>
 		            <p style="color:#0095da;">  <i class="fa fa-envelope"></i> 
 							 <a href="mailto:info@vlhsglove.com" style="color:#0095da;">info@vlhsglove.com</a></p>
-							 <br/>
+							 <br>
 							 <h3 class="heading-color" style="font-size: 24px;">Our Factory Location Map</h3>
 							 
                               
@@ -216,33 +214,33 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		        </div>
 		    </div>
 		    <div class="col-sm-4 form_col">
-    <h3 class="color" >Quick Enquiry</h3>
+    <h3 class="color">Quick Enquiry</h3>
     
-    <form role="form" method="post"  action="enquiry.php">
+    <form role="form" method="post" action="enquiry.php">
         
         <div class="row">
             <div class="form-group">
                 <label for="name">Name:</label>
-                <input type="text" class="form-control" id="name" name="name" maxlength="50" required>
+                <input type="text" class="form-control" id="name" name="name" maxlength="50" required="">
                     </div>
         </div>
         
         <div class="row">
             <div class="form-group">
                 <label for="email"> Email:</label>
-                <input type="email" class="form-control" id="email" name="email" maxlength="50" required>
+                <input type="email" class="form-control" id="email" name="email" maxlength="50" required="">
                     </div>
         </div>
         <div class="row">
             <div class="form-group">
                 <label for="phone"> Phone:</label>
-                <input type="text" class="form-control" id="phone" name="phone"  onkeypress="validate(event)" minlength="10" maxlength="12" required>
+                <input type="text" class="form-control" id="phone" name="phone" onkeypress="validate(event)" minlength="10" maxlength="12" required="">
                     </div>
         </div>
         <div class="row">
             <div class="form-group">
                 <label for="message"> Message:</label>
-                <textarea class="form-control" type="textarea" id="message" name="message" placeholder="Your Message Here" maxlength="6000" rows="4" required></textarea>
+                <textarea class="form-control" type="textarea" id="message" name="message" placeholder="Your Message Here" maxlength="6000" rows="4" required=""></textarea>
             </div>
         </div>
 		<div class="row">
@@ -284,7 +282,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <script src="assets\js\jquery.counterup.min.js"></script>
         <script src="assets\js\waypoints.min.js"></script>
        
-        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCgvD1gxQxTJiZHkL47RjF3GLpAUqVXC90&callback"></script>
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCgvD1gxQxTJiZHkL47RjF3GLpAUqVXC90&amp;callback"></script>
         <!--validate js -->
         <script src="assets\js\jquery.validate.js"></script>
         <!--plugin js -->
@@ -321,8 +319,8 @@ document.getElementById("phone-number-text-1").textContent = phoneNumber1;
 }
 </script>
 
-               <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
-		<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>
+               <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+		<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&amp;hash=193b82c521e5a0fe843dbd9e697b3505&amp;lsid=19608"></script>
 
 	<script type="text/javascript">
                 $('.translation-links a').on('click', function() {
@@ -357,6 +355,6 @@ document.getElementById("phone-number-text-1").textContent = phoneNumber1;
   });
 </script>
 <!--captcha code end-->
-<?php include_once('footer.php'); ?>
-    </body>
-</html>    
+<!--?php include_once('footer.php'); ?-->
+    
+    </body></html>

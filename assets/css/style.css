@@ -63,7 +63,7 @@ label{
 	padding: 10px;
     text-align: center;
     font-size: 18px;
-    background: linear-gradient(#ffbc00 5%, #ffdd7f 100%);
+    linear-gradient(#ffbc00 5%, #ffdd7f 100%)
     border: 2px solid #e5a900;
     color: #ffffff;
     font-weight: bold;
@@ -74,7 +74,7 @@ label{
 }
 
 .submit:hover{
-    background: linear-gradient(#ffdd7f 5%, #ffbc00 100%);
+    linear-gradient(#ffdd7f 5%, #ffbc00 100%)
 }
 
 /* -------------------------------------
@@ -92,7 +92,7 @@ button.close {
     padding: 0;
     position: fixed;
     cursor: pointer;
-    background: 0 0;
+    0 0
     border: 0;
     -webkit-appearance: none;
 }

@@ -1,8 +1,8 @@
-<?php
+<!--?php
 /**
  * Get an OAuth2 token from Google.
  * * Install this script on your server so that it's accessible
- * as [https/http]://<yourdomain>/<folder>/get_oauth_token.php
+ * as [https/http]://<yourdomain--><html><head></head><body>/<folder>/get_oauth_token.php
  * e.g.: http://localhost/phpmail/get_oauth_token.php
  * * Ensure dependencies are installed with 'composer install'
  * * Set up an app in your Google developer console
@@ -73,19 +73,19 @@ class Google extends AbstractProvider
 
     protected function getAuthorizationParameters(array $options)
     {
-	if (is_array($this->scope)) {
-            $separator = $this->getScopeSeparator();
-            $this->scope = implode($separator, $this->scope);
+	if (is_array($this-&gt;scope)) {
+            $separator = $this-&gt;getScopeSeparator();
+            $this-&gt;scope = implode($separator, $this-&gt;scope);
         }
 
         $params = array_merge(
             parent::getAuthorizationParameters($options),
             array_filter([
-                'hd'          => $this->hostedDomain,
-                'access_type' => $this->accessType,
-		'scope'       => $this->scope,
+                'hd'          =&gt; $this-&gt;hostedDomain,
+                'access_type' =&gt; $this-&gt;accessType,
+		'scope'       =&gt; $this-&gt;scope,
                 // if the user is logged in with more than one account ask which one to use for the login!
-                'authuser'    => '-1'
+                'authuser'    =&gt; '-1'
             ])
         );
         return $params;
@@ -130,18 +130,18 @@ class Google extends AbstractProvider
 //Set Redirect URI in Developer Console as [https/http]://<yourdomain>/<folder>/get_oauth_token.php
 $provider = new Google(
     array(
-        'clientId' => $clientId,
-        'clientSecret' => $clientSecret,
-        'redirectUri' => $redirectUri,
-        'scope' => array('https://mail.google.com/'),
-	'accessType' => 'offline'
+        'clientId' =&gt; $clientId,
+        'clientSecret' =&gt; $clientSecret,
+        'redirectUri' =&gt; $redirectUri,
+        'scope' =&gt; array('https://mail.google.com/'),
+	'accessType' =&gt; 'offline'
     )
 );
 
 if (!isset($_GET['code'])) {
     // If we don't have an authorization code then get one
-    $authUrl = $provider->getAuthorizationUrl();
-    $_SESSION['oauth2state'] = $provider->getState();
+    $authUrl = $provider-&gt;getAuthorizationUrl();
+    $_SESSION['oauth2state'] = $provider-&gt;getState();
     header('Location: ' . $authUrl);
     exit;
 // Check given state against previously stored one to mitigate CSRF attack
@@ -150,13 +150,14 @@ if (!isset($_GET['code'])) {
     exit('Invalid state');
 } else {
     // Try to get an access token (using the authorization code grant)
-    $token = $provider->getAccessToken(
+    $token = $provider-&gt;getAccessToken(
         'authorization_code',
         array(
-            'code' => $_GET['code']
+            'code' =&gt; $_GET['code']
         )
     );
 
     // Use this to get a new access token if the old one expires
-    echo 'Refresh Token: ' . $token->getRefreshToken();
+    echo 'Refresh Token: ' . $token-&gt;getRefreshToken();
 }
+</folder></yourdomain></folder></body></html>

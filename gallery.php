@@ -1,10 +1,8 @@
-<!doctype html>
-<html lang="zxx">
-    <head>
+<!DOCTYPE html><html lang="zxx"><head>
         <meta charset="utf-8">
-        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
+        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
         <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -12,7 +10,7 @@
 
   gtag('config', 'UA-83946647-2');
 </script>
-<meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+<meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -31,14 +29,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!-- page title -->
         <title>DR Glove - Surgical Gloves Exporters From India</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-		<meta name="description" content="Gallery is one stop shop for surgical gloves, latex gloves and orthopedic gloves. We offer a wide range of styles & sizes to suit any need Contact us."/>
-        <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485."/>
-        <link rel="canonical" href="https://www.vlhsglove.com/gallery.php"/>
+		<meta name="description" content="Gallery is one stop shop for surgical gloves, latex gloves and orthopedic gloves. We offer a wide range of styles &amp; sizes to suit any need Contact us.">
+        <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485.">
+        <link rel="canonical" href="https://www.vlhsglove.com/gallery.php">
         <!--Bootstrap css-->
 			
 			<link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
@@ -50,12 +48,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon/apple-icon-144x144.png">
 		<link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon/apple-icon-152x152.png">
 		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
-		<link rel="icon" type="image/png" sizes="192x192"  href="assets/img/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 		
-		<link href="assets/assets/docs.css" rel="stylesheet">
+		<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
         <link href="assets/css/flag-icon.css" rel="stylesheet">
         <link href="assets/css/stylee.css" rel="stylesheet">
 		<link rel="manifest" href="assets/img/favicon/manifest.json">
@@ -83,7 +81,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!--modernizr js-->
         <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 		
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -92,7 +90,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   gtag('config', 'UA-121999687-1');
 </script>
 			<!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -149,7 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
    
         <!--Start Header area-->
-		 <?php include_once('innerpage_header.php'); ?>
+		 <!--?php include_once('innerpage_header.php'); ?-->
         <!--End header area -->
         <!--Start Medipath-banner area -->
         <section class="medipath-banner">
@@ -176,7 +174,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="grid">
                         <div class="col-md-3 col-sm-6 col-xs-12 padding grid-item metal">
                             <div class="portfolio-single-item">
-                                <img src="assets/img/Compounding.jpg" class="img-responsive" alt="Compounding">
+                                <picture><source srcset="assets/img/320w/Compounding_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Compounding_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Compounding_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Compounding_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Compounding.webp" class="img-responsive" alt="Compounding" loading="lazy" decoding="async"></picture>
 								<div class="content">
 								<h4 style="text-align:center;">Compounding</h4>
 								</div>
@@ -190,7 +188,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 padding grid-item transition">
                             <div class="portfolio-single-item">
-                                <img src="assets/img/Machine.jpg" class="img-responsive" alt="Machine">
+                                <picture><source srcset="assets/img/320w/Machine_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Machine_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Machine_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Machine_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Machine.webp" class="img-responsive" alt="Machine" loading="lazy" decoding="async"></picture>
 								<div class="content">
 								<h4 style="text-align:center;">Machine</h4>
 								</div>
@@ -203,7 +201,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 padding grid-item alkali">
                             <div class="portfolio-single-item">
-                                <img src="assets/img/Formers.jpg" class="img-responsive" alt="Formers">
+                                <picture><source srcset="assets/img/320w/Formers_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Formers_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Formers_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Formers_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Formers.webp" class="img-responsive" alt="Formers" loading="lazy" decoding="async"></picture>
 								<div class="content">
 								<h4 style="text-align:center;">Formers</h4>
 								</div>
@@ -216,7 +214,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 padding grid-item metal">
                             <div class="portfolio-single-item">
-                                <img src="assets/img/Lab.jpg" class="img-responsive" alt="Lab">
+                                <picture><source srcset="assets/img/320w/Lab_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Lab_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Lab_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Lab_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Lab.webp" class="img-responsive" alt="Lab" loading="lazy" decoding="async"></picture>
 								<div class="content">
 								<h4 style="text-align:center;">Lab</h4>
 								</div>
@@ -230,7 +228,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 padding grid-item alkali">
                             <div class="portfolio-single-item">
-                                <img src="assets/img/Tumbling.jpg" class="img-responsive" alt="Tumbling">
+                                <picture><source srcset="assets/img/320w/Tumbling_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Tumbling_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Tumbling_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Tumbling_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Tumbling.webp" class="img-responsive" alt="Tumbling" loading="lazy" decoding="async"></picture>
 								<div class="content">
 								<h4 style="text-align:center;">Tumbling</h4>
 								</div>
@@ -244,7 +242,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
                         <div class="col-md-3 col-sm-6 col-xs-12 padding grid-item transition">
                             <div class="portfolio-single-item">
-                                <img src="assets/img/Testing.jpg" class="img-responsive" alt="Testing">
+                                <picture><source srcset="assets/img/320w/Testing_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Testing_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Testing_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Testing_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Testing.webp" class="img-responsive" alt="Testing" loading="lazy" decoding="async"></picture>
 								<div class="content">
 								<h4 style="text-align:center;">Testing</h4>
 								</div>
@@ -258,7 +256,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
 						<div class="col-md-3 col-sm-6 col-xs-12 padding grid-item transition">
                             <div class="portfolio-single-item">
-                                <img src="assets/img/Packing.jpg" class="img-responsive" alt="Packing">
+                                <picture><source srcset="assets/img/320w/Packing_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Packing_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Packing_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Packing_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Packing.webp" class="img-responsive" alt="Packing" loading="lazy" decoding="async"></picture>
 								<div class="content">
 								<h4 style="text-align:center;">Packing</h4>
 								</div>
@@ -272,7 +270,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
 						<div class="col-md-3 col-sm-6 col-xs-12 padding grid-item transition">
                             <div class="portfolio-single-item">
-                                <img src="assets/img/Sterilization.jpg" class="img-responsive" alt="Sterilization">
+                                <picture><source srcset="assets/img/320w/Sterilization_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Sterilization_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Sterilization_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Sterilization_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Sterilization.webp" class="img-responsive" alt="Sterilization" loading="lazy" decoding="async"></picture>
 								<div class="content">
 								<h4 style="text-align:center;">Sterilization</h4>
 								</div>
@@ -286,7 +284,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
 						<div class="col-md-3 col-sm-6 col-xs-12 padding grid-item transition">
                             <div class="portfolio-single-item">
-                                <img src="assets/img/Storage.jpg" class="img-responsive" alt="Storage">
+                                <picture><source srcset="assets/img/320w/Storage_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Storage_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Storage_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Storage_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Storage.webp" class="img-responsive" alt="Storage" loading="lazy" decoding="async"></picture>
 								<div class="content">
 								<h4 style="text-align:center;">Storage</h4>
 								</div>
@@ -300,7 +298,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </div>
 						<div class="col-md-3 col-sm-6 col-xs-12 padding grid-item transition">
                             <div class="portfolio-single-item">
-                                <img src="assets/img/Delivery.jpg" class="img-responsive" alt="Delivery">
+                                <picture><source srcset="assets/img/320w/Delivery_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Delivery_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Delivery_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Delivery_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Delivery.webp" class="img-responsive" alt="Delivery" loading="lazy" decoding="async"></picture>
 								<div class="content">
 								<h4 style="text-align:center;">Delivery</h4>
 								</div>
@@ -328,7 +326,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <!--                  </div>-->
 						<div class="col-md-3 col-sm-6 col-xs-12 padding grid-item transition">
                             <div class="portfolio-single-item">
-                                <img src="assets/img/Staff.jpg" class="img-responsive" alt="Staff">
+                                <picture><source srcset="assets/img/320w/Staff_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/Staff_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/Staff_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/Staff_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/Staff.webp" class="img-responsive" alt="Staff" loading="lazy" decoding="async"></picture>
 								<div class="content">
 								<h4 style="text-align:center;">Staff</h4>
 								</div>
@@ -369,7 +367,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <script src="assets\js\jquery.validate.js"></script>
         <!--main js-->
         <script src="assets\js\main.js"></script>
-                        <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+                        <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
 		<!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
 	<script type="text/javascript">
@@ -394,6 +392,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             	  
                 });
             </script>
-            <?php include_once('footer.php'); ?>
-    </body>
-</html>    
+            <!--?php include_once('footer.php'); ?-->
+    
+    </body></html>

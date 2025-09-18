@@ -1,8 +1,7 @@
-<?php
+<!--?php
 /**
  * EasyPeasyICS Simple ICS/vCal data generator.
- * @author Marcus Bointon <phpmailer@synchromedia.co.uk>
- * @author Manuel Reinhard <manu@sprain.ch>
+ * @author Marcus Bointon <phpmailer@synchromedia.co.uk--><html><head></head><body>* @author Manuel Reinhard <manu@sprain.ch>
  *
  * Built with inspiration from
  * http://stackoverflow.com/questions/1463480/how-can-i-use-php-to-dynamically-publish-an-ical-file-to-be-read-by-google-calend/1464355#1464355
@@ -36,7 +35,7 @@ class EasyPeasyICS
      */
     public function __construct($calendarName = "")
     {
-        $this->calendarName = $calendarName;
+        $this-&gt;calendarName = $calendarName;
     }
 
     /**
@@ -55,14 +54,14 @@ class EasyPeasyICS
             $uid = md5(uniqid(mt_rand(), true)) . '@EasyPeasyICS';
         }
         $event = array(
-            'start' => gmdate('Ymd', $start) . 'T' . gmdate('His', $start) . 'Z',
-            'end' => gmdate('Ymd', $end) . 'T' . gmdate('His', $end) . 'Z',
-            'summary' => $summary,
-            'description' => $description,
-            'url' => $url,
-            'uid' => $uid
+            'start' =&gt; gmdate('Ymd', $start) . 'T' . gmdate('His', $start) . 'Z',
+            'end' =&gt; gmdate('Ymd', $end) . 'T' . gmdate('His', $end) . 'Z',
+            'summary' =&gt; $summary,
+            'description' =&gt; $description,
+            'url' =&gt; $url,
+            'uid' =&gt; $uid
         );
-        $this->events[] = $event;
+        $this-&gt;events[] = $event;
         return $event;
     }
 
@@ -71,7 +70,7 @@ class EasyPeasyICS
      */
     public function getEvents()
     {
-        return $this->events;
+        return $this-&gt;events;
     }
 
     /**
@@ -79,7 +78,7 @@ class EasyPeasyICS
      */
     public function clearEvents()
     {
-        $this->events = array();
+        $this-&gt;events = array();
     }
 
     /**
@@ -88,7 +87,7 @@ class EasyPeasyICS
      */
     public function getName()
     {
-        return $this->calendarName;
+        return $this-&gt;calendarName;
     }
 
     /**
@@ -97,7 +96,7 @@ class EasyPeasyICS
      */
     public function setName($name)
     {
-        $this->calendarName = $name;
+        $this-&gt;calendarName = $name;
     }
 
     /**
@@ -111,11 +110,11 @@ class EasyPeasyICS
         $ics = 'BEGIN:VCALENDAR
 METHOD:PUBLISH
 VERSION:2.0
-X-WR-CALNAME:' . $this->calendarName . '
+X-WR-CALNAME:' . $this-&gt;calendarName . '
 PRODID:-//hacksw/handcal//NONSGML v1.0//EN';
 
         //Add events
-        foreach ($this->events as $event) {
+        foreach ($this-&gt;events as $event) {
             $ics .= '
 BEGIN:VEVENT
 UID:' . $event['uid'] . '
@@ -134,7 +133,7 @@ END:VCALENDAR';
 
         if ($output) {
             //Output
-            $filename = $this->calendarName;
+            $filename = $this-&gt;calendarName;
             //Filename needs quoting if it contains spaces
             if (strpos($filename, ' ') !== false) {
                 $filename = '"'.$filename.'"';
@@ -146,3 +145,4 @@ END:VCALENDAR';
         return $ics;
     }
 }
+</manu@sprain.ch></body></html>

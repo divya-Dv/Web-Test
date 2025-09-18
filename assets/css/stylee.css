@@ -410,7 +410,7 @@ dfn {
 
 mark {
 
-	background: #ff0;
+	#ff0
 
 	color: #000;
 
@@ -452,7 +452,7 @@ samp {
 
 pre {
 
-	background: #f5f5f5;
+	#f5f5f5
 
 	color: #666;
 
@@ -938,7 +938,7 @@ caption {
 
 th {
 
-background:#5db5b9; line-height:22px;
+#5db5b9 line-height:22px;
 
 font-weight: bold; color:#FFF;
 
@@ -958,7 +958,7 @@ td {
 
 	padding: 6px 10px 6px 10px;
 
-       background:#e3f3f4; color:#333;
+       #e3f3f4 color:#333;
 
 }
 
@@ -974,7 +974,7 @@ del {
 
 ins {
 
-	background: #fff9c0;
+	#fff9c0
 
 	text-decoration: none;
 
@@ -984,7 +984,13 @@ ins {
 
 hr {
 
-	background: url(images/dotted-line.png) repeat center top;
+	
+background: url(images/dotted-line.png) repeat center top;
+background: -webkit-image-set(url("images/320w/dotted-line_320w.webp") 320w, url("images/640w/dotted-line_640w.webp") 640w, url("images/1024w/dotted-line_1024w.webp") 1024w, url("images/1920w/dotted-line_1920w.webp") 1920w); 
+background: image-set(url("images/320w/dotted-line_320w.webp") 320w, url("images/640w/dotted-line_640w.webp") 640w, url("images/1024w/dotted-line_1024w.webp") 1024w, url("images/1920w/dotted-line_1920w.webp") 1920w);
+background: -webkit-image-set(url("images/320w/dotted-line_320w.png") 320w, url("images/640w/dotted-line_640w.png") 640w, url("images/1024w/dotted-line_1024w.png") 1024w, url("images/1920w/dotted-line_1920w.png") 1920w);
+background: image-set(url("images/320w/dotted-line_320w.png") 320w, url("images/640w/dotted-line_640w.png") 640w, url("images/1024w/dotted-line_1024w.png") 1024w, url("images/1920w/dotted-line_1920w.png") 1920w);
+
 
 	background-size: 4px 4px;
 
@@ -1294,7 +1300,7 @@ input[type="button"],
 
 input[type="reset"] {
 
-	background: #0095da; /* Old browsers */
+	#0095da /* Old browsers */
 
 	border: none;
 
@@ -1328,7 +1334,7 @@ input[type="button"]:focus,
 
 input[type="reset"]:focus {
 
-	background: #333333; /* Old browsers */
+	#333333 /* Old browsers */
 
 	outline: none;
 
@@ -1344,7 +1350,7 @@ input[type="button"]:active,
 
 input[type="reset"]:active {
 
-	background: #333333; /* Old browsers */
+	#333333 /* Old browsers */
 
 	border: none;
 
@@ -2166,7 +2172,7 @@ ul.nav-container,
 
 	height: 2px;
 
-	background: transparent; /* variable color */
+	transparent /* variable color */
 
 }
 
@@ -2388,7 +2394,7 @@ border:0px;
 
 .site-header .search-field {
 
-	background: transparent;
+	transparent
 
 	border: none;
 
@@ -2464,7 +2470,7 @@ border:0px;
 
 	border-radius: 4px;
 
-	background: transparent;	
+	transparent	
 
 }
 
@@ -3146,7 +3152,7 @@ border:0px;
 
 	border-radius: 20px;
 
-	background: #000000;
+	#000000
 
 }
 
@@ -3170,7 +3176,8 @@ border:0px;
 
 	min-height: 150px;
 
-	background: url(AjaxLoader.gif) no-repeat center center
+	
+background: url(AjaxLoader.gif) no-repeat center center
 
 }
 
@@ -3179,6 +3186,11 @@ border:0px;
 .other-slider {
 
 	text-align: center;
+background: -webkit-image-set(url("./320w/AjaxLoader_320w.webp") 320w, url("./640w/AjaxLoader_640w.webp") 640w, url("./1024w/AjaxLoader_1024w.webp") 1024w, url("./1920w/AjaxLoader_1920w.webp") 1920w); 
+background: image-set(url("./320w/AjaxLoader_320w.webp") 320w, url("./640w/AjaxLoader_640w.webp") 640w, url("./1024w/AjaxLoader_1024w.webp") 1024w, url("./1920w/AjaxLoader_1920w.webp") 1920w);
+background: -webkit-image-set(url("./320w/AjaxLoader_320w.gif") 320w, url("./640w/AjaxLoader_640w.gif") 640w, url("./1024w/AjaxLoader_1024w.gif") 1024w, url("./1920w/AjaxLoader_1920w.gif") 1920w);
+background: image-set(url("./320w/AjaxLoader_320w.gif") 320w, url("./640w/AjaxLoader_640w.gif") 640w, url("./1024w/AjaxLoader_1024w.gif") 1024w, url("./1920w/AjaxLoader_1920w.gif") 1920w);
+
 
 }
 
@@ -3482,7 +3494,13 @@ ul.list {list-style-type:none;
 
 	text-align: left;}
 
-ul.list li {background:url(http://vlhsglove.com/wp-content/uploads/2016/08/icon-arrow.png) no-repeat left 5px;
+ul.list li {
+background:url(http://vlhsglove.com/wp-content/uploads/2016/08/icon-arrow.png) no-repeat left 5px;
+background:-webkit-image-set(url("http://vlhsglove.com/wp-content/uploads/2016/08/320w/icon-arrow_320w.webp") 320w, url("http://vlhsglove.com/wp-content/uploads/2016/08/640w/icon-arrow_640w.webp") 640w, url("http://vlhsglove.com/wp-content/uploads/2016/08/1024w/icon-arrow_1024w.webp") 1024w, url("http://vlhsglove.com/wp-content/uploads/2016/08/1920w/icon-arrow_1920w.webp") 1920w); 
+background:image-set(url("http://vlhsglove.com/wp-content/uploads/2016/08/320w/icon-arrow_320w.webp") 320w, url("http://vlhsglove.com/wp-content/uploads/2016/08/640w/icon-arrow_640w.webp") 640w, url("http://vlhsglove.com/wp-content/uploads/2016/08/1024w/icon-arrow_1024w.webp") 1024w, url("http://vlhsglove.com/wp-content/uploads/2016/08/1920w/icon-arrow_1920w.webp") 1920w);
+background:-webkit-image-set(url("http://vlhsglove.com/wp-content/uploads/2016/08/320w/icon-arrow_320w.png") 320w, url("http://vlhsglove.com/wp-content/uploads/2016/08/640w/icon-arrow_640w.png") 640w, url("http://vlhsglove.com/wp-content/uploads/2016/08/1024w/icon-arrow_1024w.png") 1024w, url("http://vlhsglove.com/wp-content/uploads/2016/08/1920w/icon-arrow_1920w.png") 1920w);
+background:image-set(url("http://vlhsglove.com/wp-content/uploads/2016/08/320w/icon-arrow_320w.png") 320w, url("http://vlhsglove.com/wp-content/uploads/2016/08/640w/icon-arrow_640w.png") 640w, url("http://vlhsglove.com/wp-content/uploads/2016/08/1024w/icon-arrow_1024w.png") 1024w, url("http://vlhsglove.com/wp-content/uploads/2016/08/1920w/icon-arrow_1920w.png") 1920w);
+
 
 padding-left: 18px;
 
@@ -4264,7 +4282,7 @@ footer.entry-meta {
 
 .page-links > span {
 
-	background: #fff;
+	#fff
 
 	border: 1px solid #fff;
 
@@ -4286,7 +4304,7 @@ footer.entry-meta {
 
 .page-links a {
 
-	background: #95C837;
+	#95C837
 
 	border: 1px solid #95C837;
 
@@ -4310,7 +4328,7 @@ footer.entry-meta {
 
 .page-links a:hover {
 
-	background: #fff;
+	#fff
 
 	color: #95C837;
 
@@ -4322,7 +4340,7 @@ footer.entry-meta {
 
 .format-quote .entry-content .page-links > span {
 
-	background: none;
+	none
 
 }
 
@@ -4330,7 +4348,7 @@ footer.entry-meta {
 
 .page-links .page-links-title {
 
-	background: transparent;
+	transparent
 
 	border: none;
 
@@ -4348,7 +4366,7 @@ footer.entry-meta {
 
 .hentry .mejs-container .mejs-controls {
 
-	background: #220e10;
+	#220e10
 
 }
 
@@ -4358,7 +4376,7 @@ footer.entry-meta {
 
 .hentry .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-current {
 
-	background: #fff;
+	#fff
 
 }
 
@@ -4366,7 +4384,7 @@ footer.entry-meta {
 
 .hentry .mejs-controls .mejs-time-rail .mejs-time-current {
 
-	background: #ea9629;
+	#ea9629
 
 }
 
@@ -4376,7 +4394,7 @@ footer.entry-meta {
 
 .hentry .mejs-controls .mejs-horizontal-volume-slider .mejs-horizontal-volume-total {
 
-	background: #595959;
+	#595959
 
 }
 
@@ -4418,7 +4436,7 @@ footer.entry-meta {
 
 	text-align: center;
 
-	/*background: #0095da ;*/
+	/*#0095da */
 
 }
 
@@ -5006,7 +5024,13 @@ footer.entry-meta {
 
 .format-audio .audio-content {
 
-	background: url(images/dotted-line.png) repeat-y left top;
+	
+background: url(images/dotted-line.png) repeat-y left top;
+background: -webkit-image-set(url("images/320w/dotted-line_320w.webp") 320w, url("images/640w/dotted-line_640w.webp") 640w, url("images/1024w/dotted-line_1024w.webp") 1024w, url("images/1920w/dotted-line_1920w.webp") 1920w); 
+background: image-set(url("images/320w/dotted-line_320w.webp") 320w, url("images/640w/dotted-line_640w.webp") 640w, url("images/1024w/dotted-line_1024w.webp") 1024w, url("images/1920w/dotted-line_1920w.webp") 1920w);
+background: -webkit-image-set(url("images/320w/dotted-line_320w.png") 320w, url("images/640w/dotted-line_640w.png") 640w, url("images/1024w/dotted-line_1024w.png") 1024w, url("images/1920w/dotted-line_1920w.png") 1920w);
+background: image-set(url("images/320w/dotted-line_320w.png") 320w, url("images/640w/dotted-line_640w.png") 640w, url("images/1024w/dotted-line_1024w.png") 1024w, url("images/1920w/dotted-line_1920w.png") 1920w);
+
 
 	background-size: 4px 4px;
 
@@ -5492,7 +5516,13 @@ footer.entry-meta {
 
 .format-status .entry-meta:before {
 
-	background: url(images/dotted-line.png) repeat-y left bottom;
+	
+background: url(images/dotted-line.png) repeat-y left bottom;
+background: -webkit-image-set(url("images/320w/dotted-line_320w.webp") 320w, url("images/640w/dotted-line_640w.webp") 640w, url("images/1024w/dotted-line_1024w.webp") 1024w, url("images/1920w/dotted-line_1920w.webp") 1920w); 
+background: image-set(url("images/320w/dotted-line_320w.webp") 320w, url("images/640w/dotted-line_640w.webp") 640w, url("images/1024w/dotted-line_1024w.webp") 1024w, url("images/1920w/dotted-line_1920w.webp") 1920w);
+background: -webkit-image-set(url("images/320w/dotted-line_320w.png") 320w, url("images/640w/dotted-line_640w.png") 640w, url("images/1024w/dotted-line_1024w.png") 1024w, url("images/1920w/dotted-line_1920w.png") 1920w);
+background: image-set(url("images/320w/dotted-line_320w.png") 320w, url("images/640w/dotted-line_640w.png") 640w, url("images/1024w/dotted-line_1024w.png") 1024w, url("images/1920w/dotted-line_1920w.png") 1920w);
+
 
 	background-size: 4px 4px;
 
@@ -6538,7 +6568,13 @@ nav.navigation .nav-links a:visited {
 
 .comment-list .children > li:before {
 
-	background: url(images/dotted-line.png) repeat left top;
+	
+background: url(images/dotted-line.png) repeat left top;
+background: -webkit-image-set(url("images/320w/dotted-line_320w.webp") 320w, url("images/640w/dotted-line_640w.webp") 640w, url("images/1024w/dotted-line_1024w.webp") 1024w, url("images/1920w/dotted-line_1920w.webp") 1920w); 
+background: image-set(url("images/320w/dotted-line_320w.webp") 320w, url("images/640w/dotted-line_640w.webp") 640w, url("images/1024w/dotted-line_1024w.webp") 1024w, url("images/1920w/dotted-line_1920w.webp") 1920w);
+background: -webkit-image-set(url("images/320w/dotted-line_320w.png") 320w, url("images/640w/dotted-line_640w.png") 640w, url("images/1024w/dotted-line_1024w.png") 1024w, url("images/1920w/dotted-line_1920w.png") 1920w);
+background: image-set(url("images/320w/dotted-line_320w.png") 320w, url("images/640w/dotted-line_640w.png") 640w, url("images/1024w/dotted-line_1024w.png") 1024w, url("images/1920w/dotted-line_1920w.png") 1920w);
+
 
 	background-size: 4px 4px;
 
@@ -7512,7 +7548,7 @@ nav.navigation .nav-links a:visited {
 
 .site-footer .widget {
 
-	background: transparent;
+	transparent
 
 	color: #fff;
 
@@ -9402,7 +9438,7 @@ text-transform: none;
 
 	body {
 
-		background: none !important;
+		none !important
 
 		color: #000;
 
@@ -9432,7 +9468,7 @@ text-transform: none;
 
 	.site-header {
 
-		background-image: none !important;
+		none !important
 
 	}
 
@@ -9578,7 +9614,7 @@ text-transform: none;
 
 	.comments-area > li.comment {
 
-		background: none;
+		none
 
 		position: relative;
 

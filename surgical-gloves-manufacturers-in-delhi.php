@@ -1,12 +1,10 @@
-<!doctype html>
-<html lang="en">
-    <head>
+<!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
-        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -15,7 +13,7 @@
   gtag('config', 'UA-83946647-2');
 </script>
 <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);} 
@@ -33,14 +31,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!-- page title -->
         <title>DR Glove - Surgical Gloves Manufacturers In Delhi</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-		<meta name="description" content="Quality Surgical Gloves Manufacturers In Delhi. Our gloves ensure optimal protection and comfort for medical professionals. Explore our range contact."/>
+		<meta name="description" content="Quality Surgical Gloves Manufacturers In Delhi. Our gloves ensure optimal protection and comfort for medical professionals. Explore our range contact.">
 		
-        <link rel="canonical" href="https://www.vlhsglove.com/surgical-gloves-manufacturers-in-delhi.php" />
+        <link rel="canonical" href="https://www.vlhsglove.com/surgical-gloves-manufacturers-in-delhi.php">
         <!--Bootstrap css-->
 		
 		<link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
@@ -52,13 +50,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon/apple-icon-144x144.png">
 		<link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon/apple-icon-152x152.png">
 		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
-		<link rel="icon" type="image/png" sizes="192x192"  href="assets/img/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 		
 		
-			<link href="assets/assets/docs.css" rel="stylesheet">
+			<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
         <link href="assets/css/flag-icon.css" rel="stylesheet">
 		
 		<link rel="manifest" href="assets/img/favicon/manifest.json">
@@ -86,7 +84,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!--modernizr js-->
         <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 		
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -149,7 +147,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
         
-       <?php include_once('innerpage_header.php');?>
+       <!--?php include_once('innerpage_header.php');?-->
 		<!--Start Medipath-banner area -->
        <section class="medipath-banner">
             <div class="medipath-overlay"></div>
@@ -177,7 +175,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row">
                     <div class="col-md-5 img_col" style="padding-top:20px;">
                         <div class="medipath-details-img">
-                            <img src="../img/blog/blog-img.jpg" class="img-responsive" alt="Surgical Gloves Manufacturers In Delhi" title="Surgical Gloves Manufacturers In Delhi">
+                            <picture><source srcset="../img/blog/320w/blog-img_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/blog/640w/blog-img_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/blog/1024w/blog-img_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/blog/1920w/blog-img_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/blog/blog-img.webp" class="img-responsive" alt="Surgical Gloves Manufacturers In Delhi" title="Surgical Gloves Manufacturers In Delhi" loading="lazy" decoding="async" width="512" height="464"></picture>
                                           
                             
                         </div>
@@ -187,11 +185,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <div class="medipath-Welcome">
 							<!---<h4 style="color:#1ed1c7;"><center>ABOUT VLHS</center></h4>-->
 							<h2>Surgical Gloves Manufacturers In Delhi</h2>
-                            <p>Welcome to <b>Vijayalakshmi Health and Surgical Pvt. Ltd</b> Glove, the most reputed and result-driven <b>surgical gloves manufacturers in Delhi</b>. Established in 2011, we have grown consistently by directing our focus on delivering high-performance <a href= "latexsurgicalgloves-prepowdered.php" >latex surgical gloves</a> that meet the highest industry standards of quality, performance, and reliability.</p>
+                            <p>Welcome to <b>Vijayalakshmi Health and Surgical Pvt. Ltd</b> Glove, the most reputed and result-driven <b>surgical gloves manufacturers in Delhi</b>. Established in 2011, we have grown consistently by directing our focus on delivering high-performance <a href="latexsurgicalgloves-prepowdered.php">latex surgical gloves</a> that meet the highest industry standards of quality, performance, and reliability.</p>
  
 <p style="margin-top: 15px;">Surgical gloves are an inseparable part of any medical setting whether it’s for generic tasks or medical procedures. Its main application is to protect the staff and patients from infection, contamination, or allergy in such setups. Given its importance, the onus is upto companies engaged in the production of such gloves to ensure each pair is durable, versatile, and safe for a wide spectrum of applications.</p>
  
-<p style="margin-top: 15px;">Here at <b>Vijayalakshmi Health and Surgical Pvt. Ltd</b> Glove, quality compliance underscores all our efforts. Each pair of our gloves is manufactured using the latest technology and innovative production methods while adhering to various quality regulations. It includes CE Certification, EN ISO-13485:2016, and ISI Certification. We also invest heavily in R&D projects that allow us to stay ahead of the competition and also introduce new advancements in the industry as a whole.</p>
+<p style="margin-top: 15px;">Here at <b>Vijayalakshmi Health and Surgical Pvt. Ltd</b> Glove, quality compliance underscores all our efforts. Each pair of our gloves is manufactured using the latest technology and innovative production methods while adhering to various quality regulations. It includes CE Certification, EN ISO-13485:2016, and ISI Certification. We also invest heavily in R&amp;D projects that allow us to stay ahead of the competition and also introduce new advancements in the industry as a whole.</p>
 
                         </div>
                     </div>
@@ -201,10 +199,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <p style="margin-top: 15px;">Our success as a top-tier <b>surgical gloves manufacturers in Delhi</b> is driven by our team of seasoned and driven professionals who are passionate about making a difference in the healthcare industry and how we impact people’s lives. From our engineers, technicians, and customer service executives, every team member plays a crucial role in delivering products that are ahead of their time.</p>
  
 <p style="margin-top: 15px;">Join hands with the top <b>surgical gloves manufacturers in Delhi</b> and redefine medical standards for the better!</p>
-<p style="margin-top: 15px;"><b>Related Link:</b>  <a href= "surgical-gloves-manufacturers-in-surat.php">Surgical Gloves Manufacturers In Surat</a></p>
+<p style="margin-top: 15px;"><b>Related Link:</b>  <a href="surgical-gloves-manufacturers-in-surat.php">Surgical Gloves Manufacturers In Surat</a></p>
                 </div>
             </div>
-        </section>
+        </div></section>
       
         <!--Scroll-up-->
         <a id="scroll-up"><i class="fa fa-angle-up"></i></a>
@@ -230,7 +228,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!--main js-->
         <script src="assets/js/main.js"></script>
         <script src="js/main.js"></script>
-        <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+        <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
 		<!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
 
@@ -256,7 +254,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             	  
                 });
             </script>
-                   <?php include_once('footer.php');?>
+                   <!--?php include_once('footer.php');?-->
 
-    </body>
-</html>    
+    
+    </body></html>

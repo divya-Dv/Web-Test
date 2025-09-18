@@ -1,4 +1,4 @@
-<?php
+<!--?php
 namespace FormGuide\PHPFormValidator;
 
 class Validators
@@ -9,9 +9,9 @@ class Validators
 
     public function __construct($field_name)
     {
-        $this->field_name = $field_name;
-        $this->errors = array();
-        $this->validators_list = include('ValidatorsList.php');
+        $this---><html><head></head><body>field_name = $field_name;
+        $this-&gt;errors = array();
+        $this-&gt;validators_list = include('ValidatorsList.php');
     }
 
     public static function create($field_name)
@@ -21,17 +21,17 @@ class Validators
 
     public function required($post, $details=array())
     {
-        if(empty($post[$this->field_name]))
+        if(empty($post[$this-&gt;field_name]))
         {
-            $this->addError("{$this->field_name} is Required.");
+            $this-&gt;addError("{$this-&gt;field_name} is Required.");
             return false;
         }
 
-        $value = trim($post[$this->field_name]);
+        $value = trim($post[$this-&gt;field_name]);
 
         if(empty($value))
         {
-            $this->addError("{$this->field_name} is Required.");
+            $this-&gt;addError("{$this-&gt;field_name} is Required.");
             return false;
         }
         return true;
@@ -39,12 +39,12 @@ class Validators
 
     public function __call($function, $arguments)
     {
-        //if(in_array('email', $this->validator_names,TRUE))
-        if(isset($this->validators_list[$function]))
+        //if(in_array('email', $this-&gt;validator_names,TRUE))
+        if(isset($this-&gt;validators_list[$function]))
         {
             $post = $arguments[0];
             $details = $arguments[1];
-            return $this->testField($function, $post, $details);
+            return $this-&gt;testField($function, $post, $details);
         }
         else
         {
@@ -54,58 +54,58 @@ class Validators
 
     private function testField($validation, $post, $details)
     {
-        if(empty($post[$this->field_name]))
+        if(empty($post[$this-&gt;field_name]))
         {
             return true;
         }
         $fn = 'check_'.$validation;
 
-        $res = $this->$fn($post, $details);
+        $res = $this-&gt;$fn($post, $details);
 
         if(false === $res)
         {
-            $this->validation_error($validation, $details);
+            $this-&gt;validation_error($validation, $details);
         }
         return $res;
     }
 
     private function check_email($post,$details)
     {
-        return (filter_var($post[$this->field_name] , FILTER_VALIDATE_EMAIL) === false)?false:true;
+        return (filter_var($post[$this-&gt;field_name] , FILTER_VALIDATE_EMAIL) === false)?false:true;
     }
 
     private function check_maxlen($post, $details)
     {
         $maxlen = intval($details['value']);
 
-        return (strlen($post[$this->field_name]) <= $maxlen);
+        return (strlen($post[$this-&gt;field_name]) &lt;= $maxlen);
     }
 
     private function check_minlen($post,$details)
     {
         $minlen = intval($details['value']);
-        return (strlen($post[$this->field_name]) >= $minlen);
+        return (strlen($post[$this-&gt;field_name]) &gt;= $minlen);
     }
 
     public function check_alphabetic($post,$details)
     {
-        return ctype_alpha($post[$this->field_name]);
+        return ctype_alpha($post[$this-&gt;field_name]);
     }
 
     public function check_alphanumeric($post,$details)
     {
-        return ctype_alnum($post[$this->field_name]);
+        return ctype_alnum($post[$this-&gt;field_name]);
     } 
 
     public function check_alphabetic_space($post,$details)
     {
-        $value = str_replace(' ','',$post[$this->field_name]);
+        $value = str_replace(' ','',$post[$this-&gt;field_name]);
         return ctype_alpha($value);
     }
 
     public function check_alphanumeric_space($post,$details)
     {
-        $value = str_replace(' ','',$post[$this->field_name]);
+        $value = str_replace(' ','',$post[$this-&gt;field_name]);
         return ctype_alnum($value);
     }        
 
@@ -117,49 +117,49 @@ class Validators
         {
             $error_msg = $details['message'];
         }
-        elseif(!empty($this->validators_list[$validation]['message']))
+        elseif(!empty($this-&gt;validators_list[$validation]['message']))
         {
-            $error_msg = $this->validators_list[$validation]['message'];
+            $error_msg = $this-&gt;validators_list[$validation]['message'];
         }
 
-        $error_msg = $this->interpolate_message($error_msg, $details);
+        $error_msg = $this-&gt;interpolate_message($error_msg, $details);
 
-        $this->addError($error_msg);
+        $this-&gt;addError($error_msg);
     }
 
     private function interpolate_message($message, $details)
     {
         $constraint = isset($details['value']) ? $details['value']: '';
 
-        $replacements = array('%field%' => $this->field_name,
-                         '%constraint%' => $constraint) ;
+        $replacements = array('%field%' =&gt; $this-&gt;field_name,
+                         '%constraint%' =&gt; $constraint) ;
 
         return strtr($message, $replacements);
     }
 
     public function addError($error)
     {
-        $this->errors[] = $error;
+        $this-&gt;errors[] = $error;
     }
 
     public function hasErrors()
     {
-        return empty($this->errors)?false:true; 
+        return empty($this-&gt;errors)?false:true; 
     }
 
     public function getErrorCount()
     {
-        return count($this->errors);
+        return count($this-&gt;errors);
     }
     public function getError()
     {
-        if(empty($this->errors))
+        if(empty($this-&gt;errors))
         {
             return null;
         }
         else
         {
-            return $this->errors[0];
+            return $this-&gt;errors[0];
         }
     }
-}
+}</body></html>

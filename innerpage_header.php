@@ -1,4 +1,4 @@
-<section class="header-top">
+<html><head></head><body><section class="header-top">
     <div class="container">
         <div id="google_translate_element" style="display:none;"></div>
         <script type="text/javascript">
@@ -44,7 +44,7 @@
             <div class="row">
                 <div class="col-md-2 col-sm-2 col-xs-3" style="padding:unset">
                     <div class="logo">
-                        <a href="index.php"><img src="assets\img\logo.png" alt="VLHS Glove" ></a>
+                        <a href="index.php"><picture><source srcset="./320w/assets\img\logo_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="./640w/assets\img\logo_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="./1024w/assets\img\logo_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="./1920w/assets\img\logo_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="./assets\img\logo.webp" alt="VLHS Glove" loading="lazy" decoding="async"></picture></a>
                     </div>
                 </div>
                 <div class="col-lg-7 col-sm-8 col-xs-9" style="padding:unset;">
@@ -79,7 +79,7 @@
 
 
                                 <li><a href="contact.php">Contact</a></li>
-                                <li style="display: none" class="years-image"><img src="assets/img/100-years.png" alt="" ></li>
+                                <li style="display: none" class="years-image"><picture><source srcset="assets/img/320w/100-years_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/100-years_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/100-years_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/100-years_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/100-years.webp" alt="" loading="lazy" decoding="async"></picture></li>
                                 <!--<script language="JavaScript" src="https://dunsregistered.dnb.com" type="text/javascript"></script>-->
 
 
@@ -88,11 +88,11 @@
                         </nav>
                     </div>
                 </div>
-                <div class="col-md-1 made-in-india-2" >
-                    <img src="assets/img/100-years.png" alt="">
+                <div class="col-md-1 made-in-india-2">
+                    <picture><source srcset="assets/img/320w/100-years_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/100-years_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/100-years_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/100-years_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/100-years.webp" alt="" loading="lazy" decoding="async"></picture>
                 </div>
                 <div class="col-md-1 d-none made-in-india">
-                    <img src="assets/img/made-in-india.png" alt="" style="height:90px">
+                    <picture><source srcset="assets/img/320w/made-in-india_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/made-in-india_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/made-in-india_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/made-in-india_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/made-in-india.webp" alt="" style="height:90px" loading="lazy" decoding="async"></picture>
                 </div>
                 
                 <div class="col-xs-12">
@@ -106,4 +106,4 @@
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH89ZVT3"
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) --></body></html>

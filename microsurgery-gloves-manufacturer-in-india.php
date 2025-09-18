@@ -1,12 +1,10 @@
-<!doctype html>
-<html lang="en">
-    <head>
+<!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
-        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -14,7 +12,7 @@
 
   gtag('config', 'UA-83946647-2');
 </script>
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
 <script><
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);} 
@@ -32,14 +30,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!-- page title -->
         <title>DR Glove - Microsurgery Gloves Manufacturer In India</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-		<meta name="description" content="Premium Microsurgery Gloves Manufacturer In India. Our gloves provide exceptional precision, comfort, and protection for delicate surgical procedures."/>
+		<meta name="description" content="Premium Microsurgery Gloves Manufacturer In India. Our gloves provide exceptional precision, comfort, and protection for delicate surgical procedures.">
 		
-        <link rel="canonical" href="https://www.vlhsglove.com/microsurgery-gloves-manufacturer-in-india.php" />
+        <link rel="canonical" href="https://www.vlhsglove.com/microsurgery-gloves-manufacturer-in-india.php">
         <!--Bootstrap css-->
 		
 		<link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
@@ -51,13 +49,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon/apple-icon-144x144.png">
 		<link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon/apple-icon-152x152.png">
 		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
-		<link rel="icon" type="image/png" sizes="192x192"  href="assets/img/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 		
 		
-			<link href="assets/assets/docs.css" rel="stylesheet">
+			<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
         <link href="assets/css/flag-icon.css" rel="stylesheet">
 		
 		<link rel="manifest" href="assets/img/favicon/manifest.json">
@@ -85,7 +83,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!--modernizr js-->
         <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 		
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -152,7 +150,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
         
-       <?php include_once('innerpage_header.php');?>
+       <!--?php include_once('innerpage_header.php');?-->
 		<!--Start Medipath-banner area -->
        <section class="medipath-banner">
             <div class="medipath-overlay"></div>
@@ -179,7 +177,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row">
                     <div class="col-md-5 img_col" style="padding-top:20px;">
                         <div class="medipath-details-img">
-                            <img src="../img/prepowder1.jpg" class="img-responsive" alt="Microsurgery Gloves Manufacturer In India" title="Microsurgery Gloves Manufacturer In India">
+                            <picture><source srcset="../img/320w/prepowder1_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/640w/prepowder1_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/1024w/prepowder1_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/1920w/prepowder1_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/prepowder1.webp" class="img-responsive" alt="Microsurgery Gloves Manufacturer In India" title="Microsurgery Gloves Manufacturer In India" loading="lazy" decoding="async" width="1667" height="1875"></picture>
                                           
                             
                         </div>
@@ -192,8 +190,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                             <p>Step into a world of boundless possibilities with the most renowned <b>microsurgery gloves manufacturer in India</b>. Backed by over a decade of unmatched expertise in the production of medical gloves, we have become a household name when it comes to quality quality-driven gloves for a wide spectrum of medical applications.</p>
 <p style="margin-top: 15px;">Our goal is not just to meet market demands, but also to offer products that meet the highest industry standards of safety, durability, and reliability. We strive hard to support the medical community by helping them deliver excellent patient care through our high-performing products. Here is why you should partner with us for top-quality surgery gloves:</p>
 <ul class="ul_list" style="padding-left:20px; margin-top: 15px;">
-<li>Strict quality compliance characterizes the entire process from start to end. We comply with a slew of internal quality guidelines coupled with various accreditations such as CE Certification, EN ISO-13485:2016, and ISI <a href ="certifications.php">Certification</a>. This inspires confidence in our partners regarding our quality and consistency as a <b>microsurgery gloves manufacturer in India</b>.</p>
-<li>Our team comprises seasoned professionals and new joiners with shared goals and vision. They make it their business to ensure everything goes as planned while meeting the varied demands of our clients.</li>
+<li>Strict quality compliance characterizes the entire process from start to end. We comply with a slew of internal quality guidelines coupled with various accreditations such as CE Certification, EN ISO-13485:2016, and ISI <a href="certifications.php">Certification</a>. This inspires confidence in our partners regarding our quality and consistency as a <b>microsurgery gloves manufacturer in India</b>.<p></p>
+</li><li>Our team comprises seasoned professionals and new joiners with shared goals and vision. They make it their business to ensure everything goes as planned while meeting the varied demands of our clients.</li>
 </ul>
                          </div>
                     </div>
@@ -202,13 +200,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="col-md-12 text_col">
      <ul class="ul_list" style="padding-left:20px; margin-top: 15px;">       
      <li>Our production facility is fully equipped with the latest advancements in the field and optimized to maximise production and maintain quality at the same time. Our current production capacity is 42 million pairs of gloves.</li>
-<li>We have a dedicated R&D team that works with an undivided focus on improving our existing products and capabilities while finding new avenues to explore to stay ahead of the competition and introduce innovations in the market.</li>
+<li>We have a dedicated R&amp;D team that works with an undivided focus on improving our existing products and capabilities while finding new avenues to explore to stay ahead of the competition and introduce innovations in the market.</li>
 <li>Timely delivery of our products is the key to ensuring every medical setting operates optimally. Our processes are built to optimize production so we can save time and meet every deadline successfully.</li> </ul>
 <p style="margin-top: 15px;">Go ahead, join hands with the most renowned <b>microsurgery gloves manufacturer in India</b> and bear witness to a world of positive changes in medical health outcomes.</p>
-<p style="margin-top: 15px;"><b>Related Links:</b> <a href= "medical-gloves-manufacturers-in-india.php">Medical Gloves Manufacturers In India</a></p>
+<p style="margin-top: 15px;"><b>Related Links:</b> <a href="medical-gloves-manufacturers-in-india.php">Medical Gloves Manufacturers In India</a></p>
                 </div>
             </div>
-        </section>
+        </div></section>
       
         <!--Scroll-up-->
         <a id="scroll-up"><i class="fa fa-angle-up"></i></a>
@@ -234,7 +232,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!--main js-->
         <script src="assets/js/main.js"></script>
         <script src="js/main.js"></script>
-        <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+        <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
 		<!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
 
@@ -260,7 +258,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             	  
                 });
             </script>
-                   <?php include_once('footer.php');?>
+                   <!--?php include_once('footer.php');?-->
 
-    </body>
-</html>    
+    
+    </body></html>

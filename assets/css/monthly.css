@@ -1,7 +1,7 @@
 
 /* Overall wrapper */
 .monthly {
-	background: #F3F3F5;
+	#F3F3F5
 	color: #545454;
 	-webkit-user-select: none;
 	-moz-user-select: none;
@@ -15,7 +15,7 @@
 	position: relative;
 	text-align: center;
 	padding: 0.5em;
-	background: #fff;
+	#fff
 	height: 3em;
 	box-sizing: border-box;
 }
@@ -47,19 +47,19 @@
 	border-bottom-right-radius: 1em;
 }
 .monthly-header-title a:hover {
-	background: #8b8b8b;
+	#8b8b8b
 	border: 1px solid #8b8b8b;
 	color: #fff;
 }
 .monthly-header-title a:active {
-	background: #222;
+	#222
 	border: 1px solid #222;
 	transition: none;
 }
 /* current month/yr block */
 .monthly-header-title-date,
 .monthly-header-title-date:hover {
-	background: #eee!important;
+	#eee!important
 	border: 1px solid #ccc!important;
 	color: #545454!important;
 	cursor: default;
@@ -131,7 +131,7 @@
 	display: table;
 	table-layout: fixed;
 	width: 100%;
-	background: #fff;
+	#fff
 	border-bottom: 1px solid #EBEBEB;
 }
 .monthly-day-title-wrap div {
@@ -162,7 +162,7 @@
 	box-sizing: border-box;
 	position: relative;
 	color: inherit;
-	background: #fff;
+	#fff
 	box-shadow: 0 0 0 1px #EBEBEB;
 	-webkit-transition: .25s;
 	transition: .25s;
@@ -180,12 +180,12 @@
 
 /* Hover effect for non event calendar days */
 .monthly-day-wrap > a:hover {
-	background: #A1C2E3;
+	#A1C2E3
 }
 
 /* Days that are part of previous or next month */
 .monthly-day-blank {
-	background: #F3F3F5;
+	#F3F3F5
 }
 
 /* Event calendar day number styles */
@@ -221,19 +221,19 @@
 	-webkit-transform: rotate(45deg);
 		-ms-transform: rotate(45deg);
 	        transform: rotate(45deg);
-	background: rgba(0, 0, 0, 0.1);
+	rgba(0, 0, 0, 0.1)
 	position: absolute;
 	left: 0;
 	top: 0;
 }
 .monthly-past-day:hover {
-	background: #fff!important;
+	#fff!important
 }
 
 /* Current day style */
 .monthly-today .monthly-day-number {
 	color: #FFF;
-	background: #EA6565;
+	#EA6565
 	border-radius: 0.75em;
 	top: 0.08em;
 	left: 0.05em;
@@ -268,7 +268,7 @@
 	height: 0.5em;
 	border-radius: 0.25em;
 	vertical-align: middle;
-	background: #7BA7CE;
+	#7BA7CE
 }
 
 .monthly-day .monthly-event-indicator span {
@@ -280,7 +280,7 @@
 }
 /* Listing of events under calendar */
 .monthly-event-list {
-	background: rgba(233, 235, 236, 0.9);
+	rgba(233, 235, 236, 0.9)
 	overflow: auto;
 	position: absolute;
 	top: 2.5em;
@@ -358,15 +358,15 @@
 .monthly-event-list::-webkit-scrollbar {width: 0.75em;}
 
 /* Track */
-.monthly-event-list::-webkit-scrollbar-track {background: none;}
+.monthly-event-list::-webkit-scrollbar-track {none}
 
 /* Handle */
 .monthly-event-list::-webkit-scrollbar-thumb {
-	background: #ccc;
+	#ccc
 	border: 1px solid #E9EBEC;
 	border-radius: 0.5em;
 }
-.monthly-event-list::-webkit-scrollbar-thumb:hover {background: #555;}
+.monthly-event-list::-webkit-scrollbar-thumb:hover {#555}
 
 /* Language-specific. Default is English. */
 .monthly-reset:after		{ content: 'Today'; }

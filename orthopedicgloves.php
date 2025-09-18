@@ -1,14 +1,11 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -59,15 +56,15 @@
     <!-- page title -->
     <title>DR Glove - Orthopedic Gloves Manufacturer</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description" content="Orthopedic Gloves Manufacturer. Well designed to provide extra protection for surgeons and offer extra thickness with a superior grip. visit our site." />
+    <meta name="description" content="Orthopedic Gloves Manufacturer. Well designed to provide extra protection for surgeons and offer extra thickness with a superior grip. visit our site.">
 
-    <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485." />
-    <link rel="canonical" href="https://www.vlhsglove.com/orthopedicgloves.php" />
+    <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485.">
+    <link rel="canonical" href="https://www.vlhsglove.com/orthopedicgloves.php">
     <!--Bootstrap css-->
     <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicon/apple-icon-60x60.png">
@@ -82,7 +79,7 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
-    <link href="assets/assets/docs.css" rel="stylesheet">
+    <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
     <link href="assets/css/flag-icon.css" rel="stylesheet">
     <link rel="manifest" href="assets/img/favicon/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -110,7 +107,7 @@
     <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -127,7 +124,7 @@
 
 
     <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -227,7 +224,7 @@
     <!-- End Google Tag Manager (noscript) -->
 
     <!--Start Header area-->
-    <?php include_once('innerpage_header.php'); ?>
+    <!--?php include_once('innerpage_header.php'); ?-->
     <!--End header area -->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
@@ -265,7 +262,7 @@
                 <div class="col-md-4">
                     <div class="service-nav">
 
-                        <img src="img/orthopedicgloves-updated.jpg" alt="Orthopedic Gloves in UK" class="responsive" height="513px;" width="350px;">
+                        <picture><source srcset="img/320w/orthopedicgloves-updated_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/orthopedicgloves-updated_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/orthopedicgloves-updated_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/orthopedicgloves-updated_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/orthopedicgloves-updated.webp" alt="Orthopedic Gloves in UK" class="responsive" height="513px;" width="350px;" loading="lazy" decoding="async"></picture>
 
                     </div>
 
@@ -285,7 +282,7 @@
 
                         <h3 class="color">QUALITY STANDARDS</h3>
                         <ul class="list">
-                            <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> ASTM:D3577 −19 & BS EN 455‑1:2020, EN455-2:2015, EN 455-3:2015, EN 455-4:2009 & ISO 10282:2014</li>
+                            <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> ASTM:D3577 −19 &amp; BS EN 455‑1:2020, EN455-2:2015, EN 455-3:2015, EN 455-4:2009 &amp; ISO 10282:2014</li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> Indian Medical Device Regulation (IMDR) 2017 - Class B Device</li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> Manufactured under EN ISO 13485:2016 quality management system </li>
                             <li><i class="fa fa-play-circle-o" style="color:#cccece; padding-right:5px;"></i> Using US FDA approved absorbable USP Grade modified corn starch</li>
@@ -532,13 +529,13 @@
                                 <div class="row">
                                     <div class="form-group">
                                         <label for="email"> Phone:</label>
-                                        <input type="tel" class="form-control" id="phone" name="phone" required maxlength="50">
+                                        <input type="tel" class="form-control" id="phone" name="phone" required="" maxlength="50">
                                     </div>
                                 </div>
                                 <div class="row">
             <div class="form-group">
                 <label for="city"> City:</label>
-                <input type="text" class="form-control" id="city" name="city" required>
+                <input type="text" class="form-control" id="city" name="city" required="">
                     </div>
         </div>
                                 <div class="row">
@@ -610,7 +607,7 @@
     <!--main js-->
     <script src="assets\js\main.js"></script>
 
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
 
     <script type="text/javascript">
         $('.translation-links a').on('click', function() {
@@ -648,8 +645,8 @@
     </script>
     <!--captcha code end-->
 
-    <?php include_once('footer.php'); ?>
+    <!--?php include_once('footer.php'); ?-->
 
-</body>
 
-</html>
+
+</body></html>

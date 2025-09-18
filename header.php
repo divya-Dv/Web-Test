@@ -1,4 +1,4 @@
-<header class="header-one">
+<html><head></head><body><header class="header-one">
     <!-- Start top bar -->
     <div class="topbar-area fix hidden-xs">
         <div class="container">
@@ -32,7 +32,7 @@
                     <div class="logo">
                         <!-- Brand -->
                         <a class="navbar-brand page-scroll sticky-logo" href="index.php">
-                            <img src="img/logo.png" alt="Logo" style="height:50px">
+                            <picture><source srcset="img/320w/logo_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/logo_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/logo_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/logo_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/logo.webp" alt="Logo" style="height:50px" loading="lazy" decoding="async"></picture>
                         </a>
                     </div>
                 </div>
@@ -85,11 +85,11 @@
                 </div>
                 
                 
-                <div class="col-md-1 made-in-india" >
-                    <img src="assets/img/100-years.png" alt="" >
+                <div class="col-md-1 made-in-india">
+                    <picture><source srcset="assets/img/320w/100-years_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/100-years_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/100-years_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/100-years_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/100-years.webp" alt="" loading="lazy" decoding="async"></picture>
                 </div>
-                <div class="col-md-1 made-in-india" >
-                    <img src="assets/img/made-in-india.png" alt="" style="height:90px">
+                <div class="col-md-1 made-in-india">
+                    <picture><source srcset="assets/img/320w/made-in-india_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/made-in-india_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/made-in-india_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/made-in-india_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/made-in-india.webp" alt="" style="height:90px" loading="lazy" decoding="async"></picture>
                 </div>
             </div>
         </div>
@@ -102,7 +102,7 @@
                 <div class="col-md-12">
                     <div class="mobile-menu">
                         <div class="logo">
-                            <a href="index.php"><img src="img/logo.png" alt="Logo" ></a>
+                            <a href="index.php"><picture><source srcset="img/320w/logo_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/logo_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/logo_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/logo_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/logo.webp" alt="Logo" loading="lazy" decoding="async"></picture></a>
                         </div>
                         <nav id="dropdown">
                             <ul>
@@ -140,7 +140,7 @@
                                 <li>
                                     <div id="google_translate_element1"></div>
                                 </li>
-                                <li><img src="assets/img/100-years.png" alt="" ></li>
+                                <li><picture><source srcset="assets/img/320w/100-years_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="assets/img/640w/100-years_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="assets/img/1024w/100-years_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="assets/img/1920w/100-years_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="assets/img/100-years.webp" alt="" loading="lazy" decoding="async"></picture></li>
                             </ul>
                         </nav>
                     </div>
@@ -158,4 +158,4 @@
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PH89ZVT3"
         height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<!-- End Google Tag Manager (noscript) -->
+<!-- End Google Tag Manager (noscript) --></body></html>

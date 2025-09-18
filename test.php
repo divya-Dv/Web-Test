@@ -1,4 +1,4 @@
-<?php
+<!--?php
 // the message
 $msg = "First line of text\nSecond line of text";
 
@@ -7,4 +7,4 @@ $msg = wordwrap($msg,70);
 
 // send email
 mail("mahesh.grank@gmail.com","My subject",$msg);
-?>
+?--><html><head></head><body></body></html>

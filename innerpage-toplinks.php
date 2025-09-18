@@ -1,8 +1,8 @@
-<meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" >
-    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" >
+<html><head><meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -14,7 +14,7 @@
     gtag('config', 'UA-83946647-2');
     </script>
     <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=A<W-753793562"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=A<W-753793562"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -58,7 +58,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 
 
-    <link href="assets/assets/docs.css" rel="stylesheet">
+    <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
     <link href="assets/css/flag-icon.css" rel="stylesheet">
 
     <link rel="manifest" href="assets/img/favicon/manifest.json">
@@ -86,7 +86,7 @@
     <!--modernizr js-->
     <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
     <script>
     window.dataLayer = window.dataLayer || [];
 
@@ -142,3 +142,4 @@
     })(window, document, 'script', 'dataLayer', 'GTM-PRP5KGQ');
     </script>
     <!-- End Google Tag Manager -->
+</head><body></body></html>

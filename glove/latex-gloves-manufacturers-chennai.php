@@ -1,24 +1,22 @@
-<!doctype html>
-<html lang="en">
-    <head>
+<!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
-        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
 
         <!-- page title -->
         <title>DR Glove - Latex Gloves Manufacturers In Chennai</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-		<meta name="description" content="Latex gloves manufacturers in Chennai. Our high-quality gloves offer superior protection and comfort for various applications Explore our extensive Call"/>
+		<meta name="description" content="Latex gloves manufacturers in Chennai. Our high-quality gloves offer superior protection and comfort for various applications Explore our extensive Call">
 		
-        <link rel="canonical" href="https://www.vlhsglove.com/glove/latex-gloves-manufacturers-chennai.php" />
-        <?php include_once('seo-toplinks.php');?>
+        <link rel="canonical" href="https://www.vlhsglove.com/glove/latex-gloves-manufacturers-chennai.php">
+        <!--?php include_once('seo-toplinks.php');?-->
         
 <style>
     h1.entry-title {
@@ -53,7 +51,7 @@ ul.ul_list li {
     </head>
     <body>
         
-       <?php include_once('../seo-header.php');?>
+       <!--?php include_once('../seo-header.php');?-->
 		<!--Start Medipath-banner area -->
        <section class="medipath-banner">
             <div class="medipath-overlay"></div>
@@ -69,7 +67,7 @@ ul.ul_list li {
 				  <!--<span property="name">Dr. Glove</span></a>-->
 				  <!--<meta property="position" content="1"></span> &gt; <span property="itemListElement" typeof="ListItem">-->
 				  <span property="name"><a href="index.php">Home </a></span><meta property="position" content="2"></span>/
-				  <span property="name">Latex Gloves Manufacturers In Chennai</span><meta property="position" content="2"></span></div>
+				  <span property="name">Latex Gloves Manufacturers In Chennai</span><meta property="position" content="2"></div>
 				</div>
 			</div>
   </div>
@@ -82,7 +80,7 @@ ul.ul_list li {
                 <div class="row">
                     <div class="col-md-5 img_col" style="padding-top:20px;">
                         <div class="medipath-details-img">
-                            <img src="../img/blog/blog-img.jpg" class="img-responsive" alt="Latex Gloves Manufacturers In Chennai" title="Latex Gloves Manufacturers In Chennai">
+                            <picture><source srcset="../img/blog/320w/blog-img_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="../img/blog/640w/blog-img_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="../img/blog/1024w/blog-img_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="../img/blog/1920w/blog-img_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="../img/blog/blog-img.webp" class="img-responsive" alt="Latex Gloves Manufacturers In Chennai" title="Latex Gloves Manufacturers In Chennai" width="512" height="464"></picture>
                                           
                             
                         </div>
@@ -97,7 +95,7 @@ ul.ul_list li {
                       <p style="margin-top: 15px;">Since our incorporation in 2011, we have built our portfolio. With an unyielding focus on quality, performance, and sustainability. Our portfolio of latex gloves includes powder-free, orthopedic gloves, and latex examination gloves.</p>
                       <p style="margin-top: 15px;">Nitrile examination gloves. Here at <b>Vijayalakshmi Health and Surgical Pvt. Ltd</b>, we understand the critical role of every pair of gloves in any medical setting. Keeping this in cognizance, we work to ensure we direct. Our efforts not only at meeting immediate market demands but also to maintain.</p>
                     <p style="margin-top: 15px;">Improve our capabilities from time to time. Quality is not a catchphrase in our premises but ingrained in our work ethos. Our team comprises seasoned professionals who make it their business. To ensure we stick to the rigors and deliver on our promises each time.</p>
-                    <p style="margin-top: 15px;">Strict compliance with various accreditations such as ASTM, EN 455, EN ISO 13485:2016, BIS Certifications, & CE Certificates. Our reputation as a premier latex gloves manufacturers in Chennai.</p>
+                    <p style="margin-top: 15px;">Strict compliance with various accreditations such as ASTM, EN 455, EN ISO 13485:2016, BIS Certifications, &amp; CE Certificates. Our reputation as a premier latex gloves manufacturers in Chennai.</p>
                         </div>
                     </div>
 					
@@ -112,9 +110,9 @@ ul.ul_list li {
                     <p style="margin-top:15px;"><b>Related Links:</b> <a href="surgical-gloves-manufacturers-mumbai.php">Surgical Gloves Manufacturers in Mumbai</a></p>
                 </div>
             </div>
-        </section>
-      <?php include_once('seo-footer-links.php');?>
-      <?php include_once('../footer.php');?>
+        </div></section>
+      <!--?php include_once('seo-footer-links.php');?-->
+      <!--?php include_once('../footer.php');?-->
 
-    </body>
-</html>    
+    
+    </body></html>

@@ -1,4 +1,4 @@
-<?php
+<!--?php
 namespace FormGuide\Handlx;
 
 class ReCaptchaValidator
@@ -7,22 +7,22 @@ class ReCaptchaValidator
 	private $secret;
 	public function __construct()
 	{
-		$this->enabled=false;
+		$this---><html><head></head><body>enabled=false;
 	}
 	
 	public function isEnabled()
 	{
-		return $this->enabled;	
+		return $this-&gt;enabled;	
 	}
 
 	public function enable($enable)
 	{
-		$this->enabled = $enable;
+		$this-&gt;enabled = $enable;
 	}
 
 	public function initSecretKey($key)
 	{
-		$this->secret = $key;
+		$this-&gt;secret = $key;
 	}
 
 	public function validate()
@@ -35,16 +35,16 @@ class ReCaptchaValidator
 		$captcha=$_POST['g-recaptcha-response'];
 
 		$url = 
-		'https://www.google.com/recaptcha/api/siteverify?secret='.$this->secret.'&response='.$captcha.'&remoteip='.$_SERVER['REMOTE_ADDR'];
+		'https://www.google.com/recaptcha/api/siteverify?secret='.$this-&gt;secret.'&amp;response='.$captcha.'&amp;remoteip='.$_SERVER['REMOTE_ADDR'];
 
 		$resp_raw = file_get_contents($url);
 
 		$response=json_decode($resp_raw, true);
 
-		if(!empty($response['success']) && $response['success'])
+		if(!empty($response['success']) &amp;&amp; $response['success'])
 		{
 			return true;
 		}
 		return false;
 	}
-}
+}</body></html>

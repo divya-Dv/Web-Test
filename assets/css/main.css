@@ -103,7 +103,7 @@ section {
 .overlay {
     width: 100%;
     height: 100%;
-    background: #448AFF;
+    #448AFF
     opacity: 0.9;
     overflow: hidden;
 }
@@ -170,7 +170,7 @@ h3 {
     line-height: 46px;
     position: relative;
     overflow: hidden;
-    background: transparent;
+    transparent
     transition: .3s;
 }
 
@@ -179,7 +179,7 @@ h3 {
     width: 100%;
     height: 100%;
     position: absolute;
-    background: #1ED1C7;
+    #1ED1C7
     opacity: .8;
     top: -100%;
     left: 0;
@@ -192,7 +192,7 @@ h3 {
     width: 100%;
     height: 100%;
     position: absolute;
-    background: #448AFF;
+    #448AFF
     top: -100%;
     left: 0;
     z-index: -1;
@@ -228,7 +228,7 @@ h3 {
 -----------------------------------*/
 .preloader-area {
     position: fixed;
-    background: #fff;
+    #fff
     z-index: 11000;
     height: 100%;
     width: 100%;
@@ -264,7 +264,7 @@ h3 {
     height: 24px;
     display: inline-block;
     box-sizing: border-box;
-    background: #448AFF;
+    #448AFF
     animation: cp-bubble-animate 1s linear infinite;
 }
 
@@ -361,7 +361,7 @@ h3 {
 -----------------------------------*/
 .header-top {
     padding: 2px;
-    background: #0095da;
+    #0095da
 }
 
 .header-left span {
@@ -389,7 +389,7 @@ h3 {
 
 .header-right ul li .a-link {
     padding: 13px 20px;
-    background: #fff;
+    #fff
     color: #1ED1C7;
     text-transform: uppercase;
     font-size: 16px;
@@ -405,7 +405,7 @@ h3 {
 header {
     width: 100%;
     z-index: 337;
-    background: #fff;
+    #fff
 }
 
 header.sticky {
@@ -476,7 +476,7 @@ header.sticky {
 }
 
 .main-menu ul li ul.sub-menu {
-    background: #fff none repeat scroll 0 0;
+    #fff none repeat scroll 0 0
     border-width: 0 1px 1px;
     margin-top: 40px;
     opacity: 0;
@@ -523,7 +523,7 @@ header.sticky {
 }
 
 .main-menu ul li ul.sub-menu li:hover {
-    background: #00a651;
+    #00a651
 }
 
 .main-menu ul li ul.sub-menu li a:hover {
@@ -694,7 +694,13 @@ element.style {
     5.Start banner-area  css
 -----------------------------------*/
 .banner-area {
-    background: url("../img/slider-1.jpg")no-repeat center;
+    
+background: url("../img/slider-1.jpg")no-repeat center;
+background: -webkit-image-set(url("../img/320w/slider-1_320w.webp") 320w, url("../img/640w/slider-1_640w.webp") 640w, url("../img/1024w/slider-1_1024w.webp") 1024w, url("../img/1920w/slider-1_1920w.webp") 1920w); 
+background: image-set(url("../img/320w/slider-1_320w.webp") 320w, url("../img/640w/slider-1_640w.webp") 640w, url("../img/1024w/slider-1_1024w.webp") 1024w, url("../img/1920w/slider-1_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/320w/slider-1_320w.jpg") 320w, url("../img/640w/slider-1_640w.jpg") 640w, url("../img/1024w/slider-1_1024w.jpg") 1024w, url("../img/1920w/slider-1_1920w.jpg") 1920w);
+background: image-set(url("../img/320w/slider-1_320w.jpg") 320w, url("../img/640w/slider-1_640w.jpg") 640w, url("../img/1024w/slider-1_1024w.jpg") 1024w, url("../img/1920w/slider-1_1920w.jpg") 1920w);
+
     background-size: cover;
     position: relative;
 }
@@ -729,7 +735,7 @@ element.style {
     letter-spacing: 1px;
     font-weight: 600;
     padding: 15px 20px;
-    background: #448AFF;
+    #448AFF
     text-align: center;
     text-transform: uppercase;
     color: #fff;
@@ -738,7 +744,7 @@ element.style {
 }
 
 .hero-button .hero-btn:hover {
-    background: #1ED1C7;
+    #1ED1C7
 }
 
 /*---------------------------------
@@ -753,7 +759,13 @@ element.style {
 }
 
 .single-slider-1 {
-    background: url("../img/slider-1.jpg")no-repeat center;
+    
+background: url("../img/slider-1.jpg")no-repeat center;
+background: -webkit-image-set(url("../img/320w/slider-1_320w.webp") 320w, url("../img/640w/slider-1_640w.webp") 640w, url("../img/1024w/slider-1_1024w.webp") 1024w, url("../img/1920w/slider-1_1920w.webp") 1920w); 
+background: image-set(url("../img/320w/slider-1_320w.webp") 320w, url("../img/640w/slider-1_640w.webp") 640w, url("../img/1024w/slider-1_1024w.webp") 1024w, url("../img/1920w/slider-1_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/320w/slider-1_320w.jpg") 320w, url("../img/640w/slider-1_640w.jpg") 640w, url("../img/1024w/slider-1_1024w.jpg") 1024w, url("../img/1920w/slider-1_1920w.jpg") 1920w);
+background: image-set(url("../img/320w/slider-1_320w.jpg") 320w, url("../img/640w/slider-1_640w.jpg") 640w, url("../img/1024w/slider-1_1024w.jpg") 1024w, url("../img/1920w/slider-1_1920w.jpg") 1920w);
+
     background-size: cover;
     position: relative;
     text-align: center;
@@ -761,7 +773,13 @@ element.style {
 }
 
 .single-slider-2 {
-    background: url("../img/slider-2.jpg")no-repeat center;
+    
+background: url("../img/slider-2.jpg")no-repeat center;
+background: -webkit-image-set(url("../img/320w/slider-2_320w.webp") 320w, url("../img/640w/slider-2_640w.webp") 640w, url("../img/1024w/slider-2_1024w.webp") 1024w, url("../img/1920w/slider-2_1920w.webp") 1920w); 
+background: image-set(url("../img/320w/slider-2_320w.webp") 320w, url("../img/640w/slider-2_640w.webp") 640w, url("../img/1024w/slider-2_1024w.webp") 1024w, url("../img/1920w/slider-2_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/320w/slider-2_320w.jpg") 320w, url("../img/640w/slider-2_640w.jpg") 640w, url("../img/1024w/slider-2_1024w.jpg") 1024w, url("../img/1920w/slider-2_1920w.jpg") 1920w);
+background: image-set(url("../img/320w/slider-2_320w.jpg") 320w, url("../img/640w/slider-2_640w.jpg") 640w, url("../img/1024w/slider-2_1024w.jpg") 1024w, url("../img/1920w/slider-2_1920w.jpg") 1920w);
+
     background-size: cover;
     position: relative;
     text-align: center;
@@ -769,7 +787,13 @@ element.style {
 }
 
 .single-slider-3 {
-    background: url("../img/slider-1.jpg")no-repeat center;
+    
+background: url("../img/slider-1.jpg")no-repeat center;
+background: -webkit-image-set(url("../img/320w/slider-1_320w.webp") 320w, url("../img/640w/slider-1_640w.webp") 640w, url("../img/1024w/slider-1_1024w.webp") 1024w, url("../img/1920w/slider-1_1920w.webp") 1920w); 
+background: image-set(url("../img/320w/slider-1_320w.webp") 320w, url("../img/640w/slider-1_640w.webp") 640w, url("../img/1024w/slider-1_1024w.webp") 1024w, url("../img/1920w/slider-1_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/320w/slider-1_320w.jpg") 320w, url("../img/640w/slider-1_640w.jpg") 640w, url("../img/1024w/slider-1_1024w.jpg") 1024w, url("../img/1920w/slider-1_1920w.jpg") 1920w);
+background: image-set(url("../img/320w/slider-1_320w.jpg") 320w, url("../img/640w/slider-1_640w.jpg") 640w, url("../img/1024w/slider-1_1024w.jpg") 1024w, url("../img/1920w/slider-1_1920w.jpg") 1920w);
+
     background-size: cover;
     position: relative;
     text-align: center;
@@ -795,7 +819,7 @@ element.style {
     content: "\f104";
     font-family: 'FontAwesome';
     color: #fff !important;
-    background: #1ED1C7;
+    #1ED1C7
     font-size: 36px;
     cursor: pointer;
     padding: 3px 15px;
@@ -810,7 +834,7 @@ element.style {
     content: "\f105";
     font-family: 'FontAwesome';
     color: #fff !important;
-    background: #1ED1C7;
+    #1ED1C7
     font-size: 36px;
     cursor: pointer;
     padding: 3px 15px;
@@ -831,7 +855,7 @@ element.style {
     width: 15px;
     height: 15px;
     content: '';
-    background: #fff;
+    #fff
     border-radius: 10px;
     margin-top: 0px;
 }
@@ -844,17 +868,17 @@ element.style {
     7.Start Service-top section css
 -----------------------------------*/
 .t-service-1 {
-    background: #673BB7;
+    #673BB7
     padding: 30px;
 }
 
 .t-service-2 {
-    background: #1ED1C7;
+    #1ED1C7
     padding: 30px;
 }
 
 .t-service-3 {
-    background: #448AFF;
+    #448AFF
     padding: 30px;
 }
 
@@ -890,12 +914,12 @@ element.style {
     padding: 8px 15px;
     font-size: 16px;
     font-weight: 600;
-    background: #222;
+    #222
     transition: .5s;
 }
 
 .t-service-details a:hover {
-    background: #1ED1C7;
+    #1ED1C7
     color: #222;
 }
 
@@ -939,7 +963,13 @@ element.style {
   9.Start counter section css
 ------------------------------*/
 .countdown-area {
-    background: url("../img/counter-bg.jpg")no-repeat center fixed;
+    
+background: url("../img/counter-bg.jpg")no-repeat center fixed;
+background: -webkit-image-set(url("../img/320w/counter-bg_320w.webp") 320w, url("../img/640w/counter-bg_640w.webp") 640w, url("../img/1024w/counter-bg_1024w.webp") 1024w, url("../img/1920w/counter-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/320w/counter-bg_320w.webp") 320w, url("../img/640w/counter-bg_640w.webp") 640w, url("../img/1024w/counter-bg_1024w.webp") 1024w, url("../img/1920w/counter-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/320w/counter-bg_320w.jpg") 320w, url("../img/640w/counter-bg_640w.jpg") 640w, url("../img/1024w/counter-bg_1024w.jpg") 1024w, url("../img/1920w/counter-bg_1920w.jpg") 1920w);
+background: image-set(url("../img/320w/counter-bg_320w.jpg") 320w, url("../img/640w/counter-bg_640w.jpg") 640w, url("../img/1024w/counter-bg_1024w.jpg") 1024w, url("../img/1920w/counter-bg_1920w.jpg") 1920w);
+
     background-size: cover;
     position: relative;
 }
@@ -1014,7 +1044,7 @@ element.style {
     width: 70px;
     height: 70px;
     color: #fff;
-    background: #673BB7;
+    #673BB7
     border-radius: 50%;
     text-align: center;
     padding-left: 3px;
@@ -1034,7 +1064,13 @@ element.style {
     11.Start Department section css
 ----------------------------------*/
 .department {
-    /* background: url(../img/department-bg.jpg)no-repeat center fixed;*/
+    /* 
+background: url(../img/department-bg.jpg)no-repeat center fixed;
+background: -webkit-image-set(url("../img/320w/department-bg_320w.webp") 320w, url("../img/640w/department-bg_640w.webp") 640w, url("../img/1024w/department-bg_1024w.webp") 1024w, url("../img/1920w/department-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/320w/department-bg_320w.webp") 320w, url("../img/640w/department-bg_640w.webp") 640w, url("../img/1024w/department-bg_1024w.webp") 1024w, url("../img/1920w/department-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/320w/department-bg_320w.jpg") 320w, url("../img/640w/department-bg_640w.jpg") 640w, url("../img/1024w/department-bg_1024w.jpg") 1024w, url("../img/1920w/department-bg_1920w.jpg") 1920w);
+background: image-set(url("../img/320w/department-bg_320w.jpg") 320w, url("../img/640w/department-bg_640w.jpg") 640w, url("../img/1024w/department-bg_1024w.jpg") 1024w, url("../img/1920w/department-bg_1920w.jpg") 1920w);
+*/
     background-size: cover;
     position: relative;
 }
@@ -1085,7 +1121,7 @@ element.style {
 }
 
 .tab-bg {
-    background: #fff;
+    #fff
     position: relative;
 }
 
@@ -1126,7 +1162,7 @@ element.style {
 }
 
 .team-social a {
-    background: #673BB7;
+    #673BB7
 }
 
 .team-social a {
@@ -1143,7 +1179,7 @@ element.style {
 }
 
 .team-social a:hover {
-    background: #fff;
+    #fff
     color: #222;
 }
 
@@ -1191,7 +1227,7 @@ element.style {
 .team-social {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
-    background: rgba(23, 23, 23, 0.8) none repeat scroll 0 0;
+    rgba(23, 23, 23, 0.8) none repeat scroll 0 0
     min-height: 100%;
     opacity: 0;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
@@ -1209,7 +1245,7 @@ element.style {
 .team-member:hover .team-social {
     -webkit-backface-visibility: visible;
     backface-visibility: visible;
-    background: #448AFF;
+    #448AFF
     opacity: .9;
     -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
     -webkit-transform: perspective(700px) rotateX(0deg);
@@ -1239,7 +1275,7 @@ element.style {
 }
 
 .testimonial-area {
-    background: #fff;
+    #fff
     padding: 40px;
     overflow: hidden;
 }
@@ -1283,7 +1319,7 @@ element.style {
     width: 25px;
     height: 6px;
     content: '';
-    background: #fff;
+    #fff
     border-radius: 10px;
     border: 1px solid #fff;
     margin-top: 10px;
@@ -1344,7 +1380,7 @@ element.style {
   15.start widget section css
 --------------------------------*/
 .widget-area {
-    background: #00a651;
+    #00a651
 }
 
 .f-widget-title h4 {
@@ -1374,14 +1410,14 @@ element.style {
     color: #fff;
     height: 40px;
     width: 40px;
-    /*background: #448AFF;*/
+    /*#448AFF*/
     text-align: center;
     line-height: 40px;
     transition: .5s;
 }
 
 .about-social ul li a:hover {
-    background: #1ED1C7;
+    #1ED1C7
 }
 
 .categories li {
@@ -1410,7 +1446,7 @@ element.style {
     position: absolute;
     width: 60px;
     border-radius: 0;
-    background: #448AFF;
+    #448AFF
     color: #fff;
     height: 48px;
     bottom: 16px;
@@ -1430,7 +1466,7 @@ element.style {
 --------------------------------*/
 .footer-area {
     padding: 50px 0;
-    background: #0095da;
+    #0095da
 }
 
 .footer-text {
@@ -1487,11 +1523,11 @@ element.style {
     -webkit-transition: all 0.25s;
     transition: all 0.25s;
     display: none;
-    background: #0d75ba;
+    #0d75ba
 }
 
 #scroll-up:hover {
-    background: #444;
+    #444
 }
 
 /*--------------------------------
@@ -1513,7 +1549,7 @@ element.style {
 }
 
 .medipath-banner-header .breadcrumb {
-    background: transparent;
+    transparent
     padding: 0px;
 }
 
@@ -1578,7 +1614,7 @@ element.style {
 }
 
 .open-hour {
-    background: #448AFF;
+    #448AFF
     padding: 15px;
 }
 
@@ -1671,7 +1707,7 @@ element.style {
     width: 40px;
     line-height: 40px;
     text-align: center;
-    background: #fff;
+    #fff
     color: #673BB7;
     font-size: 22px
 }
@@ -1694,7 +1730,7 @@ element.style {
     width: 40px;
     line-height: 40px;
     text-align: center;
-    background: #fff;
+    #fff
     color: #673BB7;
     font-size: 22px
 }
@@ -1707,7 +1743,13 @@ element.style {
     21.Start 404.html css
 --------------------------------*/
 .error-area {
-    background: url(../img/erro-bg.jpg)no-repeat center fixed;
+    
+background: url(../img/erro-bg.jpg)no-repeat center fixed;
+background: -webkit-image-set(url("../img/320w/erro-bg_320w.webp") 320w, url("../img/640w/erro-bg_640w.webp") 640w, url("../img/1024w/erro-bg_1024w.webp") 1024w, url("../img/1920w/erro-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/320w/erro-bg_320w.webp") 320w, url("../img/640w/erro-bg_640w.webp") 640w, url("../img/1024w/erro-bg_1024w.webp") 1024w, url("../img/1920w/erro-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/320w/erro-bg_320w.jpg") 320w, url("../img/640w/erro-bg_640w.jpg") 640w, url("../img/1024w/erro-bg_1024w.jpg") 1024w, url("../img/1920w/erro-bg_1920w.jpg") 1920w);
+background: image-set(url("../img/320w/erro-bg_320w.jpg") 320w, url("../img/640w/erro-bg_640w.jpg") 640w, url("../img/1024w/erro-bg_1024w.jpg") 1024w, url("../img/1920w/erro-bg_1920w.jpg") 1920w);
+
     background-size: cover;
     position: relative;
 }
@@ -1735,7 +1777,7 @@ element.style {
     letter-spacing: 1px;
     font-weight: 600;
     padding: 15px 20px;
-    background: #448AFF;
+    #448AFF
     text-align: center;
     text-transform: uppercase;
     color: #fff;
@@ -1744,7 +1786,7 @@ element.style {
 }
 
 .error-text .hero-btn:hover {
-    background: #1ED1C7;
+    #1ED1C7
 }
 
 /*------------------------------
@@ -1776,7 +1818,7 @@ element.style {
     color: #fff;
     width: 30px;
     height: 30px;
-    background: #0D75BA;
+    #0D75BA
     border-radius: 30px;
     padding: 7px;
     text-align: center;
@@ -1784,7 +1826,7 @@ element.style {
 }
 
 .single-post-share li i:hover {
-    background: #222;
+    #222
     color: #fff;
     transition: .5s;
 }
@@ -1857,7 +1899,7 @@ element.style {
     position: absolute;
     width: 60px;
     border-radius: 0;
-    background: #448AFF;
+    #448AFF
     color: #fff;
     height: 48px;
     bottom: 1px;
@@ -1957,7 +1999,7 @@ ul.categorie-icon {
 }
 
 .meta-tag a:hover {
-    background: #448AFF;
+    #448AFF
     color: #fff;
 }
 
@@ -2007,14 +2049,14 @@ ul.categorie-icon {
 .form-control {
     /*height: 50px;*/
     color: #aba8a8;
-    background-image: none;
+    none
     border-radius: 0px;
     /*border: 1px solid #448AFF;*/
     border-radius: 5px;
 }
 
 .confirm {
-    background: #448AFF;
+    #448AFF
 }
 
 .confirm .btn-danger {
@@ -2047,7 +2089,7 @@ ul.categorie-icon {
 
 .monthly-header {
     text-align: center;
-    background: #448AFF;
+    #448AFF
 }
 
 .monthly-day,
@@ -2060,7 +2102,7 @@ ul.categorie-icon {
     border-radius: 0;
     height: 45px;
     width: 50px;
-    background: #448AFF;
+    #448AFF
 }
 
 /*--------------------------------
@@ -2071,7 +2113,13 @@ ul.categorie-icon {
   24.Start Index.html css
 --------------------------------*/
 .index-banner {
-    background: url(../img/index-banner.jpg) no-repeat center fixed;
+    
+background: url(../img/index-banner.jpg) no-repeat center fixed;
+background: -webkit-image-set(url("../img/320w/index-banner_320w.webp") 320w, url("../img/640w/index-banner_640w.webp") 640w, url("../img/1024w/index-banner_1024w.webp") 1024w, url("../img/1920w/index-banner_1920w.webp") 1920w); 
+background: image-set(url("../img/320w/index-banner_320w.webp") 320w, url("../img/640w/index-banner_640w.webp") 640w, url("../img/1024w/index-banner_1024w.webp") 1024w, url("../img/1920w/index-banner_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/320w/index-banner_320w.jpg") 320w, url("../img/640w/index-banner_640w.jpg") 640w, url("../img/1024w/index-banner_1024w.jpg") 1024w, url("../img/1920w/index-banner_1920w.jpg") 1920w);
+background: image-set(url("../img/320w/index-banner_320w.jpg") 320w, url("../img/640w/index-banner_640w.jpg") 640w, url("../img/1024w/index-banner_1024w.jpg") 1024w, url("../img/1920w/index-banner_1920w.jpg") 1920w);
+
     background-size: cover;
     position: relative;
     padding-top: 150px;
@@ -2102,7 +2150,13 @@ ul.categorie-icon {
 }
 
 .demo-box {
-    background: url('../img/demo-bg.png') no-repeat center top;
+    
+background: url('../img/demo-bg.png') no-repeat center top;
+background: -webkit-image-set(url("../img/320w/demo-bg_320w.webp") 320w, url("../img/640w/demo-bg_640w.webp") 640w, url("../img/1024w/demo-bg_1024w.webp") 1024w, url("../img/1920w/demo-bg_1920w.webp") 1920w); 
+background: image-set(url("../img/320w/demo-bg_320w.webp") 320w, url("../img/640w/demo-bg_640w.webp") 640w, url("../img/1024w/demo-bg_1024w.webp") 1024w, url("../img/1920w/demo-bg_1920w.webp") 1920w);
+background: -webkit-image-set(url("../img/320w/demo-bg_320w.png") 320w, url("../img/640w/demo-bg_640w.png") 640w, url("../img/1024w/demo-bg_1024w.png") 1024w, url("../img/1920w/demo-bg_1920w.png") 1920w);
+background: image-set(url("../img/320w/demo-bg_320w.png") 320w, url("../img/640w/demo-bg_640w.png") 640w, url("../img/1024w/demo-bg_1024w.png") 1024w, url("../img/1920w/demo-bg_1920w.png") 1920w);
+
     background-size: cover;
     position: relative;
     width: 400px;
@@ -2157,7 +2211,7 @@ ul.categorie-icon {
     padding: 10px;
     color: #ffffff;
     border-bottom: 10px solid #a1a1a3;
-    background: #41a750;
+    #41a750
 }
 
 .goog-te-combo option::-webkit-scrollbar {
@@ -2165,7 +2219,7 @@ ul.categorie-icon {
 }
 
 .goog-te-combo option:hover {
-    background: #fff !important;
+    #fff !important
     color: #000 !important;
 }
 
@@ -2225,7 +2279,7 @@ body {
 }
 
 .footer-area-bottom {
-    background: #000000 none repeat scroll 0 0;
+    #000000 none repeat scroll 0 0
     padding: 25px 0;
     border-top: 1px solid #000000;
 }
@@ -2237,7 +2291,7 @@ body {
 }
 
 .suscribe-input input {
-    background: transparent;
+    transparent
     border: medium none;
     color: #fff;
     font-size: 15px;
@@ -2250,7 +2304,7 @@ body {
 }
 
 .suscribe-input button {
-    background: #00a651;
+    #00a651
     border: 1px solid #8fd8f8;
     color: #fff;
     font-size: 16px;
@@ -2263,7 +2317,7 @@ body {
 }
 
 .suscribe-input button:hover {
-    background: #fff;
+    #fff
     border: 1px solid #fff;
     color: #fd5f16;
     transition: 0.4s;
@@ -2276,7 +2330,7 @@ body {
 .footer-tags li a:hover,
 .footer-icons ul li a:hover {
     color: #fff;
-    background: #fd5f16;
+    #fd5f16
     border: 1px solid #fd5f16;
 }
 
@@ -2431,7 +2485,7 @@ div#myModal_popup .modal-body {
 
 div#myCarousel a.right.carousel-control,
 div#myCarousel a.left.carousel-control {
-    background-image: unset;
+    unset
 }
 
 span.glyphicon.glyphicon-chevron-right,
@@ -2525,7 +2579,7 @@ button.close {
     /*padding: 0;*/
     /*position: fixed;*/
     /*cursor: pointer;*/
-    /*background: 0 0;*/
+    /*0 0*/
     /*border: 0;*/
     /*-webkit-appearance: none;*/
     position: absolute;
@@ -2534,7 +2588,7 @@ button.close {
   font-size: 20px; /* Optional: Adjust the font size */
   color: #000; /* Optional: Change color */
   z-index: 1051; /* Ensure it appears above modal content */
-  background: transparent; /* Make it blend with modal background */
+  transparent /* Make it blend with modal background */
   border: none; /* Remove any borders */
 }
 

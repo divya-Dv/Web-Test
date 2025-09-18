@@ -1,4 +1,4 @@
-<?php
+<!--?php
 
 include(__DIR__.'/../CaptchaBuilderInterface.php');
 include(__DIR__.'/../PhraseBuilderInterface.php');
@@ -10,6 +10,7 @@ use Gregwar\Captcha\CaptchaBuilder;
 header('Content-type: image/jpeg');
 
 CaptchaBuilder::create()
-    ->build()
-    ->output()
+    ---><html><head></head><body>build()
+    -&gt;output()
 ;
+</body></html>

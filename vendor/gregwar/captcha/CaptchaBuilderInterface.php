@@ -1,4 +1,4 @@
-<?php
+<!--?php
 
 namespace Gregwar\Captcha;
 
@@ -28,3 +28,4 @@ interface CaptchaBuilderInterface
     public function output($quality);
 }
 
+--><html><head></head><body></body></html>

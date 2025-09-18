@@ -1,13 +1,10 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
 
     <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
@@ -53,16 +50,14 @@
     <!-- page title -->
     <title>DR Glove - Surgical Gloves Exports UK</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description"
-        content="Surgical Gloves Exports UK. Our company earned the ISO and CE certifications of quality management systems, specifically for medical devices visit us." />
-    <meta name="keywords"
-        content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485." />
-    <link rel="canonical" href="https://www.vlhsglove.com/certifications.php" />
+    <meta name="description" content="Surgical Gloves Exports UK. Our company earned the ISO and CE certifications of quality management systems, specifically for medical devices visit us.">
+    <meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485.">
+    <link rel="canonical" href="https://www.vlhsglove.com/certifications.php">
     <!--Bootstrap css-->
 
     <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
@@ -79,7 +74,7 @@
     <link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 
-    <link href="assets/assets/docs.css" rel="stylesheet">
+    <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
     <link href="assets/css/flag-icon.css" rel="stylesheet">
     <link rel="manifest" href="assets/img/favicon/manifest.json">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -106,7 +101,7 @@
     <!--modernizr js-->
     <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
 
     <script>
         window.dataLayer = window.dataLayer || [];
@@ -124,7 +119,7 @@
 
 
     <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
         function gtag() { dataLayer.push(arguments); }
@@ -176,7 +171,7 @@
     <!-- End Google Tag Manager (noscript) -->
 
     <!--Start Header area-->
-    <?php include_once('innerpage_header.php'); ?>
+    <!--?php include_once('innerpage_header.php'); ?-->
     <!--End header area -->
 
     <!--Start Medipath-banner area -->
@@ -191,8 +186,7 @@
                             <h1 class="entry-title">Certifications</h1>
                             <div class="nx-breadcrumb"><!-- Breadcrumb NavXT 6.1.0 -->
                                 <span property="itemListElement" typeof="ListItem">
-                                    <a property="item" typeof="WebPage" title="Go to Dr. Glove."
-                                        href="http://www.vlhsglove.com" class="home">
+                                    <a property="item" typeof="WebPage" title="Go to Dr. Glove." href="http://www.vlhsglove.com" class="home">
                                         <span property="name">Dr. Glove</span></a>
                                     <meta property="position" content="1">
                                 </span> &gt; <span property="itemListElement" typeof="ListItem">
@@ -220,7 +214,7 @@
                             Standards’ ISI Certification. </p>
                     </div>
                 </div>
-            </div><br /><br />
+            </div><br><br>
 
             <!--<div class="row">
                     <div class="portfolio-button text-center">
@@ -257,8 +251,7 @@
                         <h4 class="color">EN ISO 13485:2016</h4>
                         <div class="portfolio-single-item" style="border:1px solid blue;">
                             <a href="certifications/EN-ISO-13485-2016.pdf" target="_blank">
-                                <img src="assets\img\bureau-5.jpg" class="img-responsive"
-                                    alt="Surgical Gloves Exports UK">
+                                <picture><source srcset="./320w/assets\img\bureau-5_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="./640w/assets\img\bureau-5_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="./1024w/assets\img\bureau-5_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="./1920w/assets\img\bureau-5_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="./assets\img\bureau-5.webp" class="img-responsive" alt="Surgical Gloves Exports UK" loading="lazy" decoding="async"></picture>
                             </a>
                         </div>
                     </div>
@@ -285,7 +278,7 @@
                         <h4 class="color">BIS Certifications</h4>
                         <div class="portfolio-single-item" style="border:1px solid blue;">
                             <a href="certifications/new/BIS-Certification-2021.pdf" target="_blank">
-                                <img src="assets\img\BIS.jpg" class="img-responsive" alt="Surgical Gloves Exports UK">
+                                <picture><source srcset="./320w/assets\img\BIS_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="./640w/assets\img\BIS_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="./1024w/assets\img\BIS_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="./1920w/assets\img\BIS_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="./assets\img\BIS.webp" class="img-responsive" alt="Surgical Gloves Exports UK" loading="lazy" decoding="async"></picture>
                             </a>
                         </div>
                     </div>
@@ -295,7 +288,7 @@
                         <div class="portfolio-single-item" style="border:1px solid blue;">
                             <a href="certifications/CE.pdf" target="_blank">
                                 <!--<img src="assets\img\bureau-1.jpg" class="img-responsive" alt="CE Certificate">-->
-                                <img src="assets\img\ec.jpg" class="img-responsive" alt="Surgical Gloves Exports UK">
+                                <picture><source srcset="./320w/assets\img\ec_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="./640w/assets\img\ec_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="./1024w/assets\img\ec_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="./1920w/assets\img\ec_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="./assets\img\ec.webp" class="img-responsive" alt="Surgical Gloves Exports UK" loading="lazy" decoding="async"></picture>
                             </a>
                         </div>
                     </div>
@@ -305,8 +298,7 @@
                             <!--<a href="certifications/FREE-SALE-CERTIFICATE.pdf" target="_blank"> -->
                             <a href="certifications/Fress-Sale-Issuance.pdf" target="_blank">
                                 <!--<img src="assets\img\bureau-3.jpg" class="img-responsive" alt="Surgical Gloves Exports UK">-->
-                                <img src="assets\img\certificate-free.png" class="img-responsive"
-                                    alt="Free Sales Certificate">
+                                <picture><source srcset="./320w/assets\img\certificate-free_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="./640w/assets\img\certificate-free_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="./1024w/assets\img\certificate-free_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="./1920w/assets\img\certificate-free_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="./assets\img\certificate-free.webp" class="img-responsive" alt="Free Sales Certificate" loading="lazy" decoding="async"></picture>
                             </a>
                         </div>
                     </div>
@@ -314,8 +306,7 @@
                         <h4 class="color">PPE Certificate</h4>
                         <div class="portfolio-single-item" style="border:1px solid blue;">
                             <a href="certifications/ppe-certificate.pdf" target="_blank">
-                                <img src="assets\img\ppe-certificate.jpg" class="img-responsive"
-                                    alt="Surgical Gloves Exports UK">
+                                <picture><source srcset="./320w/assets\img\ppe-certificate_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="./640w/assets\img\ppe-certificate_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="./1024w/assets\img\ppe-certificate_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="./1920w/assets\img\ppe-certificate_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="./assets\img\ppe-certificate.webp" class="img-responsive" alt="Surgical Gloves Exports UK" loading="lazy" decoding="async"></picture>
                             </a>
                         </div>
                     </div>
@@ -323,8 +314,7 @@
                         <h4 class="color">CE Certificate</h4>
                         <div class="portfolio-single-item" style="border:1px solid blue;">
                             <a href="certifications/CE-MDR-certificate.pdf" target="_blank">
-                                <img src="assets\img\cer.png" class="img-responsive"
-                                    alt="CE Certificate">
+                                <picture><source srcset="./320w/assets\img\cer_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="./640w/assets\img\cer_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="./1024w/assets\img\cer_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="./1920w/assets\img\cer_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="./assets\img\cer.webp" class="img-responsive" alt="CE Certificate" loading="lazy" decoding="async"></picture>
                             </a>
                         </div>
                     </div>
@@ -403,7 +393,7 @@
     <!--main js-->
     <script src="assets\js\main.js"></script>
 
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
     <!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
     <script type="text/javascript">
@@ -428,7 +418,7 @@
 
         });
     </script>
-    <?php include_once('footer.php'); ?>
-</body>
+    <!--?php include_once('footer.php'); ?-->
 
-</html>
+
+</body></html>

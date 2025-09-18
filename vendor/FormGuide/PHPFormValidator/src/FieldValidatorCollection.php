@@ -1,4 +1,4 @@
-<?php
+<!--?php
 namespace FormGuide\PHPFormValidator;
 
 class FieldValidatorCollection
@@ -9,17 +9,17 @@ class FieldValidatorCollection
 
     public function __construct()
     {
-        $this->fields = array();
-        $this->validator_map = include('ValidatorMap.php');     
+        $this---><html><head></head><body>fields = array();
+        $this-&gt;validator_map = include('ValidatorMap.php');     
     }
     
     public function __call($function, $arguments)
     {
-        if(isset($this->validator_map[$function]))
+        if(isset($this-&gt;validator_map[$function]))
         {
-            foreach($this->fields as $field)
+            foreach($this-&gt;fields as $field)
             {
-                $field->initValidator($function, $arguments);   
+                $field-&gt;initValidator($function, $arguments);   
             }
             return $this;
         }
@@ -31,4 +31,4 @@ class FieldValidatorCollection
 
     
 
-}
+}</body></html>

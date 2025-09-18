@@ -1,23 +1,19 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <?php include 'innerpage-toplinks.php' ?>
+    <!--?php include 'innerpage-toplinks.php' ?-->
 
     <!-- End Google Tag Manager -->
     <!-- page title -->
     <title>Surgical Gloves Manufacturer In Kolkata - DR Glove</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description"
-        content="Best Surgical Gloves Manufacturer In Kolkata from Vijaylakshmi health and surgicals pvt ltd we are the manufacturer of quality surgical gloves visit us." />
+    <meta name="description" content="Best Surgical Gloves Manufacturer In Kolkata from Vijaylakshmi health and surgicals pvt ltd we are the manufacturer of quality surgical gloves visit us.">
 
-    <link rel="canonical" href="https://www.vlhsglove.com/surgical-gloves-manufacturer-kolkata.php" />
+    <link rel="canonical" href="https://www.vlhsglove.com/surgical-gloves-manufacturer-kolkata.php">
     <!--Bootstrap css-->
 
 
@@ -35,7 +31,7 @@
             style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include_once('innerpage_header.php');?>
+    <!--?php include_once('innerpage_header.php');?-->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
         <div class="medipath-overlay"></div>
@@ -58,12 +54,12 @@
                                 <!-- Breadcrumb NavXT 6.1.0 -->
                                 <span property="itemListElement" typeof="ListItem">
 
-                            </div>
+                            </span></div>
                         </div>
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
     <!--End Medipath-banner area -->
     <!--start about section -->
     <section class="about section-padding">
@@ -76,10 +72,10 @@
                         <div id="myCarousel" class="carousel slide" data-ride="carousel">
                             <div class="carousel-inner">
                                 <div class="item active">
-                                    <img src="img/prepowder.jpg" alt="Surgical Gloves Manufacturer In Kolkata" style="width:100%;">
+                                    <picture><source srcset="img/320w/prepowder_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/prepowder_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/prepowder_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/prepowder_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/prepowder.webp" alt="Surgical Gloves Manufacturer In Kolkata" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <div class="item">
-                                    <img src="img/prepowder2.jpg" alt="Surgical Gloves Manufacturer In Kolkata" style="width:100%;">
+                                    <picture><source srcset="img/320w/prepowder2_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/640w/prepowder2_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/1024w/prepowder2_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/1920w/prepowder2_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/prepowder2.webp" alt="Surgical Gloves Manufacturer In Kolkata" style="width:100%;" loading="lazy" decoding="async"></picture>
                                 </div>
                                 <!-- Left and right controls -->
                                 <a class="left carousel-control" href="#myCarousel" data-slide="prev">
@@ -147,14 +143,13 @@
                         <p>As a leading <b>surgical gloves manufacturer in Kolkata</b>, VLHS Gloves is proud and humbled
                             to have earned the trust of its stakeholders. Our mission is not only to address pertinent
                             market needs but also to provide the highest standard of care to every patient.</p>
-                        <p style="margin-top: 15px;"><b>Related Link:</b> <a
-                                href="surgical-gloves-manufacturers-ahmedabad.php">Surgical Gloves Manufacturers in
+                        <p style="margin-top: 15px;"><b>Related Link:</b> <a href="surgical-gloves-manufacturers-ahmedabad.php">Surgical Gloves Manufacturers in
                                 Ahmedabad</a>
                         </p>
                     </div>
                 </div>
             </div>
-    </section>
+    </div></section>
 
     <!--Scroll-up-->
     <a id="scroll-up"><i class="fa fa-angle-up"></i></a>
@@ -180,8 +175,7 @@
     <!--main js-->
     <script src="assets/js/main.js"></script>
     <script src="js/main.js"></script>
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b"
-        type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
     <!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
 
@@ -207,8 +201,8 @@
 
     });
     </script>
-    <?php include_once('footer.php');?>
+    <!--?php include_once('footer.php');?-->
 
-</body>
 
-</html>
+
+</body></html>

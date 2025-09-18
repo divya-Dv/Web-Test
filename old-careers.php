@@ -1,11 +1,9 @@
-<!doctype html>
-<html lang="en">
-    <head>
+<!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
-        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+        <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+        <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
         <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -25,14 +23,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!-- page title -->
         <title>"Careers | Vlhsglove | Surgical Gloves Exports to Australia"</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-		<meta name="description" content="Careers. Vlhslove. Surgical Gloves Exports to Australia. We offer gloves for various applications, including food industry, medical & personal protection."/>
-		<meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485."/>
-        <link rel="canonical" href="https://www.vlhsglove.com/careers.php"/>
+		<meta name="description" content="Careers. Vlhslove. Surgical Gloves Exports to Australia. We offer gloves for various applications, including food industry, medical &amp; personal protection.">
+		<meta name="keywords" content="Surgical Gloves, Latex Surgical Golves, Surgical Gloves Manufactures in India, Surgical Gloves Exporters in India, Sterile Surgical Gloves, Sterile Surgical Gloves Manufactures in India, Powder free Gloves, Orthopedic Surgical Gloves, Latex Gloves, Gloves, Doctor Gloves, latexsurgicalgloves-prepowdered, latexexaminationgloves-powdered free, latex examination gloves, nitrile examination gloves, orthopaedic gloves, Surgical gloves manufacturers in india, Examination gloves supplier, surgical gloves manufacturers in Hyderabad / Andhra Pradesh, Latex Surgical gloves, low protein gloves, doctor glove, doctor gloves, Dr.Glove (doctor glove ), surgical gloves india, latex surgical gloves, latex surgical gloves manufacturers, latex gloves manufacturers in india, Surgical gloves manufacturers, latex surgical gloves suppliers, latex gloves india, surgical gloves manufacturers, latex glove suppliers, disposable gloves india, latex hand gloves, sterilized gloves, Sterile Surgical gloves, Non Sterile Surgical Gloves, Orthopedic Gloves, ortho gloves, medical gloves, hand gloves, powder free gloves, en 455 standard, CE 2460, iso 13485.">
+        <link rel="canonical" href="https://www.vlhsglove.com/careers.php">
 		<!--Bootstrap css-->
 		
 		<link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
@@ -44,12 +42,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon/apple-icon-144x144.png">
 		<link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon/apple-icon-152x152.png">
 		<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon/apple-icon-180x180.png">
-		<link rel="icon" type="image/png" sizes="192x192"  href="assets/img/favicon/android-icon-192x192.png">
+		<link rel="icon" type="image/png" sizes="192x192" href="assets/img/favicon/android-icon-192x192.png">
 		<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon/favicon-32x32.png">
 		<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon/favicon-96x96.png">
 		<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 		
-		<link href="assets/assets/docs.css" rel="stylesheet">
+		<link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
         <link href="assets/css/flag-icon.css" rel="stylesheet">
 		<link rel="manifest" href="assets/img/favicon/manifest.json">
 		<meta name="msapplication-TileColor" content="#ffffff">
@@ -77,7 +75,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <!--modernizr js-->
         <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 		
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+		<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -87,7 +85,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 
 		<!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
@@ -136,7 +134,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	   
        
         <!--Start Header area-->
-		 <?php include_once('innerpage_header.php'); ?>
+		 <!--?php include_once('innerpage_header.php'); ?-->
         <!--End header area -->
         <!--Start Medipath-banner area -->
         <section class="medipath-banner">
@@ -171,7 +169,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				 <div class="col-md-12">  
 				 <h3 style="color:#00a651;">Senior Maintenance Engineer (8 to 10 YEARS)</h3>
 				 
-				 <p ><b>Qualification</b> : Should have B.Tech/BE in Mechanical or Diploma in Mechanical &nbsp; <a class="read" href="javascript:void(0);">Read More</a></p>
+				 <p><b>Qualification</b> : Should have B.Tech/BE in Mechanical or Diploma in Mechanical &nbsp; <a class="read" href="javascript:void(0);">Read More</a></p>
 				 <br>
 <div class="moreinfo" style="display:none;">
 				
@@ -258,11 +256,11 @@ the team</li>
 				 <h3>Job Description</h3>
 				 <ul class="list" style="padding-left:30px;">
 				    <li>1. Ensuring the proper and effective implementation of the SOPs pertaining to QMS for production, quality and distribution of product.</li>
-                    <li>2. Conduct physical/chemical & microbiological analyses.</li>
+                    <li>2. Conduct physical/chemical &amp; microbiological analyses.</li>
                     <li>3. Ensuring the compliance of the various parameters points as per Internal Audit Check List.</li>
                     <li>4. Ensure legal compliance.</li>
                     <li>5. Preparation and standardization of volumetric solutions and record updating.</li>
-                    <li>6. Planning & Analysis of routine work related to finished goods product.</li>
+                    <li>6. Planning &amp; Analysis of routine work related to finished goods product.</li>
 				 </ul>
 				 <p><b>Location</b> : Ongole</p>
 				 
@@ -273,12 +271,12 @@ the team</li>
 					<br>
 					<hr>
 					  <h3 style="color:#00a651;">QA ASSISTANT (3+ YEARS)</h3>
-					  <p><b>Key Skills</b> : Quality assurance operational objectives, maintain QMS ISO 13485,excellent verbal & written communication skills are mandatory.  &nbsp; <a class="read4" href="javascript:void(0);">Read More</a></p>
+					  <p><b>Key Skills</b> : Quality assurance operational objectives, maintain QMS ISO 13485,excellent verbal &amp; written communication skills are mandatory.  &nbsp; <a class="read4" href="javascript:void(0);">Read More</a></p>
 					  <div class="moreinfo4" style="display:none;">
 				      <p><b>Education</b> : B.pharma/B.Sc/M.pharma/M.Sc</p>
 				      <h3>Job Description</h3>
 				          <ul class="list" style="padding-left:30px;">
-			                 <li>1. Implementing quality system procedures & standard operating plans for quality operations of product and equipment.</li>
+			                 <li>1. Implementing quality system procedures &amp; standard operating plans for quality operations of product and equipment.</li>
 			                 <li>2. Implementation of Quality Management System ISO 13485.</li>
 			                 <li>3. Preparation of documents and reports for Quality management system as per ISO 13485.</li>
 			                 <li>4. Checking and approval of day to day activities of incoming raw material, packing material, on- line, semi-finished and finished goods as per EN ISO, IS, ASTMD and internal specifications.</li>
@@ -296,7 +294,7 @@ the team</li>
             </div>
         </section><!--End blog-main-area area -->
         <!--start widget-area section -->
-		 <?php include_once('footer.php'); ?>
+		 <!--?php include_once('footer.php'); ?-->
       <!--End footer area -->
         <!--Scroll-up-->
         <a id="scroll-up"><i class="fa fa-angle-up"></i></a>
@@ -322,7 +320,7 @@ the team</li>
         <!--main js-->
         <script src="assets\js\main.js"></script>
         
-                            <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+                            <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
 
 	<script type="text/javascript">
                 $('.translation-links a').on('click', function() {
@@ -373,5 +371,5 @@ $(".read4").click(function () {
 
     });
     </script>
-    </body>
-</html>    
+    
+    </body></html>

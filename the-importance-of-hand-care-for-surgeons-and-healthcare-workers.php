@@ -1,13 +1,10 @@
-<!doctype html>
-<html lang="en">
-
-<head>
+<!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
-    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE" />
-    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE" />
+    <meta name="google-site-verification" content="squNwA1fcVZw3Oe1O4c6hMfgZiVWEVoEyZizbb6JccE">
+    <meta name="google-site-verification" content="1ylhzEElqJXeMpPXmNUK2Y0Jxx7GySZEjiXn9wJqvhE">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-83946647-2"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -19,7 +16,7 @@
         gtag('config', 'UA-83946647-2');
     </script>
     <!-- Global site tag (gtag.js) - Google Ads: 753793562 -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=AW-753793562"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -51,14 +48,14 @@
     <!-- page title -->
     <title>The Important of Hand care for Surgeons and Healthcare workers</title>
 <meta property="og:type" content="website">
-<meta property="og:title" content="Vijayalakshmi Health & Surgicals Pvt Ltd">
+<meta property="og:title" content="Vijayalakshmi Health &amp; Surgicals Pvt Ltd">
 <meta property="og:url" content="https://www.vlhsglove.com/">
 <meta property="og:image" content="https://www.vlhsglove.com/img/prepowder.jpg">
-<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health & Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
+<meta property="og:description" content="Discover the high quality surical gloves from Vijayalakshmi Health &amp; Surgicals Pvt Ltd and get exciting deals on our products visit us for deatils.">
 
-    <meta name="description" content="Latex gloves manufacturers in Chennai at VLHS Glove. Our premium-quality gloves ensure safety and protection in various industries. Explore our range." />
+    <meta name="description" content="Latex gloves manufacturers in Chennai at VLHS Glove. Our premium-quality gloves ensure safety and protection in various industries. Explore our range.">
 
-    <link rel="canonical" href="https://www.vlhsglove.com/the-importance-of-hand-care-for-surgeons-and-healthcare-workers.php" />
+    <link rel="canonical" href="https://www.vlhsglove.com/the-importance-of-hand-care-for-surgeons-and-healthcare-workers.php">
     <!--Bootstrap css-->
 
     <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon/apple-icon-57x57.png">
@@ -76,7 +73,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon/favicon-16x16.png">
 
 
-    <link href="assets/assets/docs.css" rel="stylesheet">
+    <link rel="preload" href="css/style.css" as="style" onload="this.onload=null;this.rel=" stylesheet""=""><link href="assets/assets/docs.css" rel="stylesheet">
     <link href="assets/css/flag-icon.css" rel="stylesheet">
 
     <link rel="manifest" href="assets/img/favicon/manifest.json">
@@ -104,7 +101,7 @@
     <!--modernizr js-->
     <script src="assets\js\vendor\modernizr-3.5.0.min.js"></script>
 
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
+    <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-121999687-1"></script>
     <script>
         window.dataLayer = window.dataLayer || [];
 
@@ -176,7 +173,7 @@
             height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
-    <?php include_once('innerpage_header.php'); ?>
+    <!--?php include_once('innerpage_header.php'); ?-->
     <!--Start Medipath-banner area -->
     <section class="medipath-banner">
         <div class="medipath-overlay"></div>
@@ -221,7 +218,7 @@
                 </div>
                 <div class="col-md-5 img_col" style="padding-top:20px;">
                     <div class="medipath-details-img">
-                        <img src="img/blog/b9.png" class="img-responsive" alt="The Important of Hand care for Surgeons and Healthcare workers" title="The Important of Hand care for Surgeons and Healthcare workers" style="width:100%;">
+                        <picture><source srcset="img/blog/320w/b9_320w.webp" media="(max-width: 320px)" type="image/webp"><source srcset="img/blog/640w/b9_640w.webp" media="(max-width: 640px)" type="image/webp"><source srcset="img/blog/1024w/b9_1024w.webp" media="(max-width: 1024px)" type="image/webp"><source srcset="img/blog/1920w/b9_1920w.webp" media="(max-width: 1920px)" type="image/webp"><img src="img/blog/b9.webp" class="img-responsive" alt="The Important of Hand care for Surgeons and Healthcare workers" title="The Important of Hand care for Surgeons and Healthcare workers" style="width:100%;" loading="lazy" decoding="async"></picture>
 
                     </div>
                 </div>
@@ -254,7 +251,7 @@
     <!--main js-->
     <script src="assets/js/main.js"></script>
     <script src="js/main.js"></script>
-    <script async src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
+    <script async="" src="https://backend.livhousing.com/bot/create-script-tag?token=480feead-2734-41b3-b374-575fc236b28b" type="application/javascript"></script>
     <!--<script id="gls" src="//ls.g-rank.in/ls.js?botid=60&hash=193b82c521e5a0fe843dbd9e697b3505&lsid=19608"></script>-->
 
 
@@ -280,8 +277,8 @@
 
         });
     </script>
-    <?php include_once('footer.php'); ?>
+    <!--?php include_once('footer.php'); ?-->
 
-</body>
 
-</html>
+
+</body></html>

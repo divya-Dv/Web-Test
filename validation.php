@@ -1,4 +1,4 @@
-<?php
+<!--?php
 // Initialize variables to null.
 $name ="";		//Sender Name
 $email =""; 	//Sender's email ID
@@ -53,7 +53,7 @@ if( !($name=='') && !($email=='') && !($purpose=='') &&!($message=='') )
   {// checking valid email
     if (preg_match("/([\w\-]+\@[\w\-]+\.[\w\-]+)/",$email)) {
       
-		$header= $name."<". $email .">";
+		$header= $name."<". $email ."--><html><head></head><body>";
                 $headers = "FormGet.com";
      /* Let's prepare the message for the e-mail */
 		$msg = "Hello! $name
@@ -78,7 +78,7 @@ $msg1 = " $name Contacted Us.
  Message: $message ";
 
 /* Send the message using mail() function */
-  if(mail($email, $headers, $msg ) && mail("kishore@digitalexponents.in", $header, $msg1 ))
+  if(mail($email, $headers, $msg ) &amp;&amp; mail("kishore@digitalexponents.in", $header, $msg1 ))
     {
 	$successMessage = "Message sent successfully.......";
     }
@@ -95,4 +95,5 @@ function test_input($data) {
    return $data;
 }
 
-?>
+?&gt;
+</body></html>
