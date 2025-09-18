@@ -4,6 +4,7 @@ const path = require("path");
 const glob = require("glob");
 const cheerio = require("cheerio");
 //const { minify: minifyHtml } = require("html-minifier-terser");
+const { minify: minifyHtml } = require("html-minifier-terser");
 const postcss = require("postcss");
 const purgecss = require("@fullhuman/postcss-purgecss");
 const cssnano = require("cssnano");
@@ -161,6 +162,7 @@ async function main() {
   await ensureOut();
   await copyStatic();
   //await minifyHtmlPhpFiles();
+  await minifyHtmlPhpFiles();
   await processCssFiles();
   await minifyJsFiles();
   await optimizeImages();

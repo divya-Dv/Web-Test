@@ -25,6 +25,7 @@ jobs:
       - name: Install dependencies
         run: |
           npm install -g html-minifier-terser clean-css-cli terser cheerio sharp
+          npm install -g html-minifier-terser clean-css-cli terser purgecss cheerio sharp
           npm install @squoosh/cli@0.7.1
           npm ci --prefer-offline --no-audit
 
@@ -74,6 +75,40 @@ jobs:
       #           --rejected
       #       done
       #     fi
+      - name: Minify HTML and PHP files
+        run: |
+          cd optimized
+          find . \( -iname "*.html" -o -iname "*.php" \) -type f | while read -r file; do
+            if [ -f "$file" ]; then
+              echo "Minifying $file"
+              html-minifier-terser \
+                --collapse-whitespace \
+                --remove-comments \
+                --remove-optional-tags \
+                --remove-redundant-attributes \
+                --remove-script-type-attributes \
+                --remove-tag-whitespace \
+                --use-short-doctype \
+                --minify-js true \
+                --minify-css true \
+                "$file" \
+                --output "$file"
+            fi
+          done
+
+      - name: Purge unused CSS
+        run: |
+          cd optimized
+          if [ -d css ]; then
+            find css -iname "*.css" | while read -r file; do
+              echo "Purging CSS: $file"
+              purgecss \
+                --css "$file" \
+                --content "**/*.php" "**/*.html" "**/*.js" \
+                --output "$(dirname "$file")" \
+                --rejected
+            done
+          fi
 
       - name: Minify CSS
         run: |
